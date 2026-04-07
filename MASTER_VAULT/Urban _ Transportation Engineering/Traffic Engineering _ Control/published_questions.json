@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Enoscope used for spot speed study is a",
+        "options": {
+            "a": "manual counter",
+            "b": "automatic recorder",
+            "c": "electronic",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Postcard survey may be used to study",
+        "options": {
+            "a": "spot speed study",
+            "b": "speed and delay study",
+            "c": "origin destination study",
+            "d": "parking studies"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Traffic volume, its directional distribution and its composition. The traffic volume is the number of vehicles moving in a specified direction on a roadway that passes a given point during specified unit of time. The design of a highway should be based on the factual data about traffic volume, its directional distribution and its composition. The most important items in the study of traffic volume are average daily traffic, peak hour traffic and the traffic projection factor. The Average Daily Traffic  (A.D.T.) is defined as the average number of vehicles per day passing on a section of the road during a particular year. For design purposes, a reasonable hourly volume (design hourly volume or D.H.V.) which represents a volume higher than the volume during most of the hours in a year, should be taken. Highway Engineering In order to take into consideration the future needs of traffic over a period of 20\u201325 years, which is taken as the normal life of a highway, it is essential to know the development of traffic and its ultimate volume at the end of the design period. Though it is not possible to project the traffic to some future year exactly, yet a reasonably exact value can be arrived by considering the following elements:",
+        "options": {
+            "a": "Current traffic, made up of existing traffic and diverted traffic.",
+            "b": "Increase in traffic due to normal traffic growth, generated traffic and development traffic.",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Traffic capacity. The traffic capacity or highway capacity may be defined as the total number of vehicles that can pass a given point on the highway in a unit period of time. The highway or traffic density is defined as the total number of vehicles that can be accommodated on a unit length of the road. In a mixed traffic flow, the traffic capacity is generally expressed as Passenger Car Unit (PCU) per hour and the traffic density as PCU per kilometre length of lane. The highway capacity, depending upon a number of prevailing roadway and traffic conditions, are as follows:",
+        "options": {
+            "a": "Basic capacity. The basic capacity is the maximum number of passenger cars that can pass a given point on a",
+            "b": "Possible capacity. The possible capacity is the maximum number of vehicles that can pass a given point on a lane",
+            "c": "Practical capacity. The practical capacity is the maximum number of vehicles that can pass a given point on a",
+            "d": "Design capacity. It is the practical capacity or a smaller value determined for use in designing the highway to"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The traffic volume is equal to",
+        "options": {
+            "a": "traffic density",
+            "b": "",
+            "c": "traffic density \u00d7 traffic speed",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "There are 40 vehicles on a 1 km length of lane of a roadway at a given instant. It is",
+        "options": {
+            "a": "practical traffic capacity",
+            "b": "traffic density",
+            "c": "traffic volume",
+            "d": "basic traffic capacity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The increase in traffic volume, due to the general increase in the number of transport vehicles, from year to year, is known as",
+        "options": {
+            "a": "normal traffic growth",
+            "b": "generated traffic",
+            "c": "development traffic",
+            "d": "existing traffic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "As per IRC recommendations, traffic volume study is carried out for rural roads for ................. days continuously during harvesting and lean season.",
+        "options": {
+            "a": "7",
+            "b": "14",
+            "c": "21",
+            "d": "28"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Which of the following statement is correct ?",
+        "options": {
+            "a": "\u0007Seasonal cycle of traffic volume during April and",
+            "b": "Mid-summer seasonal cycle of traffic is the least",
+            "c": "Mid-winter seasonal cycle of traffic is the highest",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The highway capacity is expressed in passenger car unit (PCU). According to IRC, for a passenger car, the PCU is",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The traffic capacity of a highway is always ................. as compared to traffic volume.",
+        "options": {
+            "a": "equal",
+            "b": "more",
+            "c": "less",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The number of vehicles passing at a point on the highway in unit time is known as",
+        "options": {
+            "a": "traffic capacity",
+            "b": "traffic volume",
+            "c": "traffic density",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The traffic census is carried out to study",
+        "options": {
+            "a": "speed and delay",
+            "b": "traffic volume",
+            "c": "road parking",
+            "d": "origin and destination"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Enoscope used for spot speed study is a [Set Variant 1]",
+        "options": {
+            "a": "manual counter",
+            "b": "automatic recorder",
+            "c": "electronic",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Postcard survey may be used to study [Set Variant 2]",
+        "options": {
+            "a": "spot speed study",
+            "b": "speed and delay study",
+            "c": "origin destination study",
+            "d": "parking studies"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Traffic volume, its directional distribution and its composition. The traffic volume is the number of vehicles moving in a specified direction on a roadway that passes a given point during specified unit of time. The design of a highway should be based on the factual data about traffic volume, its directional distribution and its composition. The most important items in the study of traffic volume are average daily traffic, peak hour traffic and the traffic projection factor. The Average Daily Traffic  (A.D.T.) is defined as the average number of vehicles per day passing on a section of the road during a particular year. For design purposes, a reasonable hourly volume (design hourly volume or D.H.V.) which represents a volume higher than the volume during most of the hours in a year, should be taken. Highway Engineering In order to take into consideration the future needs of traffic over a period of 20\u201325 years, which is taken as the normal life of a highway, it is essential to know the development of traffic and its ultimate volume at the end of the design period. Though it is not possible to project the traffic to some future year exactly, yet a reasonably exact value can be arrived by considering the following elements: [Set Variant 3]",
+        "options": {
+            "a": "Current traffic, made up of existing traffic and diverted traffic.",
+            "b": "Increase in traffic due to normal traffic growth, generated traffic and development traffic.",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Traffic capacity. The traffic capacity or highway capacity may be defined as the total number of vehicles that can pass a given point on the highway in a unit period of time. The highway or traffic density is defined as the total number of vehicles that can be accommodated on a unit length of the road. In a mixed traffic flow, the traffic capacity is generally expressed as Passenger Car Unit (PCU) per hour and the traffic density as PCU per kilometre length of lane. The highway capacity, depending upon a number of prevailing roadway and traffic conditions, are as follows: [Set Variant 4]",
+        "options": {
+            "a": "Basic capacity. The basic capacity is the maximum number of passenger cars that can pass a given point on a",
+            "b": "Possible capacity. The possible capacity is the maximum number of vehicles that can pass a given point on a lane",
+            "c": "Practical capacity. The practical capacity is the maximum number of vehicles that can pass a given point on a",
+            "d": "Design capacity. It is the practical capacity or a smaller value determined for use in designing the highway to"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The traffic volume is equal to [Set Variant 5]",
+        "options": {
+            "a": "traffic density",
+            "b": "",
+            "c": "traffic density \u00d7 traffic speed",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "There are 40 vehicles on a 1 km length of lane of a roadway at a given instant. It is [Set Variant 6]",
+        "options": {
+            "a": "practical traffic capacity",
+            "b": "traffic density",
+            "c": "traffic volume",
+            "d": "basic traffic capacity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The increase in traffic volume, due to the general increase in the number of transport vehicles, from year to year, is known as [Set Variant 7]",
+        "options": {
+            "a": "normal traffic growth",
+            "b": "generated traffic",
+            "c": "development traffic",
+            "d": "existing traffic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "As per IRC recommendations, traffic volume study is carried out for rural roads for ................. days continuously during harvesting and lean season. [Set Variant 8]",
+        "options": {
+            "a": "7",
+            "b": "14",
+            "c": "21",
+            "d": "28"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "Which of the following statement is correct ? [Set Variant 9]",
+        "options": {
+            "a": "\u0007Seasonal cycle of traffic volume during April and",
+            "b": "Mid-summer seasonal cycle of traffic is the least",
+            "c": "Mid-winter seasonal cycle of traffic is the highest",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The highway capacity is expressed in passenger car unit (PCU). According to IRC, for a passenger car, the PCU is [Set Variant 10]",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The traffic capacity of a highway is always ................. as compared to traffic volume. [Set Variant 11]",
+        "options": {
+            "a": "equal",
+            "b": "more",
+            "c": "less",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Traffic Engineering & Control",
+        "question": "The number of vehicles passing at a point on the highway in unit time is known as [Set Variant 12]",
+        "options": {
+            "a": "traffic capacity",
+            "b": "traffic volume",
+            "c": "traffic density",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    }
+]

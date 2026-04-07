@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based MCQ",
+        "question": "The point through which the whole weight of the body acts, irrespective of its position, is known as:",
+        "options": {
+            "a": "Center of mass",
+            "b": "Center of gravity",
+            "c": "Centroid",
+            "d": "Center of percussion"
+        },
+        "correct_answer": "b",
+        "explanation": "The Center of Gravity (CG) is the theoretical point where the entire weight of a body is considered to be concentrated.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based MCQ",
+        "question": "For a symmetrical body, the center of gravity always lies on:",
+        "options": {
+            "a": "The axis of symmetry",
+            "b": "The boundary of the body",
+            "c": "The highest point of the body",
+            "d": "The intersection of the diagonals only"
+        },
+        "correct_answer": "a",
+        "explanation": "If a body has an axis of symmetry, its center of gravity will always lie on that axis.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical / Problem-based",
+        "question": "What is the center of gravity of a solid cone of height 'h' from its base?",
+        "options": {
+            "a": "h/2",
+            "b": "h/3",
+            "c": "h/4",
+            "d": "2h/3"
+        },
+        "correct_answer": "c",
+        "explanation": "The CG of a solid right circular cone of height h is situated on its axis of symmetry at a distance of h/4 from the base.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): The centroid of a triangle is located at the intersection of its medians.\nReason (R): The centroid divides each median in a 2:1 ratio from the vertex.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "The geometrical property of a triangle is that medians intersect at the centroid, which inherently breaks the median into a 2:1 segment ratio.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Match the Following",
+        "question": "Match the plane figure (List I) with its Centroid distance from the base (List II):\nList I\nP. Rectangle (height h)\nQ. Triangle (height h)\nR. Semicircle (radius r)\n\nList II\n1. 4r/3\u03c0\n2. h/3\n3. h/2",
+        "options": {
+            "a": "P-3, Q-2, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-2, Q-3, R-1",
+            "d": "P-3, Q-1, R-2"
+        },
+        "correct_answer": "a",
+        "explanation": "Rectangle = h/2. Triangle = h/3. Semicircle = 4r/3\u03c0 distance from the diametral base.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Statement Combination",
+        "question": "Which of the following statements about Moment of Inertia (MI) are correct?\n1. It is the second moment of area.\n2. The unit of MI is m\u00b3.\n3. The MI of a section about its neutral axis is used to calculate bending stress.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "c",
+        "explanation": "Statement 2 is wrong; the unit of MI of area is m\u2074 (or mm\u2074). Statements 1 and 3 reflect accurate TNPSC mechanical fundamentals.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Diagram-based",
+        "question": "According to the Parallel Axis Theorem, the moment of inertia (I) about an axis parallel to the centroidal axis (IG) at a distance 'h' is given by:",
+        "options": {
+            "a": "I = IG + Ah",
+            "b": "I = IG + Ah\u00b2",
+            "c": "I = IG - Ah\u00b2",
+            "d": "I = Ah\u00b2 / IG"
+        },
+        "correct_answer": "b",
+        "explanation": "The theorem of parallel axes states that I = IG + Ah\u00b2, where A is the area of the section and h is the distance separating the parallel axes.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical / Problem-based",
+        "question": "What is the moment of inertia of a rectangular cross-section of width 'b' and depth 'd' about its centroidal axis parallel to the width?",
+        "options": {
+            "a": "db\u00b3/12",
+            "b": "bd\u00b3/12",
+            "c": "bd\u00b3/3",
+            "d": "db\u00b3/3"
+        },
+        "correct_answer": "b",
+        "explanation": "For a rectangle b \u00d7 d, the MI about the centroidal X-X axis (horizontal, parallel to b) is given as (bd\u00b3)/12.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based MCQ",
+        "question": "Radius of gyration (k) of an area 'A' with moment of inertia 'I' is determined by the relation:",
+        "options": {
+            "a": "k = I/A",
+            "b": "k = \u221a(I/A)",
+            "c": "k = (I/A)\u00b2",
+            "d": "k = \u221a(A/I)"
+        },
+        "correct_answer": "b",
+        "explanation": "By definition, I = Ak\u00b2. Therefore, the radius of gyration is k = \u221a(I/A).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical / Problem-based",
+        "question": "Calculate the polar moment of inertia for a solid circular shaft of diameter 'd'.",
+        "options": {
+            "a": "\u03c0d\u2074/64",
+            "b": "\u03c0d\u2074/32",
+            "c": "\u03c0d\u00b3/16",
+            "d": "\u03c0d\u00b3/32"
+        },
+        "correct_answer": "b",
+        "explanation": "By the perpendicular axis theorem, J (Polar MI) = Ixx + Iyy. Since Ixx = Iyy = \u03c0d\u2074/64, J = 2 * (\u03c0d\u2074/64) = \u03c0d\u2074/32.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): The polar moment of inertia is equal to the sum of moments of inertia about two mutually perpendicular centroidal axes in the same plane.\nReason (R): This is essentially the statement of the Perpendicular Axis Theorem.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "The Perpendicular Axis Theorem strictly says Izz = Ixx + Iyy for planar figures. This perfectly defines the polar moment of inertia.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Statement Combination",
+        "question": "Which of the following has a centroid NOT located within the material body itself?",
+        "options": {
+            "a": "Solid sphere",
+            "b": "Solid cylinder",
+            "c": "Annular ring",
+            "d": "Cone"
+        },
+        "correct_answer": "c",
+        "explanation": "The centroid of an annular ring lies exactly at its center, which is the empty hollow space. Thus, it is located physically outside the actual material.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Match the Following",
+        "question": "Match the Solid (List I) with its Center of Gravity from the base (List II):\nList I\nP. Hemisphere (radius r)\nQ. Solid Cone (height h)\nR. Cylinder (height h)\n\nList II\n1. h/2\n2. 3r/8\n3. h/4",
+        "options": {
+            "a": "P-3, Q-2, R-1",
+            "b": "P-2, Q-3, R-1",
+            "c": "P-1, Q-2, R-3",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "b",
+        "explanation": "Solid hemisphere CG = 3r/8 from base. Solid Cone CG = h/4 from base. Cylinder CG = h/2 from base.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based MCQ",
+        "question": "The center of gravity of a thin hollow cone of height 'h' lies on the axis of symmetry at a distance of _____ from the base.",
+        "options": {
+            "a": "h/2",
+            "b": "h/3",
+            "c": "h/4",
+            "d": "3h/4"
+        },
+        "correct_answer": "b",
+        "explanation": "For a hollow (sheet metal) cone, the mass is distributed along the surface area, pushing the CG higher to h/3 compared to a solid cone's h/4.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical / Problem-based",
+        "question": "The moment of inertia of a triangle of base 'b' and height 'h' about an axis passing through its base is:",
+        "options": {
+            "a": "bh\u00b3/36",
+            "b": "bh\u00b3/12",
+            "c": "bh\u00b3/4",
+            "d": "bh\u00b3/8"
+        },
+        "correct_answer": "b",
+        "explanation": "MI of a triangle about its centroidal axis parallel to the base is bh\u00b3/36. By parallel axis theorem to the base (distance h/3): I_base = bh\u00b3/36 + (bh/2)*(h/3)\u00b2 = bh\u00b3/12.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Diagram-based",
+        "question": "In a T-section, the centroidal axis passes:",
+        "options": {
+            "a": "Exactly through the junction of the web and flange",
+            "b": "Closer to the thicker/wider flange",
+            "c": "At exactly half the total depth",
+            "d": "Closer to the bottom of the web"
+        },
+        "correct_answer": "b",
+        "explanation": "The centroid of any composite planar surface shifts towards the portion with the greater concentration of area.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based MCQ",
+        "question": "The product of inertia (Ixy) of a section that has an axis of symmetry is always:",
+        "options": {
+            "a": "Maximum",
+            "b": "Minimum",
+            "c": "Zero",
+            "d": "Equal to polar moment of inertia"
+        },
+        "correct_answer": "c",
+        "explanation": "If a planar area possesses at least one axis of symmetry, then the product of inertia regarding orthogonal axes, one of which is the axis of symmetry, evaluates strictly to zero (because areas cancel out on opposite sides).",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): The Centroid and the Center of Mass of a body are always situated at the exact same point.\nReason (R): For bodies composed of a perfectly uniform homogeneous material, area-based centroid and mass-based center perfectly coincide.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "d",
+        "explanation": "A is false because they do NOT 'always' coincide. They only coincide when density is uniform throughout (as stated correctly in R).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical / Problem-based",
+        "question": "A square section has purely a side dimension of 'a'. Its polar moment of inertia about its centroid is:",
+        "options": {
+            "a": "a\u2074/12",
+            "b": "a\u2074/6",
+            "c": "a\u2074/3",
+            "d": "a\u2074/4"
+        },
+        "correct_answer": "b",
+        "explanation": "Ixx = a * a\u00b3 / 12 = a\u2074/12. Iyy = a * a\u00b3 / 12 = a\u2074/12. Polar MI (J) = Ixx + Iyy = 2a\u2074/12 = a\u2074/6.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Statement Combination",
+        "question": "Determine the correct relations for the Centroid (y\u0304) of standard simple elements bounded by curves:\n1. Area of parabola = (2/3)*base*height\n2. Centroid of a quarter circular arc from center = 2r/\u03c0",
+        "options": {
+            "a": "1 only",
+            "b": "2 only",
+            "c": "Both 1 and 2",
+            "d": "Neither 1 nor 2"
+        },
+        "correct_answer": "c",
+        "explanation": "The enclosing area of a standard parabola is 2/3 * b * h. And the centroid length properties for a quarter wire arc along the symmetry axis translates to x=y=2r/\u03c0.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Match the Following",
+        "question": "Match the Moment of Inertia (List I) for standard shapes (List II) about centroidal axis parallel to base:\nList I\nP. bd\u00b3/36\nQ. \u03c0d\u2074/64\nR. bd\u00b3/12\n\nList II\n1. Circle\n2. Rectangle\n3. Triangle",
+        "options": {
+            "a": "P-3, Q-1, R-2",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-2, Q-3, R-1",
+            "d": "P-3, Q-2, R-1"
+        },
+        "correct_answer": "a",
+        "explanation": "Triangle MI centroidal = bd\u00b3/36. Circle = \u03c0d\u2074/64. Rectangle = bd\u00b3/12.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based MCQ",
+        "question": "The principal axes of a cross section are precisely defined as the axes about which:",
+        "options": {
+            "a": "The moments of inertia are equal",
+            "b": "The product of inertia is zero",
+            "c": "The bending stress is maximum",
+            "d": "The shear stress is zero"
+        },
+        "correct_answer": "b",
+        "explanation": "Principal axes are strictly defined as the mutually perpendicular axes where the Product of Inertia (Ixy) vanishes (is exactly zero). Consequently, the principal MIs (Imax and Imin) occur around these axes.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): The mass moment of inertia describes a body's resistance to angular acceleration.\nReason (R): It is analogous to mass in translational motion.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Mass moment of inertia (I = \u222br\u00b2dm) is the precise rotational equivalent of linear mass. M = I\u03b1 is the rotational counterpart of F = ma.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical / Problem-based",
+        "question": "A hollow circular pipe has an external diameter D and internal diameter d. Its polar moment of inertia is:",
+        "options": {
+            "a": "\u03c0(D\u2074 - d\u2074)/64",
+            "b": "\u03c0(D\u2074 - d\u2074)/32",
+            "c": "\u03c0(D\u00b3 - d\u00b3)/32",
+            "d": "\u03c0(D - d)\u2074/32"
+        },
+        "correct_answer": "b",
+        "explanation": "For a solid shaft J = \u03c0D\u2074/32. For a hollow pipe, we subtract the inner missing core: J = (\u03c0D\u2074/32) - (\u03c0d\u2074/32) = \u03c0(D\u2074 - d\u2074)/32.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Statement Combination",
+        "question": "Which properties remain valid under the Theorem of Perpendicular Axes? (Assuming a planar lamina taking x,y axes in plane and z perpendicular)\n1. Iz = Ix + Iy\n2. It applies to solid 3D volumes.\n3. The axes can be at any non-orthogonal angle.",
+        "options": {
+            "a": "1 only",
+            "b": "1 and 2 only",
+            "c": "1 and 3 only",
+            "d": "2 and 3 only"
+        },
+        "correct_answer": "a",
+        "explanation": "The theorem strictly requires the body to be a planar 2D lamina (not solid volume) and the axes MUST be mutually perpendicular (orthogonal) yielding Iz = Ix + Iy.",
+        "difficulty": "Medium"
+    }
+]

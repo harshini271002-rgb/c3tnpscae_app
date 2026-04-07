@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Limit State Method (LSM) This is a comprehensive method which takes care of the structure not only for its safety but its fitness throughout the period of service. Various limit states to be considered are:",
+        "options": {
+            "a": "Limit states of collapse: Tension, compression, flexure, tension and shear.",
+            "b": "Limit states of serviceability: Limit states of deflection and cracking.",
+            "c": "Other limit states: Limit states of vibration, fire resistance, chemical and environmental actions,",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factors for dead load and imposed load combination for limit state of serviceability are",
+        "options": {
+            "a": "1.0 and 1.0",
+            "b": "1.5 and 1.5",
+            "c": "1.2 and 1.2",
+            "d": "1.0 and 0.8"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for dead load, imposed load and wind load for limit state of collapse are respectively",
+        "options": {
+            "a": "1.5, 1.5, 1.0",
+            "b": "1.5, 1.2, 1.0",
+            "c": "1.2, 1.2, 1.5",
+            "d": "1.2, 1.2, 1.2"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for steel for limit state of collapse is",
+        "options": {
+            "a": "1.0",
+            "b": "1.15",
+            "c": "1.2",
+            "d": "1.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for steel for limit state of deflection is",
+        "options": {
+            "a": "1.0",
+            "b": "1.15",
+            "c": "1.2",
+            "d": "1.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "IS 456\u20132000 recommends that the unsupported length of any column should not exceed ______ times the least lateral dimension of the column.",
+        "options": {
+            "a": "15",
+            "b": "25",
+            "c": "36",
+            "d": "60"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "In limit state design as per IS recommendation when minimum eccentricity does not exceed 0.05 times the lateral dimension, the factored load carrying capacity of the column with usual notation is",
+        "options": {
+            "a": "Pu = 0.4 fck Ac + 0.67 fy Asc",
+            "b": "Pu = 0.45 fck Ac + fy Asc",
+            "c": "Pu = 0.445 fck + 0.67 fy Asc",
+            "d": "Pu = 0.67 fck Ac + 0.87 fy Asc"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Which one of the following is not limit state of serviceability?",
+        "options": {
+            "a": "Vibration",
+            "b": "Corrosion",
+            "c": "Loss of stability",
+            "d": "Fire"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factors for dead load and live load for limit state of strength are",
+        "options": {
+            "a": "1.5 and 1.5",
+            "b": "1.5 and 1.0",
+            "c": "1.5 and 1.05",
+            "d": "1.0 and 1.05"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for limit state of serviceability for live load and dead load are",
+        "options": {
+            "a": "1.5 and 1.3",
+            "b": "1.5 and 1.2",
+            "c": "1.2 and 1.0",
+            "d": "1.0 and 1.0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for shop welding and field welding are",
+        "options": {
+            "a": "1 to 1.5 mm",
+            "b": "1.5 to 2 mm",
+            "c": "2\u20133 mm",
+            "d": "3\u20134.5 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "For HSFG bolts, partial safety factor designed at service load and at ultimate load are respectively",
+        "options": {
+            "a": "1.10 and 1.25",
+            "b": "1.2 and 1.4",
+            "c": "1.25 and 1.4",
+            "d": "1.25 and 1.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "The percentage of steel for balanced section of a singly reinforced rectangular section by limit state method depends on",
+        "options": {
+            "a": "*Characteristic strength of concrete",
+            "b": "Yield strength of steel",
+            "c": "Modulus of elasticity of steel",
+            "d": "Geometry of the section"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Which of the following methods aim for a comprehensive and rational solution to the design of R.C.C. structure by considering safety at ultimate loads and serviceability at working loads?",
+        "options": {
+            "a": "Limit state method",
+            "b": "Working stress method",
+            "c": "Direct design method",
+            "d": "Ultimate load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Limit State Method (LSM) This is a comprehensive method which takes care of the structure not only for its safety but its fitness throughout the period of service. Various limit states to be considered are: [Set Variant 1]",
+        "options": {
+            "a": "Limit states of collapse: Tension, compression, flexure, tension and shear.",
+            "b": "Limit states of serviceability: Limit states of deflection and cracking.",
+            "c": "Other limit states: Limit states of vibration, fire resistance, chemical and environmental actions,",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factors for dead load and imposed load combination for limit state of serviceability are [Set Variant 2]",
+        "options": {
+            "a": "1.0 and 1.0",
+            "b": "1.5 and 1.5",
+            "c": "1.2 and 1.2",
+            "d": "1.0 and 0.8"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for dead load, imposed load and wind load for limit state of collapse are respectively [Set Variant 3]",
+        "options": {
+            "a": "1.5, 1.5, 1.0",
+            "b": "1.5, 1.2, 1.0",
+            "c": "1.2, 1.2, 1.5",
+            "d": "1.2, 1.2, 1.2"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for steel for limit state of collapse is [Set Variant 4]",
+        "options": {
+            "a": "1.0",
+            "b": "1.15",
+            "c": "1.2",
+            "d": "1.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for steel for limit state of deflection is [Set Variant 5]",
+        "options": {
+            "a": "1.0",
+            "b": "1.15",
+            "c": "1.2",
+            "d": "1.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "IS 456\u20132000 recommends that the unsupported length of any column should not exceed ______ times the least lateral dimension of the column. [Set Variant 6]",
+        "options": {
+            "a": "15",
+            "b": "25",
+            "c": "36",
+            "d": "60"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "In limit state design as per IS recommendation when minimum eccentricity does not exceed 0.05 times the lateral dimension, the factored load carrying capacity of the column with usual notation is [Set Variant 7]",
+        "options": {
+            "a": "Pu = 0.4 fck Ac + 0.67 fy Asc",
+            "b": "Pu = 0.45 fck Ac + fy Asc",
+            "c": "Pu = 0.445 fck + 0.67 fy Asc",
+            "d": "Pu = 0.67 fck Ac + 0.87 fy Asc"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Which one of the following is not limit state of serviceability? [Set Variant 8]",
+        "options": {
+            "a": "Vibration",
+            "b": "Corrosion",
+            "c": "Loss of stability",
+            "d": "Fire"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factors for dead load and live load for limit state of strength are [Set Variant 9]",
+        "options": {
+            "a": "1.5 and 1.5",
+            "b": "1.5 and 1.0",
+            "c": "1.5 and 1.05",
+            "d": "1.0 and 1.05"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for limit state of serviceability for live load and dead load are [Set Variant 10]",
+        "options": {
+            "a": "1.5 and 1.3",
+            "b": "1.5 and 1.2",
+            "c": "1.2 and 1.0",
+            "d": "1.0 and 1.0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Limit State Method (RCC)",
+        "question": "Partial safety factor for shop welding and field welding are [Set Variant 11]",
+        "options": {
+            "a": "1 to 1.5 mm",
+            "b": "1.5 to 2 mm",
+            "c": "2\u20133 mm",
+            "d": "3\u20134.5 mm"
+        },
+        "correct_answer": "a"
+    }
+]

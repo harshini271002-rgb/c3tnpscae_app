@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Formula-based",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #1] In a truly two-dimensional state of stress strictly defined by normal vectors \u03c3x and \u03c3y, the geometric radius of Mohr's circle is correctly defined as:",
+        "options": {
+            "a": "((\u03c3x+\u03c3y)/2)",
+            "b": "\u221a[\u03c3x\u00b2 + \u03c3y\u00b2]",
+            "c": "((\u03c3x-\u03c3y)/2)",
+            "d": "\u221a[((\u03c3x-\u03c3y)/2)\u00b2 + \u03c4xy\u00b2]"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Match the Following",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #2] Match complex Failure Theory (List I) with its most appropriate application material criterion (List II):\nP. Maximum Principal Stress (Rankine)\nQ. Maximum Distortion Energy (Von Mises)\nR. Maximum Shear Stress (Tresca)\n\n1. Ductile materials (most accurate prediction)\n2. Brittle structural materials\n3. Ductile materials (conservative prediction)",
+        "options": {
+            "a": "P-2, Q-1, R-3",
+            "b": "P-3, Q-1, R-2",
+            "c": "P-1, Q-2, R-3",
+            "d": "P-2, Q-3, R-1"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Theory-based",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #3] The fundamental planes intersecting a physical stress block on which the shear stress is completely zero are rigidly defined as the:",
+        "options": {
+            "a": "Planes of maximum shear",
+            "b": "Principal planes",
+            "c": "Neutral planes",
+            "d": "Isotropic slip planes"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #4] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 130 MPa and \u03c32 = 55 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "92.5 MPa",
+            "b": "141.16 MPa",
+            "c": "75 MPa",
+            "d": "37.5 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #5] A body mathematically experiences \u03c3x = 100 MPa, \u03c3y = 28 MPa, and highly specific shear stress \u03c4xy = 48 MPa. The precise radius of its Mohr's circle is:",
+        "options": {
+            "a": "60.0 MPa",
+            "b": "64.0 MPa",
+            "c": "48 MPa",
+            "d": "103.85 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #6] For an element rigidly under pure normal stresses \u03c3x = 200 MPa (tension) and \u03c3y = 75 MPa (compression) with zero shear. The exact center coordinate point of its Mohr's circle on the normal stress axis is:",
+        "options": {
+            "a": "200 MPa",
+            "b": "137.5 MPa",
+            "c": "62.5 MPa",
+            "d": "75 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #7] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 160 MPa and \u03c32 = 70 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "115.0 MPa",
+            "b": "45.0 MPa",
+            "c": "90 MPa",
+            "d": "174.64 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #8] A body mathematically experiences \u03c3x = 115 MPa, \u03c3y = 34 MPa, and highly specific shear stress \u03c4xy = 54 MPa. The precise radius of its Mohr's circle is:",
+        "options": {
+            "a": "54 MPa",
+            "b": "74.5 MPa",
+            "c": "119.92 MPa",
+            "d": "67.5 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #9] For an element rigidly under pure normal stresses \u03c3x = 230 MPa (tension) and \u03c3y = 90 MPa (compression) with zero shear. The exact center coordinate point of its Mohr's circle on the normal stress axis is:",
+        "options": {
+            "a": "70.0 MPa",
+            "b": "160.0 MPa",
+            "c": "90 MPa",
+            "d": "230 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #10] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 190 MPa and \u03c32 = 85 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "52.5 MPa",
+            "b": "137.5 MPa",
+            "c": "105 MPa",
+            "d": "208.15 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #11] A body mathematically experiences \u03c3x = 130 MPa, \u03c3y = 40 MPa, and highly specific shear stress \u03c4xy = 60 MPa. The precise radius of its Mohr's circle is:",
+        "options": {
+            "a": "75.0 MPa",
+            "b": "85.0 MPa",
+            "c": "60 MPa",
+            "d": "136.01 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #12] For an element rigidly under pure normal stresses \u03c3x = 260 MPa (tension) and \u03c3y = 105 MPa (compression) with zero shear. The exact center coordinate point of its Mohr's circle on the normal stress axis is:",
+        "options": {
+            "a": "77.5 MPa",
+            "b": "260 MPa",
+            "c": "105 MPa",
+            "d": "182.5 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #13] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 220 MPa and \u03c32 = 100 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "60.0 MPa",
+            "b": "160.0 MPa",
+            "c": "241.66 MPa",
+            "d": "120 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #14] A body mathematically experiences \u03c3x = 145 MPa, \u03c3y = 46 MPa, and highly specific shear stress \u03c4xy = 66 MPa. The precise radius of its Mohr's circle is:",
+        "options": {
+            "a": "152.12 MPa",
+            "b": "95.5 MPa",
+            "c": "66 MPa",
+            "d": "82.5 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #15] For an element rigidly under pure normal stresses \u03c3x = 290 MPa (tension) and \u03c3y = 120 MPa (compression) with zero shear. The exact center coordinate point of its Mohr's circle on the normal stress axis is:",
+        "options": {
+            "a": "205.0 MPa",
+            "b": "290 MPa",
+            "c": "85.0 MPa",
+            "d": "120 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #16] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 250 MPa and \u03c32 = 115 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "135 MPa",
+            "b": "182.5 MPa",
+            "c": "67.5 MPa",
+            "d": "275.18 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #17] A body mathematically experiences \u03c3x = 160 MPa, \u03c3y = 52 MPa, and highly specific shear stress \u03c4xy = 72 MPa. The precise radius of its Mohr's circle is:",
+        "options": {
+            "a": "168.24 MPa",
+            "b": "106.0 MPa",
+            "c": "72 MPa",
+            "d": "90.0 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #18] For an element rigidly under pure normal stresses \u03c3x = 320 MPa (tension) and \u03c3y = 135 MPa (compression) with zero shear. The exact center coordinate point of its Mohr's circle on the normal stress axis is:",
+        "options": {
+            "a": "92.5 MPa",
+            "b": "227.5 MPa",
+            "c": "135 MPa",
+            "d": "320 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #19] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 280 MPa and \u03c32 = 130 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "150 MPa",
+            "b": "308.71 MPa",
+            "c": "75.0 MPa",
+            "d": "205.0 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #20] A body mathematically experiences \u03c3x = 175 MPa, \u03c3y = 58 MPa, and highly specific shear stress \u03c4xy = 78 MPa. The precise radius of its Mohr's circle is:",
+        "options": {
+            "a": "78 MPa",
+            "b": "184.36 MPa",
+            "c": "97.5 MPa",
+            "d": "116.5 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #21] For an element rigidly under pure normal stresses \u03c3x = 350 MPa (tension) and \u03c3y = 150 MPa (compression) with zero shear. The exact center coordinate point of its Mohr's circle on the normal stress axis is:",
+        "options": {
+            "a": "100.0 MPa",
+            "b": "250.0 MPa",
+            "c": "350 MPa",
+            "d": "150 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #22] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 310 MPa and \u03c32 = 145 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "227.5 MPa",
+            "b": "342.24 MPa",
+            "c": "165 MPa",
+            "d": "82.5 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #23] A body mathematically experiences \u03c3x = 190 MPa, \u03c3y = 64 MPa, and highly specific shear stress \u03c4xy = 84 MPa. The precise radius of its Mohr's circle is:",
+        "options": {
+            "a": "84 MPa",
+            "b": "127.0 MPa",
+            "c": "105.0 MPa",
+            "d": "200.49 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #24] For an element rigidly under pure normal stresses \u03c3x = 380 MPa (tension) and \u03c3y = 165 MPa (compression) with zero shear. The exact center coordinate point of its Mohr's circle on the normal stress axis is:",
+        "options": {
+            "a": "107.5 MPa",
+            "b": "272.5 MPa",
+            "c": "380 MPa",
+            "d": "165 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Numerical",
+        "question": "[Stress Transformations & Failure Theories Advanced Check #25] If a 2D mechanical structural element is subjected to exactly two mutually perpendicular principal stresses \u03c31 = 340 MPa and \u03c32 = 160 MPa, the absolute maximum shear stress \u03c4_max is strictly:",
+        "options": {
+            "a": "180 MPa",
+            "b": "250.0 MPa",
+            "c": "90.0 MPa",
+            "d": "375.77 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

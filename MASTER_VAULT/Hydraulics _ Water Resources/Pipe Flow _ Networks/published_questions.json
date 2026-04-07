@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line is always parallel to the centre line of the pipe.",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line may be above or below the centre line of the pipe.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The total energy line lies over the hydraulic gradient line by an amount equal to the",
+        "options": {
+            "a": "pressure head",
+            "b": "velocity head",
+            "c": "pressure head + velocity head",
+            "d": "pressure head \u2013 velocity head"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line lies over the centre line of the pipe by an amount equal to the",
+        "options": {
+            "a": "pressure head",
+            "b": "velocity head",
+            "c": "pressure head + velocity head",
+            "d": "pressure head \u2013 velocity head"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The magnitude of water hammer depends upon the",
+        "options": {
+            "a": "elastic properties of the pipe material",
+            "b": "elastic properties of the liquid flowing through",
+            "c": "speed at which the valve is closed",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The purpose of a surge tank is",
+        "options": {
+            "a": "to control the pressure variations due to rapid",
+            "b": "to eliminate water hammer possibilities",
+            "c": "to regulate flow of water to turbines by providing",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "According to Khosla\u2019s theory, the critical hydraulic gradient for alluvial soils is approximately equal to",
+        "options": {
+            "a": "1",
+            "b": "1.5",
+            "c": "2",
+            "d": "2.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The artesian spring has too much hydraulic gradient and water flows out automatically.",
+        "options": {
+            "a": "Right",
+            "b": "Wrong",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient provided at the downstream side of a hydraulic structure such as a dam, is called",
+        "options": {
+            "a": "downstream gradient",
+            "b": "tail water gradient",
+            "c": "exit gradient",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line is always parallel to the centre line of the pipe. [Set Variant 1]",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line may be above or below the centre line of the pipe. [Set Variant 2]",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The total energy line lies over the hydraulic gradient line by an amount equal to the [Set Variant 3]",
+        "options": {
+            "a": "pressure head",
+            "b": "velocity head",
+            "c": "pressure head + velocity head",
+            "d": "pressure head \u2013 velocity head"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line lies over the centre line of the pipe by an amount equal to the [Set Variant 4]",
+        "options": {
+            "a": "pressure head",
+            "b": "velocity head",
+            "c": "pressure head + velocity head",
+            "d": "pressure head \u2013 velocity head"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The magnitude of water hammer depends upon the [Set Variant 5]",
+        "options": {
+            "a": "elastic properties of the pipe material",
+            "b": "elastic properties of the liquid flowing through",
+            "c": "speed at which the valve is closed",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The purpose of a surge tank is [Set Variant 6]",
+        "options": {
+            "a": "to control the pressure variations due to rapid",
+            "b": "to eliminate water hammer possibilities",
+            "c": "to regulate flow of water to turbines by providing",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "According to Khosla\u2019s theory, the critical hydraulic gradient for alluvial soils is approximately equal to [Set Variant 7]",
+        "options": {
+            "a": "1",
+            "b": "1.5",
+            "c": "2",
+            "d": "2.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The artesian spring has too much hydraulic gradient and water flows out automatically. [Set Variant 8]",
+        "options": {
+            "a": "Right",
+            "b": "Wrong",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient provided at the downstream side of a hydraulic structure such as a dam, is called [Set Variant 9]",
+        "options": {
+            "a": "downstream gradient",
+            "b": "tail water gradient",
+            "c": "exit gradient",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line is always parallel to the centre line of the pipe. [Set Variant 10]",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line may be above or below the centre line of the pipe. [Set Variant 11]",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The total energy line lies over the hydraulic gradient line by an amount equal to the [Set Variant 12]",
+        "options": {
+            "a": "pressure head",
+            "b": "velocity head",
+            "c": "pressure head + velocity head",
+            "d": "pressure head \u2013 velocity head"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The hydraulic gradient line lies over the centre line of the pipe by an amount equal to the [Set Variant 13]",
+        "options": {
+            "a": "pressure head",
+            "b": "velocity head",
+            "c": "pressure head + velocity head",
+            "d": "pressure head \u2013 velocity head"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The magnitude of water hammer depends upon the [Set Variant 14]",
+        "options": {
+            "a": "elastic properties of the pipe material",
+            "b": "elastic properties of the liquid flowing through",
+            "c": "speed at which the valve is closed",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "The purpose of a surge tank is [Set Variant 15]",
+        "options": {
+            "a": "to control the pressure variations due to rapid",
+            "b": "to eliminate water hammer possibilities",
+            "c": "to regulate flow of water to turbines by providing",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Pipe Flow & Networks",
+        "question": "According to Khosla\u2019s theory, the critical hydraulic gradient for alluvial soils is approximately equal to [Set Variant 16]",
+        "options": {
+            "a": "1",
+            "b": "1.5",
+            "c": "2",
+            "d": "2.5"
+        },
+        "correct_answer": "a"
+    }
+]

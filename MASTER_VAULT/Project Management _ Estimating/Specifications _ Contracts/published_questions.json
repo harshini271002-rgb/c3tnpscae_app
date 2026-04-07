@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The theoretical velocity of jet at vena contracta is",
+        "options": {
+            "a": "2 gH",
+            "b": "",
+            "c": "2g",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "In an internal mouthpiece, if the jet after contraction does not touch the sides of the mouthpiece, then the mouthpiece is said to be",
+        "options": {
+            "a": "running full",
+            "b": "running free",
+            "c": "partially running full",
+            "d": "partially running free"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "In an internal mouthpiece, if the jet after contraction expands and fills up the whole mouthpiece, then the mouthpiece is said to be running free.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The length of a liquid stream while flowing over a weir ............ at the ends of the sill.",
+        "options": {
+            "a": "expands",
+            "b": "does not change",
+            "c": "contracts",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "When the end contractions of the weir are suppressed, then number of end contractions (n) are taken as zero",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "A point, in a compressible flow where the velocity of fluid is zero, is called",
+        "options": {
+            "a": "critical point",
+            "b": "vena contracta",
+            "c": "stagnation point",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "Groynes. A groyne is a permanent structure constructed transverse to the river flow and extend from the bank into the river upto a certain limit. They are constructed in order to",
+        "options": {
+            "a": "Deflecting groynes; (b) Attracting groynes; (c) Repelling groynes; (d) Hockey groynes; and (e) T-shaped or",
+            "b": "train the flow along a certain course,",
+            "c": "contract a river channel to improve its depth, and",
+            "d": "silt up the area in the vicinity by creating a slack flow."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The odour of water can be determined by",
+        "options": {
+            "a": "thermometer",
+            "b": "Osmoscope",
+            "c": "Jackson\u2019s turbidimeter",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The lime soda process of water softening",
+        "options": {
+            "a": "requires less quantity of coagulant",
+            "b": "helps in killing pathogenic bacterias",
+            "c": "is suitable for turbid and acidic water",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "All the specifications for higway planning and design are given by",
+        "options": {
+            "a": "IRC",
+            "b": "HRB",
+            "c": "MVA",
+            "d": "CRRI"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "Which of the following statement is correct?",
+        "options": {
+            "a": "Construction joints are necessarily planned for",
+            "b": "Expansion joints are provided to accommodate",
+            "c": "Contraction joints are provided to control",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "Determination of water content. The water content of a soil sample may be determined by the following methods:",
+        "options": {
+            "a": "Oven drying method. This is the most accurate method of determining the water content. According to this",
+            "b": "Sand bath method. This is a field method of determining rough value of the water content, where the facility",
+            "c": "Calcium carbide method. This method is specially suited where water content is to be quickly determined for",
+            "d": "Pycnometer method. This method is also a quick method of determining the water content of those soils whose"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The water content of soils can be accurately determined by",
+        "options": {
+            "a": "sand bath method",
+            "b": "calcium carbide method",
+            "c": "oven drying method",
+            "d": "Pycnometer method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The commonly used method for quick determination of water content at field embankments is",
+        "options": {
+            "a": "over drying method\t (b)\t sand bath method",
+            "b": "",
+            "c": "alcohol method",
+            "d": "calcium carbide method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "As per Indian standard specifications, which the following physical properties of structural steel is taken irrespective of its grade?",
+        "options": {
+            "a": "unit mass of steel",
+            "b": "modulus of elasticity",
+            "c": "Poisson's ratio",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "Controlling. In a construction work, the following are the main aims of controlling:",
+        "options": {
+            "a": "To keep a watch over the physical progress of each activity of the work.",
+            "b": "To control the quality of work as per specifications.",
+            "c": "To control the expenditure on each item of work.",
+            "d": "To control the use of materials and machines."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The first stage of a large construction work to",
+        "options": {
+            "a": "contract",
+            "b": "design",
+            "c": "conception",
+            "d": "study and evaluation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The conception of idea for any construction work is the responsibility of",
+        "options": {
+            "a": "owner",
+            "b": "engineer",
+            "c": "contractor",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The contractor is responsible for",
+        "options": {
+            "a": "procuring material which is not supplied by the",
+            "b": "organising and planning the work as per drawing",
+            "c": "executing the work as per specifications laid",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "In large works, construction is the responsibility of a contractor.",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The pre-tender stage of construction requires",
+        "options": {
+            "a": "selection of site",
+            "b": "acquisition of land",
+            "c": "finalisation of designs",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The theoretical velocity of jet at vena contracta is [Set Variant 1]",
+        "options": {
+            "a": "2 gH",
+            "b": "",
+            "c": "2g",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "In an internal mouthpiece, if the jet after contraction does not touch the sides of the mouthpiece, then the mouthpiece is said to be [Set Variant 2]",
+        "options": {
+            "a": "running full",
+            "b": "running free",
+            "c": "partially running full",
+            "d": "partially running free"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "In an internal mouthpiece, if the jet after contraction expands and fills up the whole mouthpiece, then the mouthpiece is said to be running free. [Set Variant 3]",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Specifications & Contracts",
+        "question": "The length of a liquid stream while flowing over a weir ............ at the ends of the sill. [Set Variant 4]",
+        "options": {
+            "a": "expands",
+            "b": "does not change",
+            "c": "contracts",
+            "d": ""
+        },
+        "correct_answer": "a"
+    }
+]

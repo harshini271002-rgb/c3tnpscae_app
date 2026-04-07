@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Settlement of soil under compressive force due to expulsion of water from pores is known as",
+        "options": {
+            "a": "elastic compression",
+            "b": "primary consolidation",
+            "c": "secondary compression",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Coefficient of consolidation is given by the expression",
+        "options": {
+            "a": "Cv =",
+            "b": "",
+            "c": "Cv =",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "If consolidation factor is more than 60% the time factor is given by",
+        "options": {
+            "a": "\u20130.9332 log",
+            "b": "\u20130.9332 log",
+            "c": "\u20130.9332 log",
+            "d": "\u20130.9332 log U2 \u2013 0.0851"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Time required for 50% consolidation of a remoulded sample of clay with single drainage is t. Hence, to consolidate same clay to the same degree of consolidation but with 3 times drainage is",
+        "options": {
+            "a": "",
+            "b": "",
+            "c": "3t",
+            "d": "9t"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The consolidation settlement is given by the expression",
+        "options": {
+            "a": "Sc =",
+            "b": "Sc =",
+            "c": "Sc =",
+            "d": "Sc = H Cc log"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The consolidation of a soil is defined as the",
+        "options": {
+            "a": "process of compression by gradual reduction of",
+            "b": "process which gives gradual decrease of water",
+            "c": "change in volume of soil due to expulsion of pure",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The coefficient of consolidation is measured in",
+        "options": {
+            "a": "cm2/g",
+            "b": "cm2/s",
+            "c": "g\u2009/\u2009cm2/s",
+            "d": "cm2\u2009/\u2009g\u2009/\u2009s"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The rate of consolidation ................. with the increase in temperature.",
+        "options": {
+            "a": "increases",
+            "b": "decreases",
+            "c": "does not change",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The degree of consolidation is proportional directly",
+        "options": {
+            "a": "to time and inversely to drainage path",
+            "b": "to drainage path and inversely to time",
+            "c": "to time and inversely to the square of drainage path",
+            "d": "to square of drainage path and inversely to time"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The ratio of settlement at any time (t) to the final settlement is known as",
+        "options": {
+            "a": "compression index",
+            "b": "coefficient of consolidation",
+            "c": "degree of consolidation",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The time factor corresponding to 25 % degree of consolidation is given by",
+        "options": {
+            "a": "8",
+            "b": "16",
+            "c": "32",
+            "d": "64"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Settlement of soil under compressive force due to expulsion of water from pores is known as [Set Variant 1]",
+        "options": {
+            "a": "elastic compression",
+            "b": "primary consolidation",
+            "c": "secondary compression",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Coefficient of consolidation is given by the expression [Set Variant 2]",
+        "options": {
+            "a": "Cv =",
+            "b": "",
+            "c": "Cv =",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "If consolidation factor is more than 60% the time factor is given by [Set Variant 3]",
+        "options": {
+            "a": "\u20130.9332 log",
+            "b": "\u20130.9332 log",
+            "c": "\u20130.9332 log",
+            "d": "\u20130.9332 log U2 \u2013 0.0851"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Time required for 50% consolidation of a remoulded sample of clay with single drainage is t. Hence, to consolidate same clay to the same degree of consolidation but with 3 times drainage is [Set Variant 4]",
+        "options": {
+            "a": "",
+            "b": "",
+            "c": "3t",
+            "d": "9t"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The consolidation settlement is given by the expression [Set Variant 5]",
+        "options": {
+            "a": "Sc =",
+            "b": "Sc =",
+            "c": "Sc =",
+            "d": "Sc = H Cc log"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The consolidation of a soil is defined as the [Set Variant 6]",
+        "options": {
+            "a": "process of compression by gradual reduction of",
+            "b": "process which gives gradual decrease of water",
+            "c": "change in volume of soil due to expulsion of pure",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The coefficient of consolidation is measured in [Set Variant 7]",
+        "options": {
+            "a": "cm2/g",
+            "b": "cm2/s",
+            "c": "g\u2009/\u2009cm2/s",
+            "d": "cm2\u2009/\u2009g\u2009/\u2009s"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The rate of consolidation ................. with the increase in temperature. [Set Variant 8]",
+        "options": {
+            "a": "increases",
+            "b": "decreases",
+            "c": "does not change",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The degree of consolidation is proportional directly [Set Variant 9]",
+        "options": {
+            "a": "to time and inversely to drainage path",
+            "b": "to drainage path and inversely to time",
+            "c": "to time and inversely to the square of drainage path",
+            "d": "to square of drainage path and inversely to time"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The ratio of settlement at any time (t) to the final settlement is known as [Set Variant 10]",
+        "options": {
+            "a": "compression index",
+            "b": "coefficient of consolidation",
+            "c": "degree of consolidation",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "The time factor corresponding to 25 % degree of consolidation is given by [Set Variant 11]",
+        "options": {
+            "a": "8",
+            "b": "16",
+            "c": "32",
+            "d": "64"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Settlement of soil under compressive force due to expulsion of water from pores is known as [Set Variant 12]",
+        "options": {
+            "a": "elastic compression",
+            "b": "primary consolidation",
+            "c": "secondary compression",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "Coefficient of consolidation is given by the expression [Set Variant 13]",
+        "options": {
+            "a": "Cv =",
+            "b": "",
+            "c": "Cv =",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Compressibility & Consolidation",
+        "question": "If consolidation factor is more than 60% the time factor is given by [Set Variant 14]",
+        "options": {
+            "a": "\u20130.9332 log",
+            "b": "\u20130.9332 log",
+            "c": "\u20130.9332 log",
+            "d": "\u20130.9332 log U2 \u2013 0.0851"
+        },
+        "correct_answer": "a"
+    }
+]

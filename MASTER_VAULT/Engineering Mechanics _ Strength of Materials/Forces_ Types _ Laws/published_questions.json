@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Which branch of Engineering Mechanics specifically analyzes deformations in actual structures as part of its core study, unlike the branch that neglects them?",
+        "options": {
+            "a": "Mechanics of Rigid body",
+            "b": "Mechanics of Deformable body",
+            "c": "Mechanics of Fluid",
+            "d": "Kinematics"
+        },
+        "correct_answer": "b",
+        "explanation": "Engineering Mechanics is divided into three parts. In Mechanics of Rigid body, deformation is assumed very small and neglected. However, in Mechanics of Deformable body (also called Strength of Materials), deformations in actual structures are analyzed.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Consider the following statements regarding the subdivisions of rigid body mechanics: 1. Statics deals with the study of a body at a rest condition, exemplified by the static design of a building. 2. Dynamics is the study of bodies in motion, such as the earthquake analysis of a building. 3. Kinematics is the study of a body in motion with considering the external forces that cause the motion. Which of the above statements are correct?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "Statics is the study of bodies at rest, and Dynamics is the study of bodies in motion. Dynamics is further split into Kinematics and Kinetics. Kinematics studies motion without considering the forces causing it, while Kinetics considers the forces causing the motion. Therefore, statement 3 is incorrect because it describes Kinetics.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which of the following forces is classified as a body force that acts through the total volume of the object rather than just its contact area?",
+        "options": {
+            "a": "Friction force",
+            "b": "Surface tension",
+            "c": "Pressure force",
+            "d": "Inertia force"
+        },
+        "correct_answer": "d",
+        "explanation": "Forces are classified as body forces or surface forces. Body forces act through the total volume and include gravitation, electrostatic, magnetic, and inertia forces. Surface forces act through the surface and include friction, surface tension, and pressure.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Assertion (A): Mass is an absolute quantity that does not vary with respect to any place or time.\nReason (R): Weight is a force with which a body is attracted towards the center of the earth and varies based on the local acceleration due to gravity g.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "b",
+        "explanation": "Both statements are individually true. Mass represents the quantity of matter and is constant everywhere. Weight is a pulling force defined by W = m \u00d7 g, and since g varies by location, weight also varies. However, the variation of weight is not the cause or explanation for why mass remains constant; they are independent physical definitions.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "According to Newton\u2019s second law of motion, the magnitude of force required to provide an acceleration of 1 m/sec\u00b2 to a mass of 1 kg is defined as:",
+        "options": {
+            "a": "9.81 N",
+            "b": "1.0 N",
+            "c": "1 kgf",
+            "d": "10.0 N"
+        },
+        "correct_answer": "b",
+        "explanation": "Based on Newton's second law, Force F = mass \u00d7 acc. One Newton force is defined as that which gives an acceleration of 1 m/sec\u00b2 to a body of mass 1 kg. Mathematically, 1 N = 1 kg \u00d7 1 m/sec\u00b2 = 1 kg\u00b7m/sec\u00b2.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Match the following.\nList I A. Magnitude B. Direction C. Sense D. Point of application   List II 1. Push or pull 2. Line of action 3. 10 kN 4. Exact location at point C",
+        "options": {
+            "a": "A-3, B-2, C-1, D-4",
+            "b": "A-2, B-3, C-1, D-4",
+            "c": "A-3, B-1, C-2, D-4",
+            "d": "A-1, B-2, C-3, D-4"
+        },
+        "correct_answer": "a",
+        "explanation": "The characteristics (elements) of a force include Magnitude (e.g., 10 kN), Direction or line of action (e.g., vertically downward), Sense or nature (push or pull), and Point of application (e.g., at point C).",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Consider the following statements regarding the effects and characteristics of a force: 1. A force may change the motion of a body or retard existing forces to bring a body to rest. 2. The Principle of Transmissibility allows a force to be considered at any point on its line of action on a rigid body. 3. A force acting on a body can never give rise to internal stresses. Which of the above statements are correct?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "Forces can change motion or bring a body to rest (equilibrium). The Principle of Transmissibility states a force can be assumed to act anywhere on its line of action. Statement 3 is incorrect because forces can indeed give rise to internal stresses in the body on which they act.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Assertion (A): If a force acts at any point on a rigid body, its effect on the body's state of rest or motion remains unchanged if it is shifted to any other point on its line of action.\nReason (R): This is known as the Principle of Transmissibility, where the force is assumed to act on its time of action.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "a",
+        "explanation": "The Principle of Transmissibility specifies that a force acting at any point on a rigid body may be considered to act at any other point on its line of action without changing the effect. The Reason correctly defines this principle as stated in the notes.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which force system is characterized by all lines of action of the constituent forces intersecting at a single common point?",
+        "options": {
+            "a": "Coplanar collinear forces",
+            "b": "Coplanar concurrent forces",
+            "c": "Non-coplanar non-concurrent forces",
+            "d": "Coplanar parallel forces"
+        },
+        "correct_answer": "b",
+        "explanation": "According to the classification of systems of forces, concurrent forces are those whose lines of action intersect at a common point. If they also lie on the same plane, they are coplanar concurrent forces.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "A force F acts on a body at an angle \u03b8 relative to the horizontal plane as shown below. Identify the correct horizontal (F\u2093) and vertical (F\u1d67) components.\n\n       ^ Y\n       |   / F\n       |  /\n       | / \u03b8\n       |/______|____> X",
+        "options": {
+            "a": "F\u2093 = F sin \u03b8, F\u1d67 = F cos \u03b8",
+            "b": "F\u2093 = F cos \u03b8, F\u1d67 = F sin \u03b8",
+            "c": "F\u2093 = F tan \u03b8, F\u1d67 = F sin \u03b8",
+            "d": "F\u2093 = F sec \u03b8, F\u1d67 = F cosec \u03b8"
+        },
+        "correct_answer": "b",
+        "explanation": "The resolution of forces involves replacing a force F by two forces along the x and y axes. When the force makes an angle \u03b8 with the horizontal, the horizontal component is F\u2093 = F cos \u03b8 and the vertical component is F\u1d67 = F sin \u03b8.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "For a body of weight W resting on a plane inclined at an angle \u03b8 to the horizontal, what is the component of weight acting normal (perpendicular) to the inclined plane?",
+        "options": {
+            "a": "W sin \u03b8",
+            "b": "W tan \u03b8",
+            "c": "W cos \u03b8",
+            "d": "W / cos \u03b8"
+        },
+        "correct_answer": "c",
+        "explanation": "When resolving weight W on an inclined plane (Resolution Case 2), the component parallel to the inclined plane is W\u209a = W sin \u03b8, and the component normal (perpendicular) to the plane is W\u2099 = W cos \u03b8.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Identify the law of forces used to find the resultant of two concurrent forces where the resultant is represented by the diagonal of a parallelogram formed by the two force vectors.",
+        "options": {
+            "a": "Triangle law of forces",
+            "b": "Polygon law of forces",
+            "c": "Parallelogram law of forces",
+            "d": "Varignon\u2019s Theorem"
+        },
+        "correct_answer": "c",
+        "explanation": "The parallelogram law states that if two forces F\u2081 and F\u2082 acting at a point are represented in magnitude and direction by two sides of a parallelogram, their resultant is represented by the diagonal of that parallelogram in both magnitude and direction.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "In the composition of two forces F\u2081 and F\u2082 acting at an angle \u03b8, the magnitude of the resultant R is found to be minimum when the angle \u03b8 between the forces is:",
+        "options": {
+            "a": "0\u00b0",
+            "b": "90\u00b0",
+            "c": "180\u00b0",
+            "d": "45\u00b0"
+        },
+        "correct_answer": "c",
+        "explanation": "The magnitude of the resultant is R = \u221a[F\u2081\u00b2 + 2F\u2081F\u2082 cos \u03b8 + F\u2082\u00b2]. R is minimum when cos \u03b8 is at its minimum value (-1), which occurs at \u03b8 = 180\u00b0. In this case, R\u2098\u1d62\u2099 = |F\u2081 - F\u2082|.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Consider the following statements regarding laws of forces: 1. The Triangle law states that if two forces are represented by two sides of a triangle in order, the third side in opposite order represents the resultant. 2. If three forces acting on a body are represented by three sides of a triangle in order, the body will be in equilibrium. 3. The Polygon law is used to find the resultant of a number of non-coplanar parallel forces. Which of the above statements are correct?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "Statements 1 and 2 accurately describe the Triangle Law of forces. Statement 3 is incorrect because the Polygon Law is specifically defined for a number of coplanar concurrent forces.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Assertion (A): A particle moving at a constant terminal velocity is technically considered to be in a state of equilibrium.\nReason (R): For a system to be in equilibrium, the change in velocity must be zero, resulting in a zero acceleration and therefore a zero resultant force \u2211F = 0.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "a",
+        "explanation": "Equilibrium represents not only a particle at rest but also one moving at constant or terminal velocity. In such cases, acceleration is mass \u00d7 0 = 0, which means the resultant force acting on the system must be equal to zero.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "According to the Three force principle of equilibrium, if a body is acted upon by three forces and remains in equilibrium, then:",
+        "options": {
+            "a": "All three forces must be parallel.",
+            "b": "The resultant of any two forces must be equal, opposite, and collinear with the third force.",
+            "c": "The sum of any two forces must be equal to the third force.",
+            "d": "The forces must form an equilateral triangle."
+        },
+        "correct_answer": "b",
+        "explanation": "The Three force principle states that if a body in equilibrium is acted upon by three forces, then the resultant of any two forces must be equal, opposite, and collinear with the third force.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Match the following.\nList I A. Two force principle B. Three force principle C. Four force principle D. Non-concurrent equilibrium   List II 1. Resultant of two pairs must balance 2. Equal, opposite, and collinear 3. \u2211V = 0, \u2211H = 0, \u2211M = 0 4. Resultant of two balances the third",
+        "options": {
+            "a": "A-2, B-4, C-1, D-3",
+            "b": "A-4, B-2, C-1, D-3",
+            "c": "A-2, B-1, C-4, D-3",
+            "d": "A-3, B-4, C-1, D-2"
+        },
+        "correct_answer": "a",
+        "explanation": "Two force principle: forces must be equal, opposite, and collinear. Three force principle: resultant of two balances the third. Four force principle: resultant of two balances the resultant of the other two. Non-concurrent equilibrium requires translational and rotational sums to be zero.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Lami\u2019s Theorem is a specific application of which mathematical rule for three co-planar forces acting at a point in equilibrium?",
+        "options": {
+            "a": "Cosine rule",
+            "b": "Tangent rule",
+            "c": "Sine rule",
+            "d": "Polygon rule"
+        },
+        "correct_answer": "c",
+        "explanation": "Lami\u2019s Theorem states that if three co-planar forces acting at a point be in equilibrium, then each force is proportional to the sine of the angle between the other two. This is explicitly noted as a \"sine rule\" application.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which of the following is an essential requirement for a sketch to be technically defined as a Free Body Diagram (FBD)?",
+        "options": {
+            "a": "The body must be shown with all its original supports and adjacent structures.",
+            "b": "The body must be isolated from surroundings and show all external forces, internal forces, and moments.",
+            "c": "The diagram must only show the self-weight acting at the centroi",
+            "d": "(d) The body must be in a state of constant acceleration."
+        },
+        "correct_answer": "b",
+        "explanation": "A Free Body Diagram is a sketch where a body has been isolated from surrounding bodies. It must show all external forces, internal forces, and moments acting on the body while it is maintained under equilibrium conditions.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Study the Free Body Diagram of the roller resting against a block below. What does the vector labeled R represent?\n\n      P (Pulling force)\n       \\\n        \\   / R\n         ( O )\n        / | \\\n       N  W  (Block)",
+        "options": {
+            "a": "The normal reaction from the ground",
+            "b": "The self-weight of the roller",
+            "c": "The reaction force from the block",
+            "d": "The applied horizontal thrust"
+        },
+        "correct_answer": "c",
+        "explanation": "In the Free Body Diagram of a roller resting against a block, P is the pulling force, W is the self-weight, N is the normal reaction from the ground, and R is the reaction force from the block that the roller is pushing against.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "In a non-concurrent force system, the moment of a force about a specific point A is mathematically defined as:",
+        "options": {
+            "a": "M\u2090 = F \u00d7 d (where d is parallel distance)",
+            "b": "M\u2090 = F / d (where d is perpendicular distance)",
+            "c": "M\u2090 = F \u00d7 d (where d is perpendicular distance)",
+            "d": "M\u2090 = \u2211F / d"
+        },
+        "correct_answer": "c",
+        "explanation": "The moment of a force about a point is defined as the product of the force and the perpendicular distance d of the line of action of the force from that point. Mathematically: M\u2090 = F \u00d7 d.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Two forces of equal magnitude F and opposite nature separated by a particular perpendicular distance z form a couple. Which of the following is true about its effect?",
+        "options": {
+            "a": "It produces only translational motion.",
+            "b": "It produces both translational and rotational motion.",
+            "c": "Its resultant force is zero, but it produces a rotational effect.",
+            "d": "Its moment varies depending on the point of calculation."
+        },
+        "correct_answer": "c",
+        "explanation": "A couple is formed by two equal and opposite forces at distance z. Since they are equal and opposite, the resultant is zero, meaning no translation occurs. However, they produce a moment M = F \u00d7 z, which creates rotation.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Consider the following statements regarding Varignon\u2019s Theorem: 1. It is also known as the Principle of Moment for non-concurrent forces. 2. It states that the algebraic sum of moments of individual forces about a point is equal to the moment of their resultant about the same point. 3. It is mathematically expressed as W\u2081x\u2081 + W\u2082x\u2082 + W\u2083x\u2083 = R \u00d7 x\u0304. Which of the above statements are correct?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "d",
+        "explanation": "All statements accurately describe Varignon\u2019s Theorem. It equates the sum of individual moments to the moment of the resultant force about the same reference point.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "For a concurrent force system acting on a rigid body to be in equilibrium, the mandatory mathematical conditions are:",
+        "options": {
+            "a": "\u2211V = 0 and \u2211H = 0",
+            "b": "\u2211M = 0 only",
+            "c": "\u2211V = 0, \u2211H = 0, and \u2211M = 0",
+            "d": "R = F\u2081 + F\u2082"
+        },
+        "correct_answer": "a",
+        "explanation": "For a concurrent system, where all forces pass through a single point, the moment about that point is inherently zero. Thus, the body is in equilibrium if the resultant force R is zero. Mathematically, since R = \u221a[(\u2211V)\u00b2 + (\u2211H)\u00b2], R is zero only if both \u2211V = 0 and \u2211H = 0.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Arrange the following steps in the correct analytical sequence to find the resultant of a non-concurrent coplanar force system: 1. Find the algebraic sum of all horizontal components (\u2211H) and vertical components (\u2211V). 2. Resolve each force into its horizontal (F cos \u03b8) and vertical (F sin \u03b8) components. 3. Calculate the magnitude R = \u221a[(\u2211H)\u00b2 + (\u2211V)\u00b2]. 4. Calculate the inclination \u03b1 = tan\u207b\u00b9(\u2211V/\u2211H).",
+        "options": {
+            "a": "2-1-3-4",
+            "b": "1-2-3-4",
+            "c": "2-3-1-4",
+            "d": "1-3-2-4"
+        },
+        "correct_answer": "a",
+        "explanation": "The conversion of a force system into an equivalent single force (composition) requires first resolving each individual force. Next, the algebraic sums of these components are found. These sums are then used to calculate the magnitude of the resultant, and finally, its inclination angle is determined.",
+        "type": "Theory",
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "imageUrl": "",
+        "is_published": true
+    }
+]

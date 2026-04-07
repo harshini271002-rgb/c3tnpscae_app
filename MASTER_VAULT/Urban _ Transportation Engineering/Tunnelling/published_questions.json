@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a method of tunnelling in firm soft strata?",
+        "options": {
+            "a": "Needle beam method",
+            "b": "Full face method",
+            "c": "Top heading and benching",
+            "d": "Drift method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The method employing steel lined plates and air compressors for driving them is known as",
+        "options": {
+            "a": "needle beam method",
+            "b": "tunnelling with liner plates",
+            "c": "shield method",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Drift method of tunnelling is used to construct tunnel in",
+        "options": {
+            "a": "soft ground",
+            "b": "running ground",
+            "c": "rocks",
+            "d": "broken grounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a drilling pattern adopted in tunnelling?",
+        "options": {
+            "a": "Fan cut",
+            "b": "V-cut",
+            "c": "Cylinder cut",
+            "d": "Vertical wedge cut"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The explosive used in tunnelling is",
+        "options": {
+            "a": "blastic gelatine",
+            "b": "semi-gelatine",
+            "c": "ammonia dynamite",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a method of tunnelling in firm soft strata? [Set Variant 1]",
+        "options": {
+            "a": "Needle beam method",
+            "b": "Full face method",
+            "c": "Top heading and benching",
+            "d": "Drift method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The method employing steel lined plates and air compressors for driving them is known as [Set Variant 2]",
+        "options": {
+            "a": "needle beam method",
+            "b": "tunnelling with liner plates",
+            "c": "shield method",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Drift method of tunnelling is used to construct tunnel in [Set Variant 3]",
+        "options": {
+            "a": "soft ground",
+            "b": "running ground",
+            "c": "rocks",
+            "d": "broken grounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a drilling pattern adopted in tunnelling? [Set Variant 4]",
+        "options": {
+            "a": "Fan cut",
+            "b": "V-cut",
+            "c": "Cylinder cut",
+            "d": "Vertical wedge cut"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The explosive used in tunnelling is [Set Variant 5]",
+        "options": {
+            "a": "blastic gelatine",
+            "b": "semi-gelatine",
+            "c": "ammonia dynamite",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a method of tunnelling in firm soft strata? [Set Variant 6]",
+        "options": {
+            "a": "Needle beam method",
+            "b": "Full face method",
+            "c": "Top heading and benching",
+            "d": "Drift method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The method employing steel lined plates and air compressors for driving them is known as [Set Variant 7]",
+        "options": {
+            "a": "needle beam method",
+            "b": "tunnelling with liner plates",
+            "c": "shield method",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Drift method of tunnelling is used to construct tunnel in [Set Variant 8]",
+        "options": {
+            "a": "soft ground",
+            "b": "running ground",
+            "c": "rocks",
+            "d": "broken grounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a drilling pattern adopted in tunnelling? [Set Variant 9]",
+        "options": {
+            "a": "Fan cut",
+            "b": "V-cut",
+            "c": "Cylinder cut",
+            "d": "Vertical wedge cut"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The explosive used in tunnelling is [Set Variant 10]",
+        "options": {
+            "a": "blastic gelatine",
+            "b": "semi-gelatine",
+            "c": "ammonia dynamite",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a method of tunnelling in firm soft strata? [Set Variant 11]",
+        "options": {
+            "a": "Needle beam method",
+            "b": "Full face method",
+            "c": "Top heading and benching",
+            "d": "Drift method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The method employing steel lined plates and air compressors for driving them is known as [Set Variant 12]",
+        "options": {
+            "a": "needle beam method",
+            "b": "tunnelling with liner plates",
+            "c": "shield method",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Drift method of tunnelling is used to construct tunnel in [Set Variant 13]",
+        "options": {
+            "a": "soft ground",
+            "b": "running ground",
+            "c": "rocks",
+            "d": "broken grounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a drilling pattern adopted in tunnelling? [Set Variant 14]",
+        "options": {
+            "a": "Fan cut",
+            "b": "V-cut",
+            "c": "Cylinder cut",
+            "d": "Vertical wedge cut"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The explosive used in tunnelling is [Set Variant 15]",
+        "options": {
+            "a": "blastic gelatine",
+            "b": "semi-gelatine",
+            "c": "ammonia dynamite",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a method of tunnelling in firm soft strata? [Set Variant 16]",
+        "options": {
+            "a": "Needle beam method",
+            "b": "Full face method",
+            "c": "Top heading and benching",
+            "d": "Drift method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The method employing steel lined plates and air compressors for driving them is known as [Set Variant 17]",
+        "options": {
+            "a": "needle beam method",
+            "b": "tunnelling with liner plates",
+            "c": "shield method",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Drift method of tunnelling is used to construct tunnel in [Set Variant 18]",
+        "options": {
+            "a": "soft ground",
+            "b": "running ground",
+            "c": "rocks",
+            "d": "broken grounds"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "Which one of the following is not a drilling pattern adopted in tunnelling? [Set Variant 19]",
+        "options": {
+            "a": "Fan cut",
+            "b": "V-cut",
+            "c": "Cylinder cut",
+            "d": "Vertical wedge cut"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Tunnelling",
+        "question": "The explosive used in tunnelling is [Set Variant 20]",
+        "options": {
+            "a": "blastic gelatine",
+            "b": "semi-gelatine",
+            "c": "ammonia dynamite",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    }
+]

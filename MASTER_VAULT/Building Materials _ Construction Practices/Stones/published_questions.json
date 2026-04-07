@@ -1,0 +1,377 @@
+[
+    {
+        "question": "Which of the following is a sedimentary rock?",
+        "options": {
+            "a": "Granite",
+            "b": "Basalt",
+            "c": "Sandstone",
+            "d": "Gneiss"
+        },
+        "correct_answer": "c",
+        "explanation": "Sandstone is formed by the deposition of sand particles in layers, making it a sedimentary rock.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Under metamorphism, Limestone changes into:",
+        "options": {
+            "a": "Quartzite",
+            "b": "Marble",
+            "c": "Slate",
+            "d": "Schist"
+        },
+        "correct_answer": "b",
+        "explanation": "Metamorphism of calcareous rocks like limestone results in the formation of marble.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Granite is chemically classified as a:",
+        "options": {
+            "a": "Siliceous rock",
+            "b": "Argillaceous rock",
+            "c": "Calcareous rock",
+            "d": "Aqueous rock"
+        },
+        "correct_answer": "a",
+        "explanation": "Granite is composed primarily of silica (quartz and feldspar), making it a siliceous rock.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #4: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #5: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #6: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #7: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #8: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #9: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #10: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #11: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #12: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #13: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #14: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #15: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #16: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #17: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #18: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #19: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #20: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #21: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #22: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #23: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #24: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    },
+    {
+        "question": "Technical Stone Testing #25: Mohs scale is used to determine which property of stones?",
+        "options": {
+            "a": "Crushing strength",
+            "b": "Hardness",
+            "c": "Specific gravity",
+            "d": "Durability"
+        },
+        "correct_answer": "b",
+        "explanation": "The Mohs scale characterizes the scratch resistance of minerals through the ability of a harder material to scratch a softer material.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Stones",
+        "is_published": true
+    }
+]

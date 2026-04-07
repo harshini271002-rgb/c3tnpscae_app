@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Indirect method: The points are selected first and their reduced levels are found. Then contour lines are drawn by any one of the following methods.",
+        "options": {
+            "a": "Estimation",
+            "b": "Arithmetic calculations",
+            "c": "Graphical method",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "In India mean sea level used for fixing reduced levels is at",
+        "options": {
+            "a": "Goa",
+            "b": "Mumbai",
+            "c": "Vishakapatnam",
+            "d": "Karachi"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "In levelling height of instrument means",
+        "options": {
+            "a": "height of telescope from the ground where instrument is set",
+            "b": "level of the point with respect to assumed datum",
+            "c": "it is the elevation of plane of sight from the assumed datum",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "The rise and fall method of levelling provides a complete check on",
+        "options": {
+            "a": "back sight",
+            "b": "foresight",
+            "c": "intermediate sight",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "The reading taken from an instrument station on a bench mark of 100.00 RL is 1.2 and the reading taken on next station is 1.70. Then RL of next station is",
+        "options": {
+            "a": "98.8 m",
+            "b": "98.30 m",
+            "c": "99.50 m",
+            "d": "100.50 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "The reading taken from an instrument station on a benchmark of RL 100.00 is 1.4 and on a chejja reading taken with inverted staff is 2.8 m. Then RL of chejja is",
+        "options": {
+            "a": "104.2 m",
+            "b": "101.40 m",
+            "c": "98.6 m",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Direct method of contouring is suitable for",
+        "options": {
+            "a": "small areas",
+            "b": "large areas",
+            "c": "forest areas",
+            "d": "hilly areas"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Method of square is suitable for contouring",
+        "options": {
+            "a": "hilly terrain",
+            "b": "forest",
+            "c": "urban area",
+            "d": "plains"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Pick up the correct statement given below: In cross-section method of contouring",
+        "options": {
+            "a": "spacing of cross section depends upon the nature of ground",
+            "b": "cross sections need not be always at 90\u00b0 to main line",
+            "c": "the method is suitable for road projects",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "For hilly region the ideal method of contouring is",
+        "options": {
+            "a": "direct method",
+            "b": "method of squares",
+            "c": "cross-section method",
+            "d": "radial line method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "For the purpose of linear interpolation of contour one can use",
+        "options": {
+            "a": "estimation",
+            "b": "arithmetic calculations",
+            "c": "graphical method",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Trigonometric levelling is used when",
+        "options": {
+            "a": "base of the object is accessible",
+            "b": "base of the object is not accessible",
+            "c": "in both the above two cases",
+            "d": "in none of the above two cases"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "If the base of the object is inaccessible, in trigonometric levelling method to be used is",
+        "options": {
+            "a": "single plane method",
+            "b": "double plane method",
+            "c": "any of the above two",
+            "d": "none of (a) and (b)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "If k is the total distance of the level lime in km, the permissible error in the first order precise levelling is",
+        "options": {
+            "a": "",
+            "b": "\u00b1 4 k mm",
+            "c": "",
+            "d": "\u00b1 8 k mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "In check flooding levees are generally constructed along the contours, having vertical interval of about",
+        "options": {
+            "a": "50 to 100 mm",
+            "b": "100 to 250 mm",
+            "c": "300 to 600 mm",
+            "d": "600 to 1000 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Transit rule. This rule is used to balance the traverse when the angular measurements are more precise than the linear measurements. 5.26\u2002 Levelling The method of surveying used for determining the relative heights or elevations of points or objects on the surface of the earth, is called levelling. It is that part of surveying which deals with the measurements in a vertical plane. Levelling is of prime importance to an engineer for the purpose of planning, designing and executing the various engineering projects such as roads, railways, canals, dams, water supply and sanitary schemes etc. The following are important terms used in levelling.",
+        "options": {
+            "a": "Level surface. It is a surface parallel to the mean spheroidal surface of the earth, e.g. the surface of still",
+            "b": "Horizontal surface. A horizontal surface through any point is a surface tangential to the level surface at that",
+            "c": "Vertical surface. A vertical surface through any point is a surface normal to the level surface at that point.",
+            "d": "Datum surface or line. It is an arbitrary surface or line from which the elevation of points are measured and"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "The method of surveying used for determining the relative height of points on the surface of the earth is called",
+        "options": {
+            "a": "levelling",
+            "b": "simple levelling",
+            "c": "longitudinal levelling",
+            "d": "differential levelling"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "The vertical distance above or below the datum is called",
+        "options": {
+            "a": "reduced level of the point",
+            "b": "elevation of the point",
+            "c": "height of the instrument",
+            "d": "either (a) or (b)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "The height of instrument is the height of the centre of the telescope above the ground where the level is set up.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Match the correct answer from Group B for the statements given in Group A. Group A Group B",
+        "options": {
+            "a": "The first staff reading taken",
+            "b": "The last staff reading taken",
+            "c": "When the point is above the",
+            "d": "A point on which the staff is"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "A staff reading taken on a bench mark or a point of known elevation is called",
+        "options": {
+            "a": "fore sight reading",
+            "b": "back sight reading",
+            "c": "intermediate sight",
+            "d": "any one of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "A staff reading taken on a point whose elevation is to be determined as on a change point is called",
+        "options": {
+            "a": "fore sight reading",
+            "b": "back sight reading",
+            "c": "intermediate sight",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "The line of collimation should be ................. when staff readings are being taken",
+        "options": {
+            "a": "vertical",
+            "b": "horizontal",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "Indirect method: The points are selected first and their reduced levels are found. Then contour lines are drawn by any one of the following methods. [Set Variant 1]",
+        "options": {
+            "a": "Estimation",
+            "b": "Arithmetic calculations",
+            "c": "Graphical method",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Levelling & Contouring",
+        "question": "In India mean sea level used for fixing reduced levels is at [Set Variant 2]",
+        "options": {
+            "a": "Goa",
+            "b": "Mumbai",
+            "c": "Vishakapatnam",
+            "d": "Karachi"
+        },
+        "correct_answer": "a"
+    }
+]

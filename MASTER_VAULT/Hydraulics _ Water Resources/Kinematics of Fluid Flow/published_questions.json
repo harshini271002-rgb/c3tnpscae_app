@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The ratio of the velocity of flow V to the velocity of sound in the fluid medium is known as",
+        "options": {
+            "a": "Fraude number",
+            "b": "Mach number",
+            "c": "Newton number",
+            "d": "coefficient of viscocity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "If f is velocity potential, and u is the velocity in x direction, then",
+        "options": {
+            "a": "u = f",
+            "b": "u =",
+            "c": "u =",
+            "d": "f ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "If KL is loss coefficient, V is velocity of flow and g is gravitational acceleration, loss of head in pipe fittings is",
+        "options": {
+            "a": "",
+            "b": "KL",
+            "c": "",
+            "d": "KL ."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "If the velocity potential (f) satisfies the Laplace equation, then it represents the possible, steady, incompressible and irrotational flow",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The flow net is a \u2026......... representation of irrotational flow in two dimensions.",
+        "options": {
+            "a": "analytical",
+            "b": "graphical",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The Bernoulli\u2019s equation is based on the assumption that",
+        "options": {
+            "a": "there is no loss of energy of the liquid flowing",
+            "b": "the velocity of flow is uniform across any cross-",
+            "c": "no force except gravity acts on the fluid",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The Euler\u2019s equation for the motion of liquids is based upon the assumption that",
+        "options": {
+            "a": "the fluid is non - viscous, homogeneous and",
+            "b": "the velocity of flow is uniform over the section",
+            "c": "the flow is continuous, steady and along the",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "A pitot tube is used to measure the",
+        "options": {
+            "a": "velocity of flow at the required point in a pipe",
+            "b": "pressure difference between two points in a pipe",
+            "c": "total pressure of liquid flowing in a pipe",
+            "d": "discharge through a pipe"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "An orifice is said to be large, if",
+        "options": {
+            "a": "the size of orifice is large",
+            "b": "the velocity of flow is large",
+            "c": "the available head of liquid is more than 5 times",
+            "d": "the available head of liquid is less than 5 times"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The hydraulic mean depth or the hydraulic radius is the ratio of",
+        "options": {
+            "a": "area of flow and wetted perimeter",
+            "b": "wetted perimeter and diameter of pipe",
+            "c": "velocity of flow and area of flow",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "A compound pipe is required to be replaced by a new pipe. The two pipes are said to be equivalent, if",
+        "options": {
+            "a": "length of both the pipes is same",
+            "b": "diameter of both the pipes is same",
+            "c": "loss of head and discharge of both the pipes is",
+            "d": "loss of head and velocity of flow in both the pipes"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The water hammer in pipes occurs due to sudden change in the velocity of flowing liquid.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The velocity of flow is same at all points in the cross- section of a channel.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The critical depth meter is used to measure",
+        "options": {
+            "a": "velocity of flow in an open channel",
+            "b": "depth of flow in an open channel",
+            "c": "hydraulic jump",
+            "d": "depth of channel"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "A flow is called super-sonic if the",
+        "options": {
+            "a": "velocity of flow is very high",
+            "b": "discharge is difficult to measure",
+            "c": "Mach number is between 1and 6",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The jet ratio is defined as the ratio of",
+        "options": {
+            "a": "diameter of jet of water to the diameter of Pelton",
+            "b": "diameter of Pelton wheel to the diameter of the",
+            "c": "velocity of flow to the velocity of jet of water",
+            "d": "velocity of vane to the velocity of jet of water"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "In a lined canal, the resistance to flow decreases and velocity of flow increases.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The weed growth in a canal leads to",
+        "options": {
+            "a": "decrease in silting",
+            "b": "decrease in discharge",
+            "c": "increase in discharge",
+            "d": "increase in velocity of flow"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "Non-silting, non-scouring velocity is called ................. velocity of flow.",
+        "options": {
+            "a": "mean",
+            "b": "critical",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The area of the openings in screens should be such that the velocity of flow through them does not exceed",
+        "options": {
+            "a": "0.75 to 1 m/s",
+            "b": "1.5 to 3 m/s",
+            "c": "3 to 5 m/s",
+            "d": "5 to 6 m/s"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The ratio of the velocity of flow V to the velocity of sound in the fluid medium is known as [Set Variant 1]",
+        "options": {
+            "a": "Fraude number",
+            "b": "Mach number",
+            "c": "Newton number",
+            "d": "coefficient of viscocity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "If f is velocity potential, and u is the velocity in x direction, then [Set Variant 2]",
+        "options": {
+            "a": "u = f",
+            "b": "u =",
+            "c": "u =",
+            "d": "f ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "If KL is loss coefficient, V is velocity of flow and g is gravitational acceleration, loss of head in pipe fittings is [Set Variant 3]",
+        "options": {
+            "a": "",
+            "b": "KL",
+            "c": "",
+            "d": "KL ."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "If the velocity potential (f) satisfies the Laplace equation, then it represents the possible, steady, incompressible and irrotational flow [Set Variant 4]",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Kinematics of Fluid Flow",
+        "question": "The flow net is a \u2026......... representation of irrotational flow in two dimensions. [Set Variant 5]",
+        "options": {
+            "a": "analytical",
+            "b": "graphical",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The property of metal enabling it to be drawn into thin wire is known as",
+        "options": {
+            "a": "malleability",
+            "b": "ductility",
+            "c": "toughness",
+            "d": "plasticity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The lime which has property of setting in water is known as",
+        "options": {
+            "a": "fat lime",
+            "b": "hydraulic lime",
+            "c": "quicklime",
+            "d": "magnesium lime"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Which one of the following is not a desirable property of sand?",
+        "options": {
+            "a": "It should be chemically active.",
+            "b": "It should contain sharp, angular grains.",
+            "c": "It should be hard.",
+            "d": "It should be well graded."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Choose the correct statement about CPM.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A",
+            "b": "Both A and R are true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "If a material has identical properties in all directions, it is said to be",
+        "options": {
+            "a": "elastic",
+            "b": "isotropic",
+            "c": "orthotropic",
+            "d": "homogeneous"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Irrespective of grade, the following properties of steel are same",
+        "options": {
+            "a": "unit weight",
+            "b": "modules of elasticity",
+            "c": "Poisson\u2019s ratio",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The most important property which influences the fluid motion to a great extent is",
+        "options": {
+            "a": "density",
+            "b": "specific weight",
+            "c": "specific volume",
+            "d": "viscocity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The surveying used to determine additional details such as boundaries of fields, houses and other property is called",
+        "options": {
+            "a": "city surveying",
+            "b": "location surveying",
+            "c": "cadastral surveying",
+            "d": "topographical surveying"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Filteration. The process of purifying water by passing it through a bed of sand or other fine granular material, is called filteration. The filters are used for this purpose. The sand required for filteration should have the following properties:",
+        "options": {
+            "a": "It should be free from clay, loam, lime and organic matter.",
+            "b": "It should be of uniform size and nature.",
+            "c": "It should not be very fine nor too coarse.",
+            "d": "It should be resistant and hard."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The property of a soil which enables to regain its strength lost on remoulding in a short time, without change of moisture content, is called",
+        "options": {
+            "a": "unconfined compressive strength",
+            "b": "sensitivity",
+            "c": "thixotropy",
+            "d": "relative density"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Slack or Float. The slack is with reference to an event and float is with respect to an activity. In other works, slack is used with PERT and float with CPM, but in general practice, they may be used interchangeably. The slack or float represents the difference between the earliest completion or finish time and the latest allowable time. The slack or float may be positive, negative or zero. When the slack or float of an activity is positive, then it represents a situation where extra resources are available and the completion of project is not delayed. When the slack or float of an activity is negative, then it represents that a programme falls behind schedule and additional resources are required to complete the project in time. When the slack or float of an activity is zero, then the activity is critical and any delay in its performance will delay the completion of whole project. The slack or float may be total float, free float, interfering and independent float. The total float is the time available for an activity performance minus the duration of activity. It may be defined as the difference of the latest finish time (LFT) and earliest finish time (EFT). It is also equal to the difference of latest start time (LST) and earliest start time (EST). The free float is defined as the earliest start time (EST) of its successor activity and the earliest finish time (EFT) of the activity in question. The interfering float is the difference between the total float and free float of an activity. The independent float is the excess of minimum available time over the required activity duration\u2009: Notes:\t (a)\t \u0007The earliest possible time at which an activity may start is called earliest start time (EST).",
+        "options": {
+            "a": "Optimistic or best time. It is the shortest possible time in which an activity can be completed if every thing goes",
+            "b": "Most probable or likely time. It is the time in which the activity is normally expected to complete under normal",
+            "c": "Pessimistic or worst time. It is the time which an activity will take to complete in case of difficulty. It is the longest",
+            "d": "\u0007The sum of the latest start time (LST) of an activity and the time required for its completion, is called latest finish"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Milestone chart is an improvement over",
+        "options": {
+            "a": "bar chart",
+            "b": "PERT",
+            "c": "CPM",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The earliest method used for planning of projects was",
+        "options": {
+            "a": "CPM",
+            "b": "PERT",
+            "c": "bar chart",
+            "d": "milestone chart"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "PERT is a project planning and control technique.",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "PERT is an event oriented technique.",
+        "options": {
+            "a": "Right",
+            "b": "Wrong",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "In CPM, the cost slope is determined by",
+        "options": {
+            "a": "",
+            "b": "",
+            "c": "Normal cost",
+            "d": "Normal time"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Generally PERT is preferred over CPM for the purpose of project evaluation.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The property of metal enabling it to be drawn into thin wire is known as [Set Variant 1]",
+        "options": {
+            "a": "malleability",
+            "b": "ductility",
+            "c": "toughness",
+            "d": "plasticity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The lime which has property of setting in water is known as [Set Variant 2]",
+        "options": {
+            "a": "fat lime",
+            "b": "hydraulic lime",
+            "c": "quicklime",
+            "d": "magnesium lime"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Which one of the following is not a desirable property of sand? [Set Variant 3]",
+        "options": {
+            "a": "It should be chemically active.",
+            "b": "It should contain sharp, angular grains.",
+            "c": "It should be hard.",
+            "d": "It should be well graded."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Choose the correct statement about CPM. [Set Variant 4]",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A",
+            "b": "Both A and R are true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "If a material has identical properties in all directions, it is said to be [Set Variant 5]",
+        "options": {
+            "a": "elastic",
+            "b": "isotropic",
+            "c": "orthotropic",
+            "d": "homogeneous"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "Irrespective of grade, the following properties of steel are same [Set Variant 6]",
+        "options": {
+            "a": "unit weight",
+            "b": "modules of elasticity",
+            "c": "Poisson\u2019s ratio",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The most important property which influences the fluid motion to a great extent is [Set Variant 7]",
+        "options": {
+            "a": "density",
+            "b": "specific weight",
+            "c": "specific volume",
+            "d": "viscocity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Network Analysis (CPM & PERT)",
+        "question": "The surveying used to determine additional details such as boundaries of fields, houses and other property is called [Set Variant 8]",
+        "options": {
+            "a": "city surveying",
+            "b": "location surveying",
+            "c": "cadastral surveying",
+            "d": "topographical surveying"
+        },
+        "correct_answer": "a"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Heating technique of breaking rocks is suitable if the aim is to get",
+        "options": {
+            "a": "aggregates",
+            "b": "slabs",
+            "c": "building blocks",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Silica fumes have found their use in",
+        "options": {
+            "a": "pumped concrete",
+            "b": "high strength concrete",
+            "c": "shutcrete application",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "An aggregate is called fine aggregate if it is completely passes through",
+        "options": {
+            "a": "150 micron sieve",
+            "b": "300 micron sieve",
+            "c": "600 micron sieve",
+            "d": "4.75 mm sieve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "The aggregate is called coarse aggregate if it is completely retained on",
+        "options": {
+            "a": "20 mm sieve",
+            "b": "12 mm sieve",
+            "c": "8 mm sieve",
+            "d": "4.75 mm sieve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "The inert material to be used for making lime mortar is",
+        "options": {
+            "a": "sand",
+            "b": "surkhi",
+            "c": "cinder",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Briquettes are the specimen of mortar used for finding",
+        "options": {
+            "a": "compressive strength",
+            "b": "tensile strength",
+            "c": "flexural strength",
+            "d": "shear strength"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Which one of the following statement is wrong?",
+        "options": {
+            "a": "Lime concrete is used as base course for foundations.",
+            "b": "Lime concrete is used as base course to ground floor.",
+            "c": "Lime concrete is used to make roof waterproof.",
+            "d": "It is used for R.C.C structural elements."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Which one of the following statement is wrong? In the absence of mix design, the ingredients of concrete are proportioned as",
+        "options": {
+            "a": "1 : 1 : 2 \u2013 mass concrete work",
+            "b": "1 : 1  : 3 \u2013 water tanks",
+            "c": "1 : 2 : 4 \u2013 slabs, beams",
+            "d": "1 : 3 : 6 \u2013 sills of windows"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "In order to achieve required workability and good strength at the same time, water cement ratio, in case of machine mixing is",
+        "options": {
+            "a": "0.3 \u2013 0.4",
+            "b": "0.4 \u2013 0.5",
+            "c": "0.5 \u2013 0.6",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "In case of hand mixing in order to achieve good workability and good strength at the same time is",
+        "options": {
+            "a": "0.3 \u2013 0.4",
+            "b": "0.4 \u2013 0.5",
+            "c": "0.5 \u2013 0.6",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "In machine mixing of concrete, the drum is rotated to make about",
+        "options": {
+            "a": "35 rotations",
+            "b": "50 rotations",
+            "c": "65 rotations",
+            "d": "80 rotations"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "For transporting concrete which one of the following is not used?",
+        "options": {
+            "a": "pans",
+            "b": "chutes",
+            "c": "belt conveyor",
+            "d": "tractor"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Concrete should not be placed by dropping at a height more than",
+        "options": {
+            "a": "400 mm",
+            "b": "600 mm",
+            "c": "800 mm",
+            "d": "1000 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Curing of concrete is the process of",
+        "options": {
+            "a": "keeping the surrounding cool",
+            "b": "ponding the water on the surface",
+            "c": "covering the surface with wet gunny bags",
+            "d": "maintaining satisfactory moisture and temperature for a specific time"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "In precast industries, best method of curing is",
+        "options": {
+            "a": "ponding",
+            "b": "covering with wet gunny bags",
+            "c": "spraying water",
+            "d": "steam curing"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Curing compound mainly consists of",
+        "options": {
+            "a": "calcium hydroxide",
+            "b": "calcium oxide",
+            "c": "chlorinated rubber",
+            "d": "calcium nitrate"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Workability of concrete depends on",
+        "options": {
+            "a": "water content",
+            "b": "aggregate shape and size",
+            "c": "mix proportion",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Which one of the following yields more workable concrete?",
+        "options": {
+            "a": "Bigger size aggregates with rounded shape.",
+            "b": "Bigger size aggregates with angular shape.",
+            "c": "Smaller size aggregates with rounded shape.",
+            "d": "Smaller size aggregates with angular shape."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Which one of the following mix has higher workability?",
+        "options": {
+            "a": "Well graded aggregate with richer mix.",
+            "b": "Well graded aggregate with poorer mix.",
+            "c": "Uniform grade aggregate with rich mix.",
+            "d": "Uniform grade aggregate with poor mix."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Workability of concrete is determined by",
+        "options": {
+            "a": "slump test",
+            "b": "compaction factor test",
+            "c": "Vee-Bee test",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "For concreting heavily reinforced sections without vibrations, compaction factor should be",
+        "options": {
+            "a": "0.75 \u2013 0.80",
+            "b": "0.80 \u2013 0.85",
+            "c": "0.85 \u2013 0.92",
+            "d": "more than 0.92"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Heating technique of breaking rocks is suitable if the aim is to get [Set Variant 1]",
+        "options": {
+            "a": "aggregates",
+            "b": "slabs",
+            "c": "building blocks",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "Silica fumes have found their use in [Set Variant 2]",
+        "options": {
+            "a": "pumped concrete",
+            "b": "high strength concrete",
+            "c": "shutcrete application",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "An aggregate is called fine aggregate if it is completely passes through [Set Variant 3]",
+        "options": {
+            "a": "150 micron sieve",
+            "b": "300 micron sieve",
+            "c": "600 micron sieve",
+            "d": "4.75 mm sieve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Lime, Mortar & Concrete",
+        "question": "The aggregate is called coarse aggregate if it is completely retained on [Set Variant 4]",
+        "options": {
+            "a": "20 mm sieve",
+            "b": "12 mm sieve",
+            "c": "8 mm sieve",
+            "d": "4.75 mm sieve"
+        },
+        "correct_answer": "a"
+    }
+]

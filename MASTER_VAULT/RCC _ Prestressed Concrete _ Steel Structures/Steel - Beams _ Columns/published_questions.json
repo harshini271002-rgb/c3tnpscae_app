@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Lateral thrust across the crane rail. * Position of crane hook for maximum shear on gantry girder should be considered. * On gantry girder the position of crane girder for maximum shear and bending moment should be considered. * The ideal profile for gantry girder is a I-section strengthened with a channel section on compression flange. If necessary additional flange plates also may be used. * Limitations on vertical deflections are as shown in Table 8.1. Table 8.1 Limitations on deflections of gantry girders Category Max. deflection Vertical deflection:",
+        "options": {
+            "a": "Manually operated cranes",
+            "b": "Electrically operated cranes upto 500 kN",
+            "c": "Electrically operated cranes over 500 KN",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In a plate girder of depth d, if one horizontal stiffener is to be provided, it should be at ______ below compression flange.",
+        "options": {
+            "a": "0.2 d",
+            "b": "0.25 d",
+            "c": "0.3 d",
+            "d": "0.5 d"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In a plate girder, if two horizontal stiffeners are to be used they should be at depth ______from compression flange.",
+        "options": {
+            "a": "0.2 d and 0.4 d",
+            "b": "0.2 d and 0.5 d",
+            "c": "0.33 d and 0.67 d",
+            "d": "0.4 d and 0.8 d"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Assuming moment is resisted by flanges only, flange area of a plate girder may be found by using the equation",
+        "options": {
+            "a": "Af =",
+            "b": "Af =",
+            "c": "Af =",
+            "d": "Af ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Simple post-critical method may be used for finding shear buckling resistance of web in case of plate girder",
+        "options": {
+            "a": "without vertical stiffeners only",
+            "b": "with vertical stiffeners only",
+            "c": "with or without vertical stiffeners",
+            "d": "with vertical and horizontal stiffeners."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "For finding buckling resistance of a stiffener in a plate girder the area of web to be added is",
+        "options": {
+            "a": "20 tw from one side of stiffner",
+            "b": "20 tw from each side",
+            "c": "28 tw from one side",
+            "d": "28 tw from each side"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Gantry girders are designed to resist",
+        "options": {
+            "a": "vertical load from cranes",
+            "b": "longitudinal and vertical loads",
+            "c": "lateral, longitudinal and vertical loads",
+            "d": "lateral and longitudinal loads"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In the design of gantry girders impact factor for vertical loads for electrically operated cranes is taken as",
+        "options": {
+            "a": "10%",
+            "b": "15%",
+            "c": "20%",
+            "d": "25%"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In the design of hands operated gantry girders, the impact factor for vertical loads to be considered is",
+        "options": {
+            "a": "10%",
+            "b": "15%",
+            "c": "20%",
+            "d": "25%"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In designing gantry girders impact factor for horizontal force along rails is taken as",
+        "options": {
+            "a": "5%",
+            "b": "10%",
+            "c": "15%",
+            "d": "25%"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "The web crippling generally occurs at the point where",
+        "options": {
+            "a": "bending moment is maximum",
+            "b": "shear force is maximum",
+            "c": "concentrated load act",
+            "d": "deflection is maximum"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "A beam that is safe in web crippling will not be safe in web buckling.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "The vertical plate of a plate girder is termed as",
+        "options": {
+            "a": "web plate",
+            "b": "flange plate",
+            "c": "cover plate",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "The distance between C.G. of compression flange and C.G. of tension flange of a plate girder, is known as",
+        "options": {
+            "a": "overall depth",
+            "b": "effective depth",
+            "c": "clear depth",
+            "d": "economical depth"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In general, the depth of plate girder is kept as ................. of span.",
+        "options": {
+            "a": "1",
+            "b": "1",
+            "c": "1",
+            "d": "1"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "The clear depth of a plate girder is the",
+        "options": {
+            "a": "depth between outer surface of flanges",
+            "b": "distance between C.G. of compression flange and",
+            "c": "\u0007distance between vertical legs of flange angles",
+            "d": "depth which gives minimum weight of plate girder"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "When the depth of plate girder is less than 75 cm, then such girders are known as",
+        "options": {
+            "a": "deep plate girders",
+            "b": "shallow plate girders",
+            "c": "economical plate girders",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "The economical depth of the plate girder is defined as the",
+        "options": {
+            "a": "depth between outer surfaces of flanges",
+            "b": "distance between vertical legs of flange angles",
+            "c": "depth which gives minimum weight of plate girder",
+            "d": "depth which gives maximum weight of plate girder"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Lateral thrust across the crane rail. * Position of crane hook for maximum shear on gantry girder should be considered. * On gantry girder the position of crane girder for maximum shear and bending moment should be considered. * The ideal profile for gantry girder is a I-section strengthened with a channel section on compression flange. If necessary additional flange plates also may be used. * Limitations on vertical deflections are as shown in Table 8.1. Table 8.1 Limitations on deflections of gantry girders Category Max. deflection Vertical deflection: [Set Variant 1]",
+        "options": {
+            "a": "Manually operated cranes",
+            "b": "Electrically operated cranes upto 500 kN",
+            "c": "Electrically operated cranes over 500 KN",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In a plate girder of depth d, if one horizontal stiffener is to be provided, it should be at ______ below compression flange. [Set Variant 2]",
+        "options": {
+            "a": "0.2 d",
+            "b": "0.25 d",
+            "c": "0.3 d",
+            "d": "0.5 d"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "In a plate girder, if two horizontal stiffeners are to be used they should be at depth ______from compression flange. [Set Variant 3]",
+        "options": {
+            "a": "0.2 d and 0.4 d",
+            "b": "0.2 d and 0.5 d",
+            "c": "0.33 d and 0.67 d",
+            "d": "0.4 d and 0.8 d"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Assuming moment is resisted by flanges only, flange area of a plate girder may be found by using the equation [Set Variant 4]",
+        "options": {
+            "a": "Af =",
+            "b": "Af =",
+            "c": "Af =",
+            "d": "Af ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Simple post-critical method may be used for finding shear buckling resistance of web in case of plate girder [Set Variant 5]",
+        "options": {
+            "a": "without vertical stiffeners only",
+            "b": "with vertical stiffeners only",
+            "c": "with or without vertical stiffeners",
+            "d": "with vertical and horizontal stiffeners."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "For finding buckling resistance of a stiffener in a plate girder the area of web to be added is [Set Variant 6]",
+        "options": {
+            "a": "20 tw from one side of stiffner",
+            "b": "20 tw from each side",
+            "c": "28 tw from one side",
+            "d": "28 tw from each side"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Beams & Columns",
+        "question": "Gantry girders are designed to resist [Set Variant 7]",
+        "options": {
+            "a": "vertical load from cranes",
+            "b": "longitudinal and vertical loads",
+            "c": "lateral, longitudinal and vertical loads",
+            "d": "lateral and longitudinal loads"
+        },
+        "correct_answer": "a"
+    }
+]

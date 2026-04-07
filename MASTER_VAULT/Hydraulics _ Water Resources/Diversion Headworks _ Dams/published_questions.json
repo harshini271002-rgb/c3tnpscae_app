@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The gravity dam of height h is subjected to a overturning moment of ______ per metre length.",
+        "options": {
+            "a": "gh3",
+            "b": "gh2",
+            "c": "gh2",
+            "d": "gh2"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "A solid construction across a river to raise its water level and divert the water into the canal is known as",
+        "options": {
+            "a": "bund",
+            "b": "barrage",
+            "c": "weir",
+            "d": "dam"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The storage created by construction of low earthern bunds, is known as",
+        "options": {
+            "a": "a reservoir",
+            "b": "a lake",
+            "c": "a tank",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "Which one of the following is not surface water?",
+        "options": {
+            "a": "From river diversion.",
+            "b": "From reservoir storage.",
+            "c": "From natural lakes.",
+            "d": "From natural spring."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "In a dam project geological investigations are to get information about",
+        "options": {
+            "a": "water-tightness of the reservoir basin",
+            "b": "type and depth of overburden",
+            "c": "structural features of rock such as folds, faults, fissures",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "For reservoir planning the important investigation is",
+        "options": {
+            "a": "engineering survey",
+            "b": "geological investigation",
+            "c": "hydrological investigation",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "Water obtained from ______ is generally known as sub-surface water.",
+        "options": {
+            "a": "rains",
+            "b": "rivers",
+            "c": "reservoirs",
+            "d": "artesian wells"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "A weir, generally, used as a spillway of a dam is",
+        "options": {
+            "a": "narrow crested weir\t (b)\t broad crested weir",
+            "b": "",
+            "c": "Ogee weir",
+            "d": "submerged weir"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "A siphon is used to connect two reservoirs at different levels intervened by a high ridge.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "For ascertaining the effect of reservoirs, levees, and other control works in flood flow in a stream. Notes:\t (a)\t \u0007The science which deals with the physical features and conditions of water on the earth surface is called hydrography.",
+        "options": {
+            "a": "Cyclonic precipitation. It results from lifting of air masses converging into low pressure area.",
+            "b": "Convective precipitation. It results from natural rising of warmer, lighter air in colder and denser surroundings.",
+            "c": "Orographic precipitation. It results from lifting of warm moisture-laden air masses due to topographic barriers.",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "A solid construction put across the river to raise its water level and divert the water into the canal, is known as",
+        "options": {
+            "a": "marginal bund",
+            "b": "weir",
+            "c": "barrage",
+            "d": "dam"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The function of a barrage is different to that a weir.",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "In a barrage, crest level is kept",
+        "options": {
+            "a": "low with large gates",
+            "b": "high with large gates",
+            "c": "high with small gates",
+            "d": "low with small gates"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The crest level in a barrage is kept at a .............. level.",
+        "options": {
+            "a": "low",
+            "b": "high",
+            "c": "moderate",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The water obtained from ................. is generally known as sub-surface water.",
+        "options": {
+            "a": "rains",
+            "b": "rivers",
+            "c": "reservoirs",
+            "d": "artesian wells"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The amount of water collected in a reservoir is divided into three portions and the order of their existance from bottom to the top is",
+        "options": {
+            "a": "useful storage, surcharge storage, dead storage",
+            "b": "useful storage, dead storage, surcharge storage",
+            "c": "dead storage, useful storage, surcharge storage",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "Which of the following statement is correct ?",
+        "options": {
+            "a": "The rate of silting in a reservoir is more in the",
+            "b": "\u0007At the economical height of a dam, its cost per",
+            "c": "\u0007The percentage of water required for public",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "When high level spots are not available for the construction of ground level reservoirs, elevated reservoirs can be used.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The gravity dam of height h is subjected to a overturning moment of ______ per metre length. [Set Variant 1]",
+        "options": {
+            "a": "gh3",
+            "b": "gh2",
+            "c": "gh2",
+            "d": "gh2"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "A solid construction across a river to raise its water level and divert the water into the canal is known as [Set Variant 2]",
+        "options": {
+            "a": "bund",
+            "b": "barrage",
+            "c": "weir",
+            "d": "dam"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "The storage created by construction of low earthern bunds, is known as [Set Variant 3]",
+        "options": {
+            "a": "a reservoir",
+            "b": "a lake",
+            "c": "a tank",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "Which one of the following is not surface water? [Set Variant 4]",
+        "options": {
+            "a": "From river diversion.",
+            "b": "From reservoir storage.",
+            "c": "From natural lakes.",
+            "d": "From natural spring."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "In a dam project geological investigations are to get information about [Set Variant 5]",
+        "options": {
+            "a": "water-tightness of the reservoir basin",
+            "b": "type and depth of overburden",
+            "c": "structural features of rock such as folds, faults, fissures",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "For reservoir planning the important investigation is [Set Variant 6]",
+        "options": {
+            "a": "engineering survey",
+            "b": "geological investigation",
+            "c": "hydrological investigation",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Diversion Headworks & Dams",
+        "question": "Water obtained from ______ is generally known as sub-surface water. [Set Variant 7]",
+        "options": {
+            "a": "rains",
+            "b": "rivers",
+            "c": "reservoirs",
+            "d": "artesian wells"
+        },
+        "correct_answer": "a"
+    }
+]

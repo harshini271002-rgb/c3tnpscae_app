@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Assumed value of saturation gradient (H : V) in clay is",
+        "options": {
+            "a": "1 : 3",
+            "b": "1 : 4",
+            "c": "1 : 6",
+            "d": "1 : 8"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Lime stabilization: It is mainly used to stabilize subgrades of roads. In this process:",
+        "options": {
+            "a": "Clay particles get flocculated into larger size.",
+            "b": "Shrinkage limit increases, Resistance to water absorption, capillary size and volume change",
+            "c": "Strength and durability increase.",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Void ratio is the ratio of volume of voids to",
+        "options": {
+            "a": "volume of solids",
+            "b": "total volume of soil",
+            "c": "unit weight of soil",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "The ratio of voids to total volume of soil mass is called",
+        "options": {
+            "a": "void ratio",
+            "b": "porosity",
+            "c": "degree of saturation",
+            "d": "water content ratio"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "If the volume of voids is equal to the volume of soil solids, then the porosity and void ratio are respectively",
+        "options": {
+            "a": "0 and 1",
+            "b": "1 and 0",
+            "c": "0.5 and 1",
+            "d": "1 and 0.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Generally, specific gravity of soil solid varies between",
+        "options": {
+            "a": "1.5 to 2",
+            "b": "2 to 3",
+            "c": "3 to 3.5",
+            "d": "more than 3.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "If e is void ratio and n is porosity then",
+        "options": {
+            "a": "e =",
+            "b": "e =",
+            "c": "e =",
+            "d": "e ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "If w is water content, e is porosity, S is saturation degree and G is specific gravity then",
+        "options": {
+            "a": "w = G \u00d7 s \u00d7 e",
+            "b": "w =",
+            "c": "w =",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "In the loosest form spherical shaped particles have void ratio upto",
+        "options": {
+            "a": "0.7",
+            "b": "0.80",
+            "c": "0.90",
+            "d": "0.95"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "In the densest state void ratio of soil can be as low as",
+        "options": {
+            "a": "0.3",
+            "b": "0.25",
+            "c": "0.2",
+            "d": "0.15"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Plastic limit of a soil is defined as",
+        "options": {
+            "a": "the limit of water content that represents the boundary between plastic and semi-solid state.",
+            "b": "the lowest water content at which soil can still be completely saturated.",
+            "c": "the water content at which the soil shows shearing resistance as the water content is reduced.",
+            "d": "none of the above."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Plastic limit is defined as ______",
+        "options": {
+            "a": "the limit of water content that represents the boundary between plastic and semi-solid state.",
+            "b": "the lowest water content at which soil can still be completely saturated.",
+            "c": "the water content at which the soil shows shearing resistance as the water content is reduced.",
+            "d": "none of the above."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Shrinkage limit is defined as ______",
+        "options": {
+            "a": "the limit of water content that represents the boundary between plastic and semi-solid state.",
+            "b": "the lowest water content at which soil can still be completely saturated.",
+            "c": "the water content at which the soil shows shearing resistance as the water content is reduced.",
+            "d": "none of the above."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Difference between liquid limit and plastic limit is known as",
+        "options": {
+            "a": "plasticity index",
+            "b": "consistency index",
+            "c": "liquidity index",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "If consistency index is zero, it means that the soil",
+        "options": {
+            "a": "is at plastic limit",
+            "b": "is at liquid limit",
+            "c": "behaves like liquid",
+            "d": "is tiff"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "The moisture content of a clayey soil is gradually reduced from a large value. The correct sequence of the occurrence of the limit are",
+        "options": {
+            "a": "plastic limit, liquid limit and shrinkage limit.",
+            "b": "shrinkage limit, plastic limit and liquid limit.",
+            "c": "liquid limit, plastic limit and shrinkage limit.",
+            "d": "plastic limit, shrinkage limit and liquid limit."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Which one of the following is not a factor influencing coefficient permeability.",
+        "options": {
+            "a": "Size and shape of particle",
+            "b": "Viscocity of water",
+            "c": "Degree of saturation",
+            "d": "Hydraulic gradient"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "In the process of lime stabilization of clay",
+        "options": {
+            "a": "clay particles get flocculated into large size.",
+            "b": "shrinkage limit increases.",
+            "c": "strength increases.",
+            "d": "all the above."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "The portion of soil through which lateral movement of water takes place is called",
+        "options": {
+            "a": "aquiclude",
+            "b": "water table",
+            "c": "zone of saturation",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Suitable method for forecasting population of a large city, which has reached its saturation population is",
+        "options": {
+            "a": "arithmetic increase method",
+            "b": "geometric increase method",
+            "c": "incremental increase method",
+            "d": "graphical method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Assumed value of saturation gradient (H : V) in clay is [Set Variant 1]",
+        "options": {
+            "a": "1 : 3",
+            "b": "1 : 4",
+            "c": "1 : 6",
+            "d": "1 : 8"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Lime stabilization: It is mainly used to stabilize subgrades of roads. In this process: [Set Variant 2]",
+        "options": {
+            "a": "Clay particles get flocculated into larger size.",
+            "b": "Shrinkage limit increases, Resistance to water absorption, capillary size and volume change",
+            "c": "Strength and durability increase.",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "Void ratio is the ratio of volume of voids to [Set Variant 3]",
+        "options": {
+            "a": "volume of solids",
+            "b": "total volume of soil",
+            "c": "unit weight of soil",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "The ratio of voids to total volume of soil mass is called [Set Variant 4]",
+        "options": {
+            "a": "void ratio",
+            "b": "porosity",
+            "c": "degree of saturation",
+            "d": "water content ratio"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Soil Classification & Properties",
+        "question": "If the volume of voids is equal to the volume of soil solids, then the porosity and void ratio are respectively [Set Variant 5]",
+        "options": {
+            "a": "0 and 1",
+            "b": "1 and 0",
+            "c": "0.5 and 1",
+            "d": "1 and 0.5"
+        },
+        "correct_answer": "a"
+    }
+]

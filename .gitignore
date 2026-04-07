@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large PDFs (not needed for deployment)
+*.pdf
+
+# Temp scripts (not needed)
+rebuild_strict.py
+trim_db.py
+clean_db.py
+extract_questions.py
+extract_sample*.py
+Admin_Dashboard_Code/

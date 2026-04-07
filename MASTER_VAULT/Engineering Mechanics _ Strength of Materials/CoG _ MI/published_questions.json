@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based",
+        "question": "[CoG & MI Advanced Check #1] The center of gravity of a solid hemisphere of radius R from its diametral plane is located at a distance of:",
+        "options": {
+            "a": "3R/8",
+            "b": "3R/4",
+            "c": "4R/3\u03c0",
+            "d": "R/2"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Formula-based",
+        "question": "[CoG & MI Advanced Check #2] According to the parallel axis theorem, the moment of inertia I about any axis parallel to the centroidal axis is equal to Icg + :",
+        "options": {
+            "a": "Ah\u00b3/12",
+            "b": "Ah",
+            "c": "h\u00b2/A",
+            "d": "Ah\u00b2"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Match the Following",
+        "question": "[CoG & MI Advanced Check #3] Match Shape with MI about centroidal axis:\nP. Rectangle (b, d)\nQ. Circle (dia D)\nR. Triangle (base b, height h)\n\n1. \u03c0D\u2074/64\n2. bd\u00b3/12\n3. bh\u00b3/36",
+        "options": {
+            "a": "P-3, Q-1, R-2",
+            "b": "P-2, Q-3, R-1",
+            "c": "P-1, Q-2, R-3",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #4] The moment of inertia of a rectangular cross-section of width 13 mm and depth 23 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "52723.67 mm\u2074",
+            "b": "13180.92 mm\u2074",
+            "c": "4210.92 mm\u2074",
+            "d": "1146.17 mm\u2074"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #5] The polar moment of inertia (J) of a solid circular shaft of diameter 18 mm is approximately:",
+        "options": {
+            "a": "1145.11 mm\u2074",
+            "b": "572.56 mm\u2074",
+            "c": "5153.0 mm\u2074",
+            "d": "10305.99 mm\u2074"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #6] The radius of gyration (k) of a solid rectangular section of width B and depth 35 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "14.29 mm",
+            "b": "17.5 mm",
+            "c": "5.83 mm",
+            "d": "10.1 mm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #7] The moment of inertia of a rectangular cross-section of width 16 mm and depth 26 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "93738.67 mm\u2074",
+            "b": "1802.67 mm\u2074",
+            "c": "23434.67 mm\u2074",
+            "d": "8874.67 mm\u2074"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #8] The polar moment of inertia (J) of a solid circular shaft of diameter 24 mm is approximately:",
+        "options": {
+            "a": "32572.03 mm\u2074",
+            "b": "1357.17 mm\u2074",
+            "c": "16286.02 mm\u2074",
+            "d": "2714.34 mm\u2074"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #9] The radius of gyration (k) of a solid rectangular section of width B and depth 38 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "10.97 mm",
+            "b": "6.33 mm",
+            "c": "15.51 mm",
+            "d": "19.0 mm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #10] The moment of inertia of a rectangular cross-section of width 19 mm and depth 29 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "154463.67 mm\u2074",
+            "b": "38615.92 mm\u2074",
+            "c": "2663.17 mm\u2074",
+            "d": "16575.92 mm\u2074"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #11] The polar moment of inertia (J) of a solid circular shaft of diameter 30 mm is approximately:",
+        "options": {
+            "a": "79521.56 mm\u2074",
+            "b": "39760.78 mm\u2074",
+            "c": "5301.44 mm\u2074",
+            "d": "2650.72 mm\u2074"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #12] The radius of gyration (k) of a solid rectangular section of width B and depth 41 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "16.74 mm",
+            "b": "20.5 mm",
+            "c": "11.84 mm",
+            "d": "6.83 mm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #13] The moment of inertia of a rectangular cross-section of width 22 mm and depth 32 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "60074.67 mm\u2074",
+            "b": "3754.67 mm\u2074",
+            "c": "28394.67 mm\u2074",
+            "d": "240298.67 mm\u2074"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #14] The polar moment of inertia (J) of a solid circular shaft of diameter 36 mm is approximately:",
+        "options": {
+            "a": "4580.44 mm\u2074",
+            "b": "164895.92 mm\u2074",
+            "c": "82447.96 mm\u2074",
+            "d": "9160.88 mm\u2074"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #15] The radius of gyration (k) of a solid rectangular section of width B and depth 44 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "17.96 mm",
+            "b": "12.7 mm",
+            "c": "22.0 mm",
+            "d": "7.33 mm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #16] The moment of inertia of a rectangular cross-section of width 25 mm and depth 35 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "89322.92 mm\u2074",
+            "b": "5104.17 mm\u2074",
+            "c": "45572.92 mm\u2074",
+            "d": "357291.67 mm\u2074"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #17] The polar moment of inertia (J) of a solid circular shaft of diameter 42 mm is approximately:",
+        "options": {
+            "a": "14547.14 mm\u2074",
+            "b": "152745.02 mm\u2074",
+            "c": "7273.57 mm\u2074",
+            "d": "305490.04 mm\u2074"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #18] The radius of gyration (k) of a solid rectangular section of width B and depth 47 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "19.19 mm",
+            "b": "13.57 mm",
+            "c": "23.5 mm",
+            "d": "7.83 mm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #19] The moment of inertia of a rectangular cross-section of width 28 mm and depth 38 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "6738.67 mm\u2074",
+            "b": "69514.67 mm\u2074",
+            "c": "512138.67 mm\u2074",
+            "d": "128034.67 mm\u2074"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #20] The polar moment of inertia (J) of a solid circular shaft of diameter 48 mm is approximately:",
+        "options": {
+            "a": "521152.52 mm\u2074",
+            "b": "260576.26 mm\u2074",
+            "c": "10857.34 mm\u2074",
+            "d": "21714.69 mm\u2074"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #21] The radius of gyration (k) of a solid rectangular section of width B and depth 50 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "20.41 mm",
+            "b": "25.0 mm",
+            "c": "14.43 mm",
+            "d": "8.33 mm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #22] The moment of inertia of a rectangular cross-section of width 31 mm and depth 41 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "178045.92 mm\u2074",
+            "b": "8685.17 mm\u2074",
+            "c": "712183.67 mm\u2074",
+            "d": "101785.92 mm\u2074"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #23] The polar moment of inertia (J) of a solid circular shaft of diameter 54 mm is approximately:",
+        "options": {
+            "a": "30917.98 mm\u2074",
+            "b": "834785.57 mm\u2074",
+            "c": "417392.79 mm\u2074",
+            "d": "15458.99 mm\u2074"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #24] The radius of gyration (k) of a solid rectangular section of width B and depth 53 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "26.5 mm",
+            "b": "21.64 mm",
+            "c": "15.3 mm",
+            "d": "8.83 mm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Numerical",
+        "question": "[CoG & MI Advanced Check #25] The moment of inertia of a rectangular cross-section of width 34 mm and depth 44 mm about its horizontal centroidal axis is:",
+        "options": {
+            "a": "144114.67 mm\u2074",
+            "b": "965418.67 mm\u2074",
+            "c": "241354.67 mm\u2074",
+            "d": "10970.67 mm\u2074"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

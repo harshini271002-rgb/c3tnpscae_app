@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "The best technique of water distribution in the field that can be used for all types of soils and for widely different topographies and slopes is",
+        "options": {
+            "a": "free flooding",
+            "b": "border flooding",
+            "c": "sprinkler irrigation method",
+            "d": "furrow irrigation method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "A channel is said to be in regime when",
+        "options": {
+            "a": "silt grade and silt charge are constant",
+            "b": "discharge is constant",
+            "c": "is flowing in unlimited incoherent alluvium of the same character as that transported",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Generally, pressure relief valves open out, as soon as the differential pressure become",
+        "options": {
+            "a": "100 mm",
+            "b": "200 mm",
+            "c": "300 mm",
+            "d": "500 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "The crest level of the distributary head is generally kept at ______ higher than the bed level of the parent channel.",
+        "options": {
+            "a": "0.3 to 1.0 m",
+            "b": "1.2 \u2013 1.8 m",
+            "c": "2.0 to 2.5 m",
+            "d": "more than 2.5 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "In the design of piers, the water pressure to be considered is",
+        "options": {
+            "a": "static pressure",
+            "b": "dynamic pressure",
+            "c": "impact due to cross current",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Two equal and opposite parallel forces whose lines of action are different, can be replaced by a single force parallel to the given forces.",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Two equal and opposite parallel forces whose lines of action are different form a couple.",
+        "options": {
+            "a": "Right",
+            "b": "Wrong",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "A differential pulley block has larger and smaller diameters of 100 mm and 80 mm respectively. Its velocity ratio is",
+        "options": {
+            "a": "5",
+            "b": "10",
+            "c": "20",
+            "d": "40"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "The density of air is same at different heights.",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "If an incompressible liquid is continuously flowing through a pipe, the quantity of liquid passing per second is different at different sections.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "The flow in a pipe or channel is said to be uniform when",
+        "options": {
+            "a": "the liquid particles at all sections have the same",
+            "b": "the liquid particles at different sections have",
+            "c": "the quantity of liquid flowing per second is",
+            "d": "each liquid particle has a definite path"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "The flow in a pipe or channel is said to be non-uniform when",
+        "options": {
+            "a": "the liquid particles at all sections have the same",
+            "b": "the liquid particles at different sections have",
+            "c": "the quantity of liquid flowing per second is",
+            "d": "each liquid particle has a definite path"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Which type of the pump is different from others in the same group?",
+        "options": {
+            "a": "Screw pump",
+            "b": "Gear pump",
+            "c": "Cam and piston pump",
+            "d": "Plunger pump"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Geodetic survey is different from plane surveying because of",
+        "options": {
+            "a": "very large area is covered",
+            "b": "the curvature of the earth is considered",
+            "c": "undulations of the topography",
+            "d": "the large difference of elevations"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "A scale which has a common representative fraction, but read in different measures, is called a",
+        "options": {
+            "a": "plain scale",
+            "b": "diagonal scale",
+            "c": "shrunk scale",
+            "d": "comparative scale"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "In locating the details of an object whose direct measurement is not possible due to some obstruction, the method used is",
+        "options": {
+            "a": "by angles and distances from the same station",
+            "b": "by angle from one station and distance from the",
+            "c": "by distance from two different stations",
+            "d": "by angles from two different stations"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "In locating the details of inaccessible objects visible at least from transit stations, the method used is",
+        "options": {
+            "a": "by angles and distances from the same station",
+            "b": "by angle from one station and distance from the",
+            "c": "by distances from two different stations",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "The best technique of water distribution in the field that can be used for all types of soils and for widely different topographies and slopes is [Set Variant 1]",
+        "options": {
+            "a": "free flooding",
+            "b": "border flooding",
+            "c": "sprinkler irrigation method",
+            "d": "furrow irrigation method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "A channel is said to be in regime when [Set Variant 2]",
+        "options": {
+            "a": "silt grade and silt charge are constant",
+            "b": "discharge is constant",
+            "c": "is flowing in unlimited incoherent alluvium of the same character as that transported",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Generally, pressure relief valves open out, as soon as the differential pressure become [Set Variant 3]",
+        "options": {
+            "a": "100 mm",
+            "b": "200 mm",
+            "c": "300 mm",
+            "d": "500 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "The crest level of the distributary head is generally kept at ______ higher than the bed level of the parent channel. [Set Variant 4]",
+        "options": {
+            "a": "0.3 to 1.0 m",
+            "b": "1.2 \u2013 1.8 m",
+            "c": "2.0 to 2.5 m",
+            "d": "more than 2.5 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "In the design of piers, the water pressure to be considered is [Set Variant 5]",
+        "options": {
+            "a": "static pressure",
+            "b": "dynamic pressure",
+            "c": "impact due to cross current",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Two equal and opposite parallel forces whose lines of action are different, can be replaced by a single force parallel to the given forces. [Set Variant 6]",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "Two equal and opposite parallel forces whose lines of action are different form a couple. [Set Variant 7]",
+        "options": {
+            "a": "Right",
+            "b": "Wrong",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Valuation of Properties",
+        "question": "A differential pulley block has larger and smaller diameters of 100 mm and 80 mm respectively. Its velocity ratio is [Set Variant 8]",
+        "options": {
+            "a": "5",
+            "b": "10",
+            "c": "20",
+            "d": "40"
+        },
+        "correct_answer": "a"
+    }
+]

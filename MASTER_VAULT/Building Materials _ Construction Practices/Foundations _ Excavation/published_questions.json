@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Suitable foundation for steel columns is",
+        "options": {
+            "a": "mat foundation",
+            "b": "combined foundation",
+            "c": "strap footing",
+            "d": "grillage footing"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "In trenching for foundations boning rod is used to",
+        "options": {
+            "a": "maintain the required spacing between the sheetings",
+            "b": "to strengthen the frame supporting sheeting",
+            "c": "to check the level of foundation depth",
+            "d": "to strengthen sheeting"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "To ensure that the older structure is not damaged due to the depth of foundation of new structure being more, the line joining the nearest points of two foundations in case of soft soil should not be more than",
+        "options": {
+            "a": "10\u00b0",
+            "b": "20\u00b0",
+            "c": "30\u00b0",
+            "d": "45\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "A temporary structure built around a construction site to remove water and make the area reasonably dry is known as",
+        "options": {
+            "a": "caisson",
+            "b": "well foundation",
+            "c": "",
+            "d": "raft foundation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "A watertight chamber, which becomes a permanent part of the construction work is known as",
+        "options": {
+            "a": "cofferdam",
+            "b": "well foundation",
+            "c": "raft foundation",
+            "d": "caisson"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Methods of waterproofing basements is",
+        "options": {
+            "a": "providing foundation draining and DPC",
+            "b": "providing R.C.C. raft and wall slab",
+            "c": "asphalt tanking",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Combined footing supporting two columns may be of the following types:",
+        "options": {
+            "a": "Rectangular slab footing",
+            "b": "Trapezoidal slab type",
+            "c": "Beam and slab type",
+            "d": "Strap footing."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Minimum thickness of footing shall be A: for footing on soil \u2013150 mm B: for footing on piles \u2013250 mm Select your answer code",
+        "options": {
+            "a": "Both A and B are true.",
+            "b": "A is true but B is true.",
+            "c": "A is false but B is true.",
+            "d": "Both A and B are false."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "The depth of footing required for an isolated column depends upon",
+        "options": {
+            "a": "bending moment",
+            "b": "single shear",
+            "c": "double shear",
+            "d": "all the three above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "In the design of isolated column footing, of thickness d the critical section from the consideration of single shear is",
+        "options": {
+            "a": "at column face",
+            "b": "at distance d/4 from the column face",
+            "c": "at distance  from the face of column",
+            "d": "at distance d from the face of column"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "If the size of the column is 250 \u00d7 300 mm and depth of footing is 400 mm, the perimeter of critical section for two way shear is",
+        "options": {
+            "a": "1100 mm",
+            "b": "1500 mm",
+            "c": "2700 mm",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "For designing square footing for a circular column of diameter d, equivalent square column has side",
+        "options": {
+            "a": "d",
+            "b": "0.8 d",
+            "c": "0.75 d",
+            "d": "0.707 d"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "For a circular column of 200 mm radius a circular footing of radius 1.25 m is provided. If the depth of footing is 600 mm and factored earth pressure is qu, the design two way shear will be",
+        "options": {
+            "a": "1.5225 p qu",
+            "b": "1.44 p qu",
+            "c": "1.3125 p qu",
+            "d": "0.9225 p qu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Minimum cover beyond the edges of steel beans in a grillage foundation should be",
+        "options": {
+            "a": "25 mm",
+            "b": "50 mm",
+            "c": "75 mm",
+            "d": "100 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "In a grillage foundation a minimum clear space of ______ should be maintained",
+        "options": {
+            "a": "50 mm",
+            "b": "75 mm",
+            "c": "100 mm",
+            "d": "125 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "The most economical section of a channel is the one which",
+        "options": {
+            "a": "gives minimum discharge for a given cross-sectional area and bed slope.",
+            "b": "has minimum wetted perimeter.",
+            "c": "involves lesser excavation for the designed amount of discharge.",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "According to Bligh\u2019s creep theory, the percolating water follows:",
+        "options": {
+            "a": "the outline of the base of the foundation",
+            "b": "in a straight line path under the floor",
+            "c": "in a straight path under the foundation work",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Which one of the following is the wrong statement about Bligh\u2019s creep theory?",
+        "options": {
+            "a": "Percolating water follows the outline of the base of foundation.",
+            "b": "It makes no distinction between horizontal and vertical creeps.",
+            "c": "Safety against piping can be ensured by providing sufficient creep length.",
+            "d": "On upstream side floor thickness should be designed carefully."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "According to Khosla\u2019s theory, the undermining of the floor starts from",
+        "options": {
+            "a": "starting end",
+            "b": "intermediate point",
+            "c": "foundation bed",
+            "d": "tail end"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Suitable foundation for steel columns is [Set Variant 1]",
+        "options": {
+            "a": "mat foundation",
+            "b": "combined foundation",
+            "c": "strap footing",
+            "d": "grillage footing"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "In trenching for foundations boning rod is used to [Set Variant 2]",
+        "options": {
+            "a": "maintain the required spacing between the sheetings",
+            "b": "to strengthen the frame supporting sheeting",
+            "c": "to check the level of foundation depth",
+            "d": "to strengthen sheeting"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "To ensure that the older structure is not damaged due to the depth of foundation of new structure being more, the line joining the nearest points of two foundations in case of soft soil should not be more than [Set Variant 3]",
+        "options": {
+            "a": "10\u00b0",
+            "b": "20\u00b0",
+            "c": "30\u00b0",
+            "d": "45\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "A temporary structure built around a construction site to remove water and make the area reasonably dry is known as [Set Variant 4]",
+        "options": {
+            "a": "caisson",
+            "b": "well foundation",
+            "c": "",
+            "d": "raft foundation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "A watertight chamber, which becomes a permanent part of the construction work is known as [Set Variant 5]",
+        "options": {
+            "a": "cofferdam",
+            "b": "well foundation",
+            "c": "raft foundation",
+            "d": "caisson"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Foundations & Excavation",
+        "question": "Methods of waterproofing basements is [Set Variant 6]",
+        "options": {
+            "a": "providing foundation draining and DPC",
+            "b": "providing R.C.C. raft and wall slab",
+            "c": "asphalt tanking",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    }
+]

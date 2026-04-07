@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Sensitivity of a bubble tube can be increased by",
+        "options": {
+            "a": "increasing the length of the tube",
+            "b": "increasing the diameter of the tube",
+            "c": "decreasing viscosity of liquid",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Which one of the following is the wrong statement about capillarity? Magnitude depends upon",
+        "options": {
+            "a": "the diameter of tube",
+            "b": "the specific weight of the liquid",
+            "c": "its surface tension",
+            "d": "its viscocity."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The unit of surface tension is",
+        "options": {
+            "a": "N",
+            "b": "N/m",
+            "c": "N/m2",
+            "d": "N/m3."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The property of water to wet a solid surface when it comes in contact is known as",
+        "options": {
+            "a": "surface tension",
+            "b": "viscocity",
+            "c": "capillary action",
+            "d": "vapour pressure."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Falling drops of water become spherical due to",
+        "options": {
+            "a": "surface tension",
+            "b": "capillary action of water",
+            "c": "compressibility of water",
+            "d": "viscocity of water"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "For measuring small difference of pressure",
+        "options": {
+            "a": "simple manometer is preferred",
+            "b": "differential manometer is advantageous",
+            "c": "micromanometer is used",
+            "d": "mercury manometers are used"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Inclined manometer is used for precise measurement of small pressure in",
+        "options": {
+            "a": "low velocity gas flow",
+            "b": "in high velocity gas flow",
+            "c": "in high velocity water flow",
+            "d": "in low velocity water flow"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The difference of head as shown by manometers connected between the inlet and outlet flanges of the pump is known as",
+        "options": {
+            "a": "manometric head",
+            "b": "static head",
+            "c": "dynamic head",
+            "d": "total head"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Effect of temperature on velocity of fall due to change in density may be ______ but due to change in viscosity should be ______",
+        "options": {
+            "a": "neglected, considered",
+            "b": "considered, neglected",
+            "c": "neglected, neglected",
+            "d": "considered, considered"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "U-tube Differential manometer. A Piezometer is the simplest form of manometers used for measuring moderate pressures of liquids. A manometer is used to measure",
+        "options": {
+            "a": "High pressure of liquids,",
+            "b": "Vacuum pressures, and",
+            "c": "Pressure in pipes and channels.",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Free vortex flow. In this type of flow, the liquid particles describe circular paths about a fixed vertical axis, without any external torque acting on the particles. The flow of water through the hole in the bottom of a wash basin is an example of free vortex flow. The following important points may be noted for vortex flow:",
+        "options": {
+            "a": "Reynold\u2019s number. It is the ratio of the inertia force to the viscous force.",
+            "b": "Froude\u2019s number. It is the ratio of the inertia force to the gravity force.",
+            "c": "Weber\u2019s number. It is the ratio of the inertia force to the surface tension force.",
+            "d": "Euler\u2019s number. It is the ratio of the inertia force to the pressure force."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The ratio of specific weight of a liquid to the specific weight of pure water at a standard temperature is called",
+        "options": {
+            "a": "density of liquid",
+            "b": "specific gravity of liquid",
+            "c": "compressibility of liquid",
+            "d": "surface tension of liquid"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The property of a liquid which offers resistance to the movement of one layer of liquid over another adjacent layer of liquid, is called",
+        "options": {
+            "a": "surface tension",
+            "b": "compressibility",
+            "c": "capillarity",
+            "d": "viscosity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Kinematic viscosity is the product of dynamic viscosity and the density of the liquid.",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The force per unit length is the unit of",
+        "options": {
+            "a": "surface tension",
+            "b": "compressibility",
+            "c": "capillarity",
+            "d": "viscosity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The variation in the volume of a liquid with the variation of pressure is called its",
+        "options": {
+            "a": "surface tension",
+            "b": "compressibility",
+            "c": "capillarity",
+            "d": "viscosity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Viscosity of gases...... with the increase of temperature.",
+        "options": {
+            "a": "remains same",
+            "b": "decrease",
+            "c": "increase",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The surface tension is a phenomenon due to",
+        "options": {
+            "a": "viscous forces",
+            "b": "Cohesion between the liquid molecules",
+            "c": "adhesion between the liquid and solid molecules",
+            "d": "adhesion and cohesion both"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Which one of the following is an example of phenomenon of surface tension?",
+        "options": {
+            "a": "Rain drops",
+            "b": "Rise of sap in tree",
+            "c": "Break-up of liquid jet",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Ball pen works on the principle of",
+        "options": {
+            "a": "viscosity",
+            "b": "surface tension",
+            "c": "gravitational force",
+            "d": "Boyle\u2019s law"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "When a tube of smaller diameter is dipped in water, the water rises in the tube due to viscosity of water.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The mercury does not wet the glass. This is due to the property of the liquid known as",
+        "options": {
+            "a": "cohesion",
+            "b": "adhesion",
+            "c": "viscosity",
+            "d": "surface tension"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Sensitivity of a bubble tube can be increased by [Set Variant 1]",
+        "options": {
+            "a": "increasing the length of the tube",
+            "b": "increasing the diameter of the tube",
+            "c": "decreasing viscosity of liquid",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "Which one of the following is the wrong statement about capillarity? Magnitude depends upon [Set Variant 2]",
+        "options": {
+            "a": "the diameter of tube",
+            "b": "the specific weight of the liquid",
+            "c": "its surface tension",
+            "d": "its viscocity."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Fluid Properties & Pressure",
+        "question": "The unit of surface tension is [Set Variant 3]",
+        "options": {
+            "a": "N",
+            "b": "N/m",
+            "c": "N/m2",
+            "d": "N/m3."
+        },
+        "correct_answer": "a"
+    }
+]

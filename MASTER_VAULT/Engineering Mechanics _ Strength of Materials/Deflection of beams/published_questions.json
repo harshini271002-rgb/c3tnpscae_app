@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Formula-based",
+        "question": "[Deflection of beams Advanced Check #1] The maximum absolute deflection of a simply supported beam of length L with a central point load W is exactly:",
+        "options": {
+            "a": "WL\u00b3/3EI",
+            "b": "5WL\u2074/384EI",
+            "c": "WL\u00b3/8EI",
+            "d": "WL\u00b3/48EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Theory-based",
+        "question": "[Deflection of beams Advanced Check #2] Macaulay\u2019s method is a highly convenient integration approach specifically for finding the slope and deflection of beams subjected to:",
+        "options": {
+            "a": "Pure axial tension",
+            "b": "Pure torsion only",
+            "c": "Multiple discontinuous point loads",
+            "d": "Continuous uniform moments only"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Theorem",
+        "question": "[Deflection of beams Advanced Check #3] According to Mohr's First Theorem (Moment Area Method), the change in slope between two points is mathematically equal to the:",
+        "options": {
+            "a": "Area of the shear force diagram",
+            "b": "Area of the M/EI diagram between those two points",
+            "c": "Area of the bending moment diagram only",
+            "d": "Moment of the M/EI diagram area"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #4] For a cantilever beam of length 2 m subjected to a point load of 13 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "1.30e+13 / EI",
+            "b": "2.17e+12 / EI",
+            "c": "1.73e+13 / EI",
+            "d": "3.47e+13 / EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #5] A simply supported beam of span 4 m carries a central concentrated load of 28 kN. The maximum mid-span deflection is mathematically given by:",
+        "options": {
+            "a": "3.73e+13 / EI",
+            "b": "4.67e+12 / EI",
+            "c": "5.97e+14 / EI",
+            "d": "1.12e+14 / EI"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #6] For a cantilever beam of span 3 m subjected to a UDL of 20 kN/m over its entire length, the absolute maximum deflection is:",
+        "options": {
+            "a": "3.38e+16 / EI",
+            "b": "4.22e+15 / EI",
+            "c": "5.40e+17 / EI",
+            "d": "2.02e+17 / EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #7] For a cantilever beam of length 2 m subjected to a point load of 16 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "4.27e+13 / EI",
+            "b": "2.13e+13 / EI",
+            "c": "2.67e+12 / EI",
+            "d": "1.60e+13 / EI"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #8] A simply supported beam of span 4 m carries a central concentrated load of 34 kN. The maximum mid-span deflection is mathematically given by:",
+        "options": {
+            "a": "7.25e+14 / EI",
+            "b": "4.53e+13 / EI",
+            "c": "1.36e+14 / EI",
+            "d": "5.67e+12 / EI"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #9] For a cantilever beam of span 3 m subjected to a UDL of 23 kN/m over its entire length, the absolute maximum deflection is:",
+        "options": {
+            "a": "4.85e+15 / EI",
+            "b": "6.21e+17 / EI",
+            "c": "3.88e+16 / EI",
+            "d": "2.33e+17 / EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #10] For a cantilever beam of length 2 m subjected to a point load of 19 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "3.17e+12 / EI",
+            "b": "2.53e+13 / EI",
+            "c": "5.07e+13 / EI",
+            "d": "1.90e+13 / EI"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #11] A simply supported beam of span 4 m carries a central concentrated load of 40 kN. The maximum mid-span deflection is mathematically given by:",
+        "options": {
+            "a": "6.67e+12 / EI",
+            "b": "1.60e+14 / EI",
+            "c": "5.33e+13 / EI",
+            "d": "8.53e+14 / EI"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #12] For a cantilever beam of span 3 m subjected to a UDL of 26 kN/m over its entire length, the absolute maximum deflection is:",
+        "options": {
+            "a": "5.48e+15 / EI",
+            "b": "7.02e+17 / EI",
+            "c": "4.39e+16 / EI",
+            "d": "2.63e+17 / EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #13] For a cantilever beam of length 2 m subjected to a point load of 22 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "3.67e+12 / EI",
+            "b": "5.87e+13 / EI",
+            "c": "2.93e+13 / EI",
+            "d": "2.20e+13 / EI"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #14] A simply supported beam of span 4 m carries a central concentrated load of 46 kN. The maximum mid-span deflection is mathematically given by:",
+        "options": {
+            "a": "1.84e+14 / EI",
+            "b": "7.67e+12 / EI",
+            "c": "6.13e+13 / EI",
+            "d": "9.81e+14 / EI"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #15] For a cantilever beam of span 3 m subjected to a UDL of 29 kN/m over its entire length, the absolute maximum deflection is:",
+        "options": {
+            "a": "2.94e+17 / EI",
+            "b": "7.83e+17 / EI",
+            "c": "6.12e+15 / EI",
+            "d": "4.89e+16 / EI"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #16] For a cantilever beam of length 2 m subjected to a point load of 25 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "3.33e+13 / EI",
+            "b": "4.17e+12 / EI",
+            "c": "6.67e+13 / EI",
+            "d": "2.50e+13 / EI"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #17] A simply supported beam of span 4 m carries a central concentrated load of 52 kN. The maximum mid-span deflection is mathematically given by:",
+        "options": {
+            "a": "6.93e+13 / EI",
+            "b": "8.67e+12 / EI",
+            "c": "2.08e+14 / EI",
+            "d": "1.11e+15 / EI"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #18] For a cantilever beam of span 3 m subjected to a UDL of 32 kN/m over its entire length, the absolute maximum deflection is:",
+        "options": {
+            "a": "5.40e+16 / EI",
+            "b": "3.24e+17 / EI",
+            "c": "8.64e+17 / EI",
+            "d": "6.75e+15 / EI"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #19] For a cantilever beam of length 2 m subjected to a point load of 28 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "4.67e+12 / EI",
+            "b": "2.80e+13 / EI",
+            "c": "3.73e+13 / EI",
+            "d": "7.47e+13 / EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #20] A simply supported beam of span 4 m carries a central concentrated load of 58 kN. The maximum mid-span deflection is mathematically given by:",
+        "options": {
+            "a": "7.73e+13 / EI",
+            "b": "2.32e+14 / EI",
+            "c": "9.67e+12 / EI",
+            "d": "1.24e+15 / EI"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #21] For a cantilever beam of span 3 m subjected to a UDL of 35 kN/m over its entire length, the absolute maximum deflection is:",
+        "options": {
+            "a": "9.45e+17 / EI",
+            "b": "5.91e+16 / EI",
+            "c": "7.38e+15 / EI",
+            "d": "3.54e+17 / EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #22] For a cantilever beam of length 2 m subjected to a point load of 31 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "3.10e+13 / EI",
+            "b": "4.13e+13 / EI",
+            "c": "8.27e+13 / EI",
+            "d": "5.17e+12 / EI"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #23] A simply supported beam of span 4 m carries a central concentrated load of 64 kN. The maximum mid-span deflection is mathematically given by:",
+        "options": {
+            "a": "8.53e+13 / EI",
+            "b": "1.37e+15 / EI",
+            "c": "1.07e+13 / EI",
+            "d": "2.56e+14 / EI"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #24] For a cantilever beam of span 3 m subjected to a UDL of 38 kN/m over its entire length, the absolute maximum deflection is:",
+        "options": {
+            "a": "6.41e+16 / EI",
+            "b": "8.02e+15 / EI",
+            "c": "3.85e+17 / EI",
+            "d": "1.03e+18 / EI"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical",
+        "question": "[Deflection of beams Advanced Check #25] For a cantilever beam of length 2 m subjected to a point load of 34 kN at its free end, the numerical expression for max deflection (downward) is:",
+        "options": {
+            "a": "4.53e+13 / EI",
+            "b": "5.67e+12 / EI",
+            "c": "3.40e+13 / EI",
+            "d": "9.07e+13 / EI"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

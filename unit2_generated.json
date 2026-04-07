@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Theory-based MCQ",
+        "question": "According to Lami's theorem, if three coplanar forces acting at a point be in equilibrium, then each force is proportional to:",
+        "options": {
+            "a": "Sine of the angle between the other two forces",
+            "b": "Cosine of the angle between the other two forces",
+            "c": "Tangent of the angle between the other two forces",
+            "d": "Sine of the angle between the force and the horizontal"
+        },
+        "correct_answer": "a",
+        "explanation": "Lami's theorem states that if three coplanar, concurrent forces keep a body in equilibrium, then each force is proportional to the sine of the angle between the other two forces.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical / Problem-based",
+        "question": "A body of weight 100 N is placed on a rough horizontal plane. If the coefficient of friction is 0.3, what is the minimum horizontal force required to just move the body?",
+        "options": {
+            "a": "30 N",
+            "b": "100 N",
+            "c": "33.3 N",
+            "d": "3 N"
+        },
+        "correct_answer": "a",
+        "explanation": "Limiting friction (F) = \u03bc \u00d7 Normal Reaction (R). Here, R = Weight = 100 N. F = 0.3 \u00d7 100 = 30 N.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): The moment of inertia of a circular section about its diametral axis is \u03c0d\u2074/64.\nReason (R): The polar moment of inertia of a circular section is \u03c0d\u2074/32.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A",
+            "b": "Both A and R are true but R is NOT the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "b",
+        "explanation": "Both statements are factually correct independent properties of a circle. Perpendicular axis theorem links them (Ixx + Iyy = Izz), but R alone is not the fundamental 'explanation' for A.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Match the Following",
+        "question": "Match List I with List II:\nList I (Elastic Constant)\nP. Young's Modulus (E)\nQ. Shear Modulus (G)\nR. Bulk Modulus (K)\n\nList II (Ratio)\n1. Direct stress to volumetric strain\n2. Direct stress to linear strain\n3. Shear stress to shear strain",
+        "options": {
+            "a": "P-2, Q-3, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-3, Q-1, R-2",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "a",
+        "explanation": "Young's Modulus = Linear Stress/Linear Strain. Shear Modulus = Shear Stress/Shear Strain. Bulk Modulus = Direct Stress/Volumetric Strain.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Statement Combination",
+        "question": "Consider the following statements regarding a simply supported beam carrying a uniformly distributed load (UDL) over its entire length:\n1. The Shear Force Diagram is a straight inclined line.\n2. The Bending Moment Diagram is a parabola.\n3. The maximum bending moment occurs at the supports.\nWhich of the above statements is/are correct?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "For a simply supported beam with UDL, the SFD is linear, and the BMD is parabolic. The maximum bending moment occurs at the mid-span, not at the supports (where it is zero).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Diagram-based",
+        "question": "In the bending stress distribution diagram across a rectangular cross-section of a beam, the stress at the neutral axis is:",
+        "options": {
+            "a": "Maximum compressive",
+            "b": "Maximum tensile",
+            "c": "Zero",
+            "d": "Equal to the average stress"
+        },
+        "correct_answer": "c",
+        "explanation": "According to the theory of simple bending (M/I = \u03c3/y = E/R), the bending stress (\u03c3) is directly proportional to the distance from the neutral axis (y). At the neutral axis, y=0, so the bending stress is zero.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Numerical / Problem-based",
+        "question": "A cantilever beam of length L is subjected to a point load W at its free end. What is the maximum deflection?",
+        "options": {
+            "a": "WL\u00b3 / 3EI",
+            "b": "WL\u00b3 / 8EI",
+            "c": "WL\u00b3 / 48EI",
+            "d": "5WL\u2074 / 384EI"
+        },
+        "correct_answer": "a",
+        "explanation": "By standard formulae derived using Macaulay's method or Moment Area method, the max deflection at the free end of a cantilever with a point load is WL\u00b3 / 3EI.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Theory-based MCQ",
+        "question": "When a solid circular shaft is subjected to pure torsion, the shear stress distribution across the cross-section is:",
+        "options": {
+            "a": "Uniform throughout",
+            "b": "Maximum at the center and zero at the surface",
+            "c": "Zero at the center and varying linearly to a maximum at the surface",
+            "d": "Parabolic, with maximum at the center"
+        },
+        "correct_answer": "c",
+        "explanation": "From the torsion equation (T/J = \u03c4/r = G\u03b8/L), shear stress (\u03c4) is directly proportional to the radial distance (r). Therefore, it is zero at the center and maximum at the outer surface.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical / Problem-based",
+        "question": "A circular shaft of diameter 'd' is subjected to a bending moment 'M' and a twisting moment 'T'. The equivalent bending moment 'Me' is given by:",
+        "options": {
+            "a": "1/2 * (M + \u221a(M\u00b2 + T\u00b2))",
+            "b": "\u221a(M\u00b2 + T\u00b2)",
+            "c": "1/2 * (M - \u221a(M\u00b2 + T\u00b2))",
+            "d": "M + T"
+        },
+        "correct_answer": "a",
+        "explanation": "The equivalent bending moment Me is the bending moment that would produce the same maximum normal stress as the combined bending and torsion. It is derived as Me = 1/2 [M + \u221a(M\u00b2 + T\u00b2)].",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): Mohr's circle can be used to determine principal stresses for a given state of 2D stress.\nReason (R): The coordinates of any point on Mohr's circle represent the normal and shear stresses on a specific inclined plane.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A",
+            "b": "Both A and R are true but R is NOT the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Mohr's circle is a graphical representation of stress transformation equations. Because every point maps to a plane, the intersections with the horizontal axis (where shear is zero) define the principal planes and principal stresses.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Theory-based MCQ",
+        "question": "A truss is said to be a perfect truss if it satisfies the condition:",
+        "options": {
+            "a": "m = 2j - 3",
+            "b": "m < 2j - 3",
+            "c": "m > 2j - 3",
+            "d": "m = j - 3"
+        },
+        "correct_answer": "a",
+        "explanation": "For a 2D plane truss, the condition for it to be perfect (statically determinate internally and just rigid) is m = 2j - 3, where m is the number of members and j is the number of joints.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Statement Combination",
+        "question": "Which of the following statements about forces are correct?\n1. A couple consists of two equal and opposite collinear forces.\n2. The moment of a couple is the same about any point in its plane.\n3. A force can be resolved into a force and a couple.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "b",
+        "explanation": "Statement 1 is false because the forces in a couple must be non-collinear. Statements 2 and 3 are correct principles of statics.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical / Problem-based",
+        "question": "A steel rod of 20 mm diameter and 2 m length is subjected to an axial pull of 50 kN. If E = 200 GPa, what is the elongation of the rod? (Assume \u03c0 = 3.14)",
+        "options": {
+            "a": "1.59 mm",
+            "b": "3.18 mm",
+            "c": "0.79 mm",
+            "d": "2.54 mm"
+        },
+        "correct_answer": "a",
+        "explanation": "Elongation \u03b4l = PL / AE. P = 50,000 N, L = 2000 mm, A = (\u03c0/4)*20\u00b2 = 314.15 mm\u00b2, E = 200,000 N/mm\u00b2. \u03b4l = (50000 * 2000) / (314.15 * 200000) = 100000 / 62830 = 1.59 mm.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stress Transformations & Failure Theories",
+        "type": "Match the Following",
+        "question": "Match the Failure Theories (List I) with their proponents (List II):\nList I\nP. Maximum Principal Stress Theory\nQ. Maximum Shear Stress Theory\nR. Maximum Distortion Energy Theory\n\nList II\n1. Tresca\n2. Von-Mises\n3. Rankine",
+        "options": {
+            "a": "P-3, Q-1, R-2",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-2, Q-3, R-1",
+            "d": "P-3, Q-2, R-1"
+        },
+        "correct_answer": "a",
+        "explanation": "Rankine proposed Max Principal Stress. Tresca proposed Max Shear Stress. Von-Mises / Hencky proposed Max Distortion Energy.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Diagram-based",
+        "question": "The point of contraflexure in a bending moment diagram indicates:",
+        "options": {
+            "a": "The point where shear force is zero",
+            "b": "The point where bending moment changes sign",
+            "c": "The point of maximum bending moment",
+            "d": "The point of maximum deflection"
+        },
+        "correct_answer": "b",
+        "explanation": "A point of contraflexure (or point of inflection) is the location on a beam where the bending moment is zero as it changes sign (from positive to negative or vice versa), indicating a change in the curvature of the beam.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Deflection of beams",
+        "type": "Statement Combination",
+        "question": "Consider a simply supported beam of length L carrying a central point load W. Which of the following is correct?\n1. Maximum bending moment is WL/4.\n2. Maximum deflection is WL\u00b3 / 48EI.\n3. Maximum shear force is W.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "Max BM is WL/4. Max deflection is WL\u00b3 / 48EI. Max shear force is W/2 (reactions at supports are W/2). Thus, statement 3 is incorrect.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): Hollow circular shafts are preferred over solid circular shafts for power transmission.\nReason (R): For the same material and weight, a hollow shaft can transmit more torque than a solid shaft.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A",
+            "b": "Both A and R are true but R is NOT the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Because torsional shear stress is highest at the outer radius, material near the center is inefficiently used in a solid shaft. A hollow shaft moves that material outward, increasing the polar section modulus for the same weight cross-section.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Theory-based MCQ",
+        "question": "The core (or kernel) of a solid circular section of diameter 'd' is a concentric circle of diameter:",
+        "options": {
+            "a": "d/2",
+            "b": "d/3",
+            "c": "d/4",
+            "d": "d/8"
+        },
+        "correct_answer": "c",
+        "explanation": "The core of a section is the area within which a compressive load can be applied without causing undesirable tensile stress anywhere in the section. For a solid circle, it is a concentric circle of diameter d/4.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical / Problem-based",
+        "question": "In a cantilever truss, the top chord members are generally subjected to:",
+        "options": {
+            "a": "Compression",
+            "b": "Tension",
+            "c": "Zero force",
+            "d": "Bending"
+        },
+        "correct_answer": "b",
+        "explanation": "Due to the downward gravity loading creating a negative bending moment on a cantilever structure, the top chord members experience tension while the bottom chord members experience compression.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "CoG & MI",
+        "type": "Theory-based MCQ",
+        "question": "Which of the following shapes has its center of gravity located at a distance of h/3 from its base?",
+        "options": {
+            "a": "Rectangle",
+            "b": "Semicircle",
+            "c": "Triangle",
+            "d": "Hemisphere"
+        },
+        "correct_answer": "c",
+        "explanation": "The center of gravity of a triangle of height 'h' is located at a distance of h/3 from its base (measured along the median).",
+        "difficulty": "Medium"
+    }
+]

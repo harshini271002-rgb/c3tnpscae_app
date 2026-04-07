@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "The wall provided to increase the capacity of a wall to resist latest thrust is known as",
+        "options": {
+            "a": "wing wall",
+            "b": "retaining wall",
+            "c": "buttress wall",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "If g is the unit weight of flat back fill, ka is coefficient of active earth pressure on a cantilever retaining wall of height H, the maximum moment on the stem is",
+        "options": {
+            "a": "ka g H2",
+            "b": "ka g H2",
+            "c": "ka g H3",
+            "d": "ka g H3"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "In a retaining wall, if b is surcharge angle and f is angle of friction, the coefficient of active earth pressure is",
+        "options": {
+            "a": "cos b",
+            "b": "cos b",
+            "c": "sin b",
+            "d": "sin b"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "The relationship between coefficient of passive earth pressure kp and active earth pressure ka is",
+        "options": {
+            "a": "kp =",
+            "b": "kp = 1.25 ka",
+            "c": "kp =",
+            "d": "kp ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "In a cantilever retaining wall of height h bending moment in stem varies as",
+        "options": {
+            "a": "h",
+            "b": "h2",
+            "c": "h3",
+            "d": "h4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "If h is the height of retaining wall, the base width is generally",
+        "options": {
+            "a": "0.3 h",
+            "b": "0.5 h",
+            "c": "0.75 h",
+            "d": "0.2 h"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "If base width of a cantilever retaining wall is b, its toe projection is generally",
+        "options": {
+            "a": "0.2 b",
+            "b": "0.3 b",
+            "c": "0.4 b",
+            "d": "0.5 b"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "If height of back fill in a retaining wall is more than ______ counterfort retaining wall should be preferred.",
+        "options": {
+            "a": "4.5 m",
+            "b": "6.0 m",
+            "c": "7.5 m",
+            "d": "9.0 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "In counterfort retaining walls (i) the vertical slab is designed as a horizontal continuous slab (ii) the toe slab is designed as a continuous slab (iii) the heel slab is designed as a continuous slab (iv) the vertical slab is designed as a cantilever The correct answer is",
+        "options": {
+            "a": "(i) and (ii)",
+            "b": "(i) and (iii)",
+            "c": "(ii) and (iii)",
+            "d": "(iii) and (iv)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "Rankine\u2019s theory of earth pressure assumes that the back of wall is",
+        "options": {
+            "a": "vertical and smooth",
+            "b": "vertical and rough",
+            "c": "plane and smooth",
+            "d": "plane and rough"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "Horizontal force per unit length of retaining wall is",
+        "options": {
+            "a": "Ko gH2",
+            "b": "Ko gH",
+            "c": "Ko gH2",
+            "d": "Ko gH"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "Coefficient of earth pressure at rest of loose, saturated sand is about",
+        "options": {
+            "a": "0.36",
+            "b": "0.46",
+            "c": "0.54",
+            "d": "0.64"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "Coefficient of earth pressure at rest of compacted clay varies from",
+        "options": {
+            "a": "0.24 to 0.32",
+            "b": "0.36 to 0.46",
+            "c": "0.42 to 0.60",
+            "d": "0.64 to 0.72"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "The coefficient of active earth pressure for a dense sand is 1/3. Then coefficient of passive earth pressure is",
+        "options": {
+            "a": "1/3",
+            "b": "1",
+            "c": "3",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "In case of cohesive soil, active earth pressure at top is",
+        "options": {
+            "a": "\u20132c cot a",
+            "b": "zero",
+            "c": "2c cot a",
+            "d": "2c cot2 a"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "If H is the height of retaining wall, the active earth pressure at the base is",
+        "options": {
+            "a": "gH cot2a + 2c cot a",
+            "b": "gH cot2a \u2013 2c cot a",
+            "c": "gH cot a + 2c cot2 a",
+            "d": "gH cot a \u2013 2c cot2 a"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "Earth pressure at rest is calculated using",
+        "options": {
+            "a": "Rankine\u2019s theory",
+            "b": "Euler\u2019s theory",
+            "c": "Stokes\u2019 law",
+            "d": "Theory of elasticity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "Coulomb\u2019s earth pressure theory gives the same value as Rankine\u2019s theory when",
+        "options": {
+            "a": "wall is smooth",
+            "b": "wall is vertical",
+            "c": "wall is smooth and vertical",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "Rankine\u2019s theory of earth pressure suits well for",
+        "options": {
+            "a": "R.C.C. \u2013 Cantilever type retaining walls",
+            "b": "R.C.C. \u2013 Counterfort type retaining walls",
+            "c": "Masonry gravity walls",
+            "d": "Both (a) and (b)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "The wall provided to increase the capacity of a wall to resist latest thrust is known as [Set Variant 1]",
+        "options": {
+            "a": "wing wall",
+            "b": "retaining wall",
+            "c": "buttress wall",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "If g is the unit weight of flat back fill, ka is coefficient of active earth pressure on a cantilever retaining wall of height H, the maximum moment on the stem is [Set Variant 2]",
+        "options": {
+            "a": "ka g H2",
+            "b": "ka g H2",
+            "c": "ka g H3",
+            "d": "ka g H3"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "In a retaining wall, if b is surcharge angle and f is angle of friction, the coefficient of active earth pressure is [Set Variant 3]",
+        "options": {
+            "a": "cos b",
+            "b": "cos b",
+            "c": "sin b",
+            "d": "sin b"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "The relationship between coefficient of passive earth pressure kp and active earth pressure ka is [Set Variant 4]",
+        "options": {
+            "a": "kp =",
+            "b": "kp = 1.25 ka",
+            "c": "kp =",
+            "d": "kp ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "In a cantilever retaining wall of height h bending moment in stem varies as [Set Variant 5]",
+        "options": {
+            "a": "h",
+            "b": "h2",
+            "c": "h3",
+            "d": "h4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Earth Pressure & Retaining Walls",
+        "question": "If h is the height of retaining wall, the base width is generally [Set Variant 6]",
+        "options": {
+            "a": "0.3 h",
+            "b": "0.5 h",
+            "c": "0.75 h",
+            "d": "0.2 h"
+        },
+        "correct_answer": "a"
+    }
+]

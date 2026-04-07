@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Harmon\u2019s formula: = * To avoid silting, longitudinal gradient of sewer should be based on minimum sewage of  to  of the average rate of flow. * Groundwater infiltration may be assumed as follows: Minimum Maximum Litres/day/hectare 50,000 Litres/day/km Litres/day/manhole * For estimating storm water flow rational method or empirical formulae may be used. Rational method: Q = CIA where C is run-off coefficient, I is intensity of rainfall and A is drainage area * Percentage of imperviousness may be found from the records or may be assumed as shown in Table 13.1. Table 13.1 Percentage of imperviousness Type of area % Imperviousness Commercial and industrial residential area 70 to 90",
+        "options": {
+            "a": "High density",
+            "b": "Low density",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Hydrants are used for tapping water from mains for",
+        "options": {
+            "a": "fire extinguishing",
+            "b": "street cleaning",
+            "c": "flushing sewer lines",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Rainwater of the locality which flows in sewer is called",
+        "options": {
+            "a": "storm water",
+            "b": "subsoil water",
+            "c": "sullage",
+            "d": "combined sewage"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "The sewer which carries domestic sewage and storm water is known as",
+        "options": {
+            "a": "common sewer",
+            "b": "sub-main sewer",
+            "c": "combined sewer",
+            "d": "lateral sewer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "The sewer which obtains its discharge from two or more sewers is known as",
+        "options": {
+            "a": "depressed sewer",
+            "b": "trunk sewer",
+            "c": "outfall sewer",
+            "d": "common sewer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "The length of trunk sewer between the connection of last branch and final disposal is known as",
+        "options": {
+            "a": "outfall sewer",
+            "b": "relief sewer",
+            "c": "common sewer",
+            "d": "main sewer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Which of the following statement is wrong about the combined system of sewerage?",
+        "options": {
+            "a": "in the cities with less intensity of rainfall this system is more suitable",
+            "b": "in this system cost of pumping is high",
+            "c": "less degree of sanitation is achieved in this system",
+            "d": "it is more suitable in narrow streets"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Combined sewerage is preferred",
+        "options": {
+            "a": "in the cities with more intensity of rainfall",
+            "b": "if streets are narrow",
+            "c": "if due to topographic feature the pumping is required",
+            "d": "if high degree of sanitation is not required"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "It is better to provide separate system of sewerage if",
+        "options": {
+            "a": "rainfall is throughout the year and intensity is less",
+            "b": "streets are narrow",
+            "c": "topography of city is flat",
+            "d": "city is in rocky area"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "If a portion of storm water is allowed to enter the sewers and the water remaining storm water flows in separate set of sewers, it is called",
+        "options": {
+            "a": "separate system",
+            "b": "partially separate system",
+            "c": "combined system",
+            "d": "partially combined system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "According to Fanning\u2019s formula, the quality of storm water Q is directly proportional to",
+        "options": {
+            "a": "A3/4",
+            "b": "A2/3",
+            "c": "A5/8",
+            "d": "A1/4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Which one of the following is not a formula for determining quantity of storm water?",
+        "options": {
+            "a": "Fuller\u2019s formula",
+            "b": "Fanning\u2019s formula",
+            "c": "Manning\u2019s formula",
+            "d": "Talbot\u2019s formula"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "According to Talbot\u2019s formula, the quantity of storm water Q is directly proportional to",
+        "options": {
+            "a": "A0.8",
+            "b": "A2/3",
+            "c": "A5/8",
+            "d": "A1/4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Sewer lines are designed for a design period of",
+        "options": {
+            "a": "20 years",
+            "b": "30 years",
+            "c": "40 years",
+            "d": "50 years"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Which one of the following is not a formula for determining velocity of flow in sewers",
+        "options": {
+            "a": "Fanning\u2019s formula",
+            "b": "Manning\u2019s formula",
+            "c": "Chezy\u2019s formula",
+            "d": "Hazen-William\u2019s formula"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Minimum size of public sewer prescribed is",
+        "options": {
+            "a": "150 mm",
+            "b": "200 mm",
+            "c": "225 mm",
+            "d": "250 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "The type of sewer which is most suited for the combined system is",
+        "options": {
+            "a": "circular sewer",
+            "b": "semi-elliptic sewer",
+            "c": "egg-shaped sewer",
+            "d": "horseshoe type sewer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "The most commonly used sewer under culvert is",
+        "options": {
+            "a": "circular sewer",
+            "b": "semi-elliptic sewer",
+            "c": "egg-shaped sewer",
+            "d": "horseshoe type sewer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Which one of the following is not correct statement about egg-shaped sewers. It",
+        "options": {
+            "a": "is suitable for combined system",
+            "b": "is suitable for separate system",
+            "c": "has good hydraulic properties",
+            "d": "is more stable than circular sections."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "An egg-shaped section of sewer",
+        "options": {
+            "a": "is more stable than circular section",
+            "b": "provides self-cleansing velocity at low discharge",
+            "c": "is economical compared to circular sections",
+            "d": "is easy to construct"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Manholes are generally located at",
+        "options": {
+            "a": "every change of alignments",
+            "b": "every change of gradients",
+            "c": "every change of diameter of sewer",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "For larger sewers, the maximum distance between two consecutive manholes is",
+        "options": {
+            "a": "100 m",
+            "b": "150 m",
+            "c": "200 m",
+            "d": "300 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "For small diameter sewers the distance between any two consecutive manholes in a straight line should be not more than",
+        "options": {
+            "a": "50 m",
+            "b": "75 m",
+            "c": "150 m",
+            "d": "200 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "The hydrants are used for tapping water from mains for",
+        "options": {
+            "a": "fire extinguishing",
+            "b": "street washing",
+            "c": "flushing sewer lines\t (d)\t all of these",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Sewage & Wastewater",
+        "question": "Harmon\u2019s formula: = * To avoid silting, longitudinal gradient of sewer should be based on minimum sewage of  to  of the average rate of flow. * Groundwater infiltration may be assumed as follows: Minimum Maximum Litres/day/hectare 50,000 Litres/day/km Litres/day/manhole * For estimating storm water flow rational method or empirical formulae may be used. Rational method: Q = CIA where C is run-off coefficient, I is intensity of rainfall and A is drainage area * Percentage of imperviousness may be found from the records or may be assumed as shown in Table 13.1. Table 13.1 Percentage of imperviousness Type of area % Imperviousness Commercial and industrial residential area 70 to 90 [Set Variant 1]",
+        "options": {
+            "a": "High density",
+            "b": "Low density",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    }
+]

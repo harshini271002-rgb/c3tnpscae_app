@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "Which one of the following is wrong about the bar chart?",
+        "options": {
+            "a": "It exhibits only major activities.",
+            "b": "The effect of delay of an activity on other activities cannot be seen easily.",
+            "c": "If does not indicate which activity is critical.",
+            "d": "It cannot be understood by all easily."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "By network technique such as programme evaluation review technique (P.E.R.T), critical path method (C.P.M.) and line of balance system (L.B.S.) These methods are discussed as follows: 16.12\u2002 Bar Chart or Gantt Chart The bar chart or Gantt chart was developed by Henry Gantt for planning and scheduling the methods of construction. This chart is a graphical representation of various activities involved in a construction work. It consists of two co- ordinates. The horizontal ordinate or bar represents the various activities involved in a construction work and the duration of times required for completion of the activities. The vertical abscissa or bar represents the respective jobs to be performed. The length of the bar indicates the duration of activity or job for its completion. The various activities are shown parallel to each other along ordinates. Since the various activities are shown by a number of parallel ordinates or bars, therefore it is called a bar chart. The duration of the activities are represented from the left to the right. Each bar is divided longitudinally into two portions. The top portion indicates the progress of completion of the activity and the bottom portion indicates the duration of the activity. Construction Management The use of bar chart is very popular in construction departments because of the following advantages:",
+        "options": {
+            "a": "It is very simple to prepare and interpret.",
+            "b": "Each item of work or activity is shown separately.",
+            "c": "It is very easy to compare the progress and original schedule.",
+            "d": "It is easy to know the time for the resource of activities."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The various activities of a project, are shown on bar charts by",
+        "options": {
+            "a": "vertical lines",
+            "b": "horizontal lines",
+            "c": "dots",
+            "d": "crosses"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The use of bar chart is very popular in construction departments because",
+        "options": {
+            "a": "it is very simple to prepare and interpret",
+            "b": "each item of work or activity is shown separately",
+            "c": "modification to the chart, if required, can be",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "In bar chart method, the sequence of activities is not clearly defined.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The bar chart is also known as",
+        "options": {
+            "a": "flow chart",
+            "b": "time chart",
+            "c": "travel chart",
+            "d": "Gantt chart"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "A drawback of the bar chart is that",
+        "options": {
+            "a": "all the activity are independent of each other",
+            "b": "it is difficult to judge whether an activity is",
+            "c": "the sequence of activities is not clearly defined",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "Which of the following statement is correct in bar chart planning ?",
+        "options": {
+            "a": "The inter dependence of the operations can not",
+            "b": "The progress of work can be measured.",
+            "c": "The spare time of the activities can be determined.",
+            "d": "The schedule can not be updated."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "Which one of the following is wrong about the bar chart? [Set Variant 1]",
+        "options": {
+            "a": "It exhibits only major activities.",
+            "b": "The effect of delay of an activity on other activities cannot be seen easily.",
+            "c": "If does not indicate which activity is critical.",
+            "d": "It cannot be understood by all easily."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "By network technique such as programme evaluation review technique (P.E.R.T), critical path method (C.P.M.) and line of balance system (L.B.S.) These methods are discussed as follows: 16.12\u2002 Bar Chart or Gantt Chart The bar chart or Gantt chart was developed by Henry Gantt for planning and scheduling the methods of construction. This chart is a graphical representation of various activities involved in a construction work. It consists of two co- ordinates. The horizontal ordinate or bar represents the various activities involved in a construction work and the duration of times required for completion of the activities. The vertical abscissa or bar represents the respective jobs to be performed. The length of the bar indicates the duration of activity or job for its completion. The various activities are shown parallel to each other along ordinates. Since the various activities are shown by a number of parallel ordinates or bars, therefore it is called a bar chart. The duration of the activities are represented from the left to the right. Each bar is divided longitudinally into two portions. The top portion indicates the progress of completion of the activity and the bottom portion indicates the duration of the activity. Construction Management The use of bar chart is very popular in construction departments because of the following advantages: [Set Variant 2]",
+        "options": {
+            "a": "It is very simple to prepare and interpret.",
+            "b": "Each item of work or activity is shown separately.",
+            "c": "It is very easy to compare the progress and original schedule.",
+            "d": "It is easy to know the time for the resource of activities."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The various activities of a project, are shown on bar charts by [Set Variant 3]",
+        "options": {
+            "a": "vertical lines",
+            "b": "horizontal lines",
+            "c": "dots",
+            "d": "crosses"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The use of bar chart is very popular in construction departments because [Set Variant 4]",
+        "options": {
+            "a": "it is very simple to prepare and interpret",
+            "b": "each item of work or activity is shown separately",
+            "c": "modification to the chart, if required, can be",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "In bar chart method, the sequence of activities is not clearly defined. [Set Variant 5]",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The bar chart is also known as [Set Variant 6]",
+        "options": {
+            "a": "flow chart",
+            "b": "time chart",
+            "c": "travel chart",
+            "d": "Gantt chart"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "A drawback of the bar chart is that [Set Variant 7]",
+        "options": {
+            "a": "all the activity are independent of each other",
+            "b": "it is difficult to judge whether an activity is",
+            "c": "the sequence of activities is not clearly defined",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "Which of the following statement is correct in bar chart planning ? [Set Variant 8]",
+        "options": {
+            "a": "The inter dependence of the operations can not",
+            "b": "The progress of work can be measured.",
+            "c": "The spare time of the activities can be determined.",
+            "d": "The schedule can not be updated."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "Which one of the following is wrong about the bar chart? [Set Variant 9]",
+        "options": {
+            "a": "It exhibits only major activities.",
+            "b": "The effect of delay of an activity on other activities cannot be seen easily.",
+            "c": "If does not indicate which activity is critical.",
+            "d": "It cannot be understood by all easily."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "By network technique such as programme evaluation review technique (P.E.R.T), critical path method (C.P.M.) and line of balance system (L.B.S.) These methods are discussed as follows: 16.12\u2002 Bar Chart or Gantt Chart The bar chart or Gantt chart was developed by Henry Gantt for planning and scheduling the methods of construction. This chart is a graphical representation of various activities involved in a construction work. It consists of two co- ordinates. The horizontal ordinate or bar represents the various activities involved in a construction work and the duration of times required for completion of the activities. The vertical abscissa or bar represents the respective jobs to be performed. The length of the bar indicates the duration of activity or job for its completion. The various activities are shown parallel to each other along ordinates. Since the various activities are shown by a number of parallel ordinates or bars, therefore it is called a bar chart. The duration of the activities are represented from the left to the right. Each bar is divided longitudinally into two portions. The top portion indicates the progress of completion of the activity and the bottom portion indicates the duration of the activity. Construction Management The use of bar chart is very popular in construction departments because of the following advantages: [Set Variant 10]",
+        "options": {
+            "a": "It is very simple to prepare and interpret.",
+            "b": "Each item of work or activity is shown separately.",
+            "c": "It is very easy to compare the progress and original schedule.",
+            "d": "It is easy to know the time for the resource of activities."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The various activities of a project, are shown on bar charts by [Set Variant 11]",
+        "options": {
+            "a": "vertical lines",
+            "b": "horizontal lines",
+            "c": "dots",
+            "d": "crosses"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The use of bar chart is very popular in construction departments because [Set Variant 12]",
+        "options": {
+            "a": "it is very simple to prepare and interpret",
+            "b": "each item of work or activity is shown separately",
+            "c": "modification to the chart, if required, can be",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "In bar chart method, the sequence of activities is not clearly defined. [Set Variant 13]",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "The bar chart is also known as [Set Variant 14]",
+        "options": {
+            "a": "flow chart",
+            "b": "time chart",
+            "c": "travel chart",
+            "d": "Gantt chart"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "A drawback of the bar chart is that [Set Variant 15]",
+        "options": {
+            "a": "all the activity are independent of each other",
+            "b": "it is difficult to judge whether an activity is",
+            "c": "the sequence of activities is not clearly defined",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "Which of the following statement is correct in bar chart planning ? [Set Variant 16]",
+        "options": {
+            "a": "The inter dependence of the operations can not",
+            "b": "The progress of work can be measured.",
+            "c": "The spare time of the activities can be determined.",
+            "d": "The schedule can not be updated."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Project Management & Estimating",
+        "subcategory": "Bar Charts & Resource Scheduling",
+        "question": "Which one of the following is wrong about the bar chart? [Set Variant 17]",
+        "options": {
+            "a": "It exhibits only major activities.",
+            "b": "The effect of delay of an activity on other activities cannot be seen easily.",
+            "c": "If does not indicate which activity is critical.",
+            "d": "It cannot be understood by all easily."
+        },
+        "correct_answer": "a"
+    }
+]

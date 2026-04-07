@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based MCQ",
+        "question": "Friction is a force that always acts in a direction:",
+        "options": {
+            "a": "Perpendicular to the motion",
+            "b": "Opposite to the direction of impending or actual motion",
+            "c": "Parallel to the applied resultant force",
+            "d": "Downward towards the center of gravity"
+        },
+        "correct_answer": "b",
+        "explanation": "Frictional force is a resistive force that always opposes the relative motion or impending relative motion between two contact surfaces.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based MCQ",
+        "question": "The coefficient of static friction mathematically depends heavily upon:",
+        "options": {
+            "a": "The area of contact between surfaces",
+            "b": "The relative velocity between the surfaces",
+            "c": "The exact shape of the contact surfaces",
+            "d": "The nature of the materials in contact and their surface roughness"
+        },
+        "correct_answer": "d",
+        "explanation": "Coulomb's laws of dry friction state that the coefficient of friction depends strictly on the nature of the interacting materials and their surface characteristics, and is independent of the macroscopic contact area.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical / Problem-based",
+        "question": "A block of mass 10 kg rests on a rough horizontal surface. The coefficient of limiting friction between the block and the surface is 0.4. What is the limiting frictional force? (take g = 9.81 m/s\u00b2)",
+        "options": {
+            "a": "39.24 N",
+            "b": "40.0 N",
+            "c": "98.1 N",
+            "d": "4 N"
+        },
+        "correct_answer": "a",
+        "explanation": "Limiting Friction (F_max) = \u03bc * Normal Reaction (N). N = mg = 10 * 9.81 = 98.1 N. F_max = 0.4 * 98.1 = 39.24 N.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): The kinetic coefficient of friction (\u03bck) is always slightly less than the static coefficient of friction (\u03bcs).\nReason (R): Less force is required to keep a body moving uniformly than to overcome the initial interlocking of surface asperities to start the motion.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Static friction deals with breaking the rigid interlocking (cold welds) between asperities at rest. Once broken and sliding, the asperities ride over each other, requiring less sustained force (\u03bck < \u03bcs).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Match the Following",
+        "question": "Match the friction type (List I) with its characteristic (List II):\nList I\nP. Static Friction\nQ. Dynamic Friction\nR. Limiting Friction\n\nList II\n1. Friction experienced when motion is actually taking place\n2. Maximum friction just before the impending motion begins\n3. Friction experienced when the body is perfectly at rest under loading",
+        "options": {
+            "a": "P-3, Q-1, R-2",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-2, Q-3, R-1",
+            "d": "P-3, Q-2, R-1"
+        },
+        "correct_answer": "a",
+        "explanation": "Static friction occurs at rest (3). Limiting friction is the maximum static threshold just before movement (2). Dynamic is during active sliding (1).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Statement Combination",
+        "question": "Consider the following statements regarding the Angle of Friction (\u03c6):\n1. It is the angle made by the resultant of the normal reaction and limiting friction with the normal reaction.\n2. Tangent of the angle of friction is equal to the coefficient of friction (tan\u03c6 = \u03bc).\n3. It is always equal to the angle of repose for any arbitrary plane.\nWhich are correctly defined?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "Statement 1 and 2 define \u03c6 perfectly. Statement 3 is incorrect because the angle of friction only equals the angle of repose when the body is in *limiting equilibrium* strictly under its own weight on that plane, not just 'any arbitrary plane' condition.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Diagram-based",
+        "question": "A heavy block is resting on an inclined plane whose inclination (\u03b8) is gradually increased. The block just begins to slide down when \u03b8 reaches exactly 30\u00b0. What is the coefficient of static friction?",
+        "options": {
+            "a": "0.500",
+            "b": "0.866",
+            "c": "0.577",
+            "d": "1.000"
+        },
+        "correct_answer": "c",
+        "explanation": "At the point of impending sliding under its own weight, the angle of inclination (\u03b8) equals the angle of repose (\u03b1). Furthermore, \u03bcs = tan(\u03b1). Therefore, \u03bcs = tan(30\u00b0) = 1/\u221a3 \u2248 0.577.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical / Problem-based",
+        "question": "A force P of 100 N applied horizontally is just sufficient to prevent a block of weight W from sliding down a vertical rough wall (\u03bc = 0.2). Determine the maximum possible weight W.",
+        "options": {
+            "a": "500 N",
+            "b": "50 N",
+            "c": "20 N",
+            "d": "200 N"
+        },
+        "correct_answer": "c",
+        "explanation": "To prevent downward sliding, the friction force F points strictly upward. \u03a3Fy=0 means F = W. The normal force N generated by pushing horizontally equals P. So, N = 100 N. Since F = \u03bcN, W = \u03bc * P = 0.2 * 100 = 20 N.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based MCQ",
+        "question": "Which of the following laws of dry friction is INCORRECT strictly according to Coulomb's friction theory?",
+        "options": {
+            "a": "Friction opposes relative motion.",
+            "b": "Limiting friction is directly proportional to normal reaction.",
+            "c": "Dynamic friction is slightly less than static limiting friction.",
+            "d": "Frictional force is directly proportional to the apparent area of contact."
+        },
+        "correct_answer": "d",
+        "explanation": "According to the fundamental laws of dry (Coulomb) friction, the total frictional force is entirely independent of the macroscopic area of contact between the surfaces.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": " न्यूमेरिकल / Problem-based",
+        "question": "A body of weight 500 N is resting on an inclined plane at 45\u00b0 to the horizontal. If \u03bc = 0.5, what is the minimum force required to push it UP the plane?",
+        "options": {
+            "a": "353.5 N",
+            "b": "530.3 N",
+            "c": "250.0 N",
+            "d": "176.8 N"
+        },
+        "correct_answer": "b",
+        "explanation": "Pushing UP: applied Force P must overcome both the parallel weight component AND friction acting downward. P = Wsin\u03b8 + \u03bcWcos\u03b8. P = 500*sin(45) + 0.5*500*cos(45) = 500*(0.707) + 250*(0.707) = 353.5 + 176.75 = 530.25 N.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): Rolling friction is universally much lower than sliding friction for identical objects.\nReason (R): In pure rolling, the theoretical contact point has zero relative velocity concerning the surface, avoiding extensive asperity scraping.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Sliding creates massive shear across interlocked asperities. Pure rolling involves peeling away continuously, resulting in an interface having essentially zero instantaneous relative velocity at the exact contact point, minimizing severe shear.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Statement Combination",
+        "question": "Which factors influence the magnitude of the coefficient of friction (\u03bc)?\n1. Surface finish (roughness/smoothness)\n2. Temperature of the interacting materials\n3. Velocity of sliding\n4. Humidity or lubrication films provided",
+        "options": {
+            "a": "1 and 4 only",
+            "b": "1, 2, and 4 only",
+            "c": "1, 3, and 4 only",
+            "d": "1, 2, 3, and 4"
+        },
+        "correct_answer": "d",
+        "explanation": "While pure ideal Coulomb friction ignores velocity, in reality, dynamic \u03bc fluctuates slightly with extreme velocities. Temperature alters material yielding, lubricants change dry to fluid friction, making all practical factors relevant.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Match the Following",
+        "question": "Match the friction conceptual terms (List I) with their defining property (List II):\nList I\nP. Angle of Repose\nQ. Angle of Friction\nR. Cone of Friction\n\nList II\n1. Tangent equals the coefficient of friction\n2. Geometrical locus bounding the resultant reaction to prevent slippage\n3. The maximum inclination before an unforced block slides",
+        "options": {
+            "a": "P-3, Q-1, R-2",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-2, Q-3, R-1",
+            "d": "P-3, Q-2, R-1"
+        },
+        "correct_answer": "a",
+        "explanation": "Angle of Repose is maximum slide angle (3). Angle of Friction relates to tan\u03c6=\u03bc (1). Cone of Friction is the locus of the reaction vector inside which motion is impossible (2).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based MCQ",
+        "question": "The 'Cone of Friction' is a conceptual mechanical cone generated by rotating:",
+        "options": {
+            "a": "The limiting friction vector around the normal force",
+            "b": "The normal reaction vector around the applied force",
+            "c": "The resultant reaction vector around the normal reaction at the angle of limiting friction",
+            "d": "The applied horizontal force around the resultant force"
+        },
+        "correct_answer": "c",
+        "explanation": "The Cone of Friction is universally defined by sweeping the resultant reaction line (at the angle of limiting friction \u03c6) completely around the normal reaction axis.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical / Problem-based",
+        "question": "To pull a body of weight W along a rough horizontal plane (coefficient of friction = \u03bc) using the absolutely minimum possible force P, at what precise angle should the force P be applied?",
+        "options": {
+            "a": "Horizontal (0\u00b0)",
+            "b": "45\u00b0 to the horizontal",
+            "c": "Angle equal to the angle of friction (\u03c6)",
+            "d": "Angle equal to the angle of repose (\u03b1)"
+        },
+        "correct_answer": "c",
+        "explanation": "Derivation shows that the required force P = \u03bcW / (cos\u03b8 + \u03bcsin\u03b8). Minimizing this force function analytically yields tan\u03b8 = \u03bc, meaning the optimally efficient pull angle strictly equals the angle of friction.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Diagram-based",
+        "question": "In a ladder safely resting against a rough wall and rough floor, the static frictional force at the wall strictly acts:",
+        "options": {
+            "a": "Downwards vertically",
+            "b": "Upwards vertically",
+            "c": "Inwards horizontally",
+            "d": "Outwards horizontally"
+        },
+        "correct_answer": "b",
+        "explanation": "As the ladder attempts to slip under gravity, the top end tends to slide down the wall. Thus, the wall's opposing frictional reaction must point vertically upwards.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based MCQ",
+        "question": "What is the primary phenomenon primarily causing 'dry friction' between two solid bodies according to modern micro-mechanical views?",
+        "options": {
+            "a": "Macroscopic interlocking of large mechanical gears",
+            "b": "Electrostatic repulsion of atoms",
+            "c": "Molecular adhesion and interlocking of microscopic surface asperities",
+            "d": "Gravitational warping between the two contacting masses"
+        },
+        "correct_answer": "c",
+        "explanation": "Modern tribology accepts that dry friction arises heavily from the adhesion of molecules at inter-surface asperities (cold welding) and the mechanical interlocking of these minuscule bumps.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): For an ideal belt drive mechanism, the tension on the tight side equals the tension on the slack side multiplied by e^(\u03bc\u03b8).\nReason (R): Friction actively enables transmissive torque by allowing differential tension along the contact arc.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "The fundamental belt-friction equation T1/T2 = e^(\u03bc\u03b8) works expressly because friction builds up exponentially along the arc of contact (\u03b8), thus allowing T1 > T2 which drives rotation.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical / Problem-based",
+        "question": "A screw jack has a pitch 'p' and a mean diameter 'd'. If the coefficient of friction is \u03bc, the condition for the screw jack being 'self-locking' is:",
+        "options": {
+            "a": "Friction angle > Helix angle",
+            "b": "Friction angle < Helix angle",
+            "c": "Friction angle = Helix angle / 2",
+            "d": "Helix angle = 45\u00b0"
+        },
+        "correct_answer": "a",
+        "explanation": "A self-locking screw will not spontaneously lower under load. This requires its efficiency to be strictly less than 50%, which mathematically occurs exclusively when the angle of friction (\u03c6) is greater than the thread helix angle (\u03b1).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Statement Combination",
+        "question": "Identify mathematically valid efficiency (\u03b7) statements regarding power screws or inclined planes:\n1. Maximum efficiency is given by (1 - sin\u03c6) / (1 + sin\u03c6).\n2. A self-locking machine strictly has \u03b7 < 50%.\n3. An overhauling machine requires active braking load.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "d",
+        "explanation": "Max efficiency occurs at particular angles yielding (1-sin\u03c6)/(1+sin\u03c6). Reversibility (overhauling) happens if \u03b7 > 50%. Therefore, self-locking strictly requires \u03b7 < 50%. All three standard TNPSC parameters align correctly.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Match the Following",
+        "question": "Match the friction mechanism (List I) with its practical civil/mechanical device application (List II):\nList I\nP. Wedge Friction\nQ. Belt Friction\nR. Rolling Friction\n\nList II\n1. Ball bearings on bridge supports\n2. Power Transmission via pulleys\n3. Adjusting heavy loads minutely",
+        "options": {
+            "a": "P-3, Q-2, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-2, Q-3, R-1",
+            "d": "P-3, Q-1, R-2"
+        },
+        "correct_answer": "a",
+        "explanation": "Wedges provide massive mechanical advantage against friction for minute lifting (3). Belts use boundary wrap friction for power (2). Bearings minimize sliding through rolling friction (1).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based MCQ",
+        "question": "When a rigid body is simply supported on rough ground and an overturning horizontal force is applied, what condition determines whether it slides before overturning?",
+        "options": {
+            "a": "The restoring gravity moment is strictly less than the frictional resisting moment.",
+            "b": "The applied force exceeds friction before its overturning moment exceeds the stabilizing moment.",
+            "c": "The applied force perfectly matches the exact center of gravity line.",
+            "d": "The body is a perfect cube."
+        },
+        "correct_answer": "b",
+        "explanation": "A body slides if the sliding threshold (P > \u03bcW) is breached *before* the overturning threshold moment (P*h > W*b/2) is reached. If the threshold moment is breached first, it tips rather than sliding.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): For identical conditions, starting a heavy block sliding requires more force than keeping it sliding.\nReason (R): Dynamic friction coefficients accurately account for the shear velocity rate, which dynamically increases molecular interlocking.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "c",
+        "explanation": "Assertion A is true (static > dynamic). Reason R is profoundly false because sliding velocity physically *decreases* the time for molecular links to form, thereby *reducing* interlocking, which is exactly why dynamic friction is tangibly lower.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical / Problem-based",
+        "question": "A wedge is used to lift a 1000 N block. If the angle of the wedge is 10\u00b0 and the coefficient of friction at all surfaces is 0.2 (approx angle of friction 11.3\u00b0), is the wedge self-locking?",
+        "options": {
+            "a": "Yes, because wedge angle (10\u00b0) is less than 2 times the friction angle (22.6\u00b0).",
+            "b": "No, because the wedge angle must be strictly zero to lock.",
+            "c": "Yes, because there is no load acting on the wedge directly.",
+            "d": "No, because 10\u00b0 is smaller than 11.3\u00b0."
+        },
+        "correct_answer": "a",
+        "explanation": "A symmetric driving wedge strictly remains securely self-locking against popping out backwards if the driving angle \u03b1 is less than 2\u03c6 (where \u03c6 is the contact friction angle). Since 10\u00b0 < 22.6\u00b0, it easily locks.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Statement Combination",
+        "question": "In fluid film lubrication (like a journal bearing operating optimally), which statements are completely true?\n1. There is no solid asperity contact between shaft and bearing.\n2. The friction strictly belongs to the 'dry friction' Coulomb laws.\n3. The frictional resistance depends on the absolute viscosity of the fluid.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "c",
+        "explanation": "Fluid/Hydrodynamic lubrication prevents solid contact (true). Resistance originates from fluid shear dependent directly on viscosity (true). Coulomb's dry laws violently fail here since fluid friction heavily depends upon speed, area, and viscosity (making statement 2 utterly false).",
+        "difficulty": "Medium"
+    }
+]

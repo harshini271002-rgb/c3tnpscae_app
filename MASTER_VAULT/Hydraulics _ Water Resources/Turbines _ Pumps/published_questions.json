@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "The region within which the effect of viscocity is confined is known as",
+        "options": {
+            "a": "cavitation",
+            "b": "stagnation layer",
+            "c": "boundary layer",
+            "d": "free layer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "In impulsive turbine, the total energy at inlet is",
+        "options": {
+            "a": "kinetic energy only",
+            "b": "pressure energy only",
+            "c": "both kinetic and potential energy",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Which one of the following is a impulsive turbine",
+        "options": {
+            "a": "Francis turbine",
+            "b": "Kaplan turbine",
+            "c": "Pelton wheel",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "In impulsive turbines casing is provided to",
+        "options": {
+            "a": "prevent splashing of water",
+            "b": "guide water to the tailrace",
+            "c": "to maintain higher pressure",
+            "d": "both (a) and (b)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "The width of the bucket in a Pelton wheel is generally ______ times the diameter of the jet",
+        "options": {
+            "a": "two",
+            "b": "three",
+            "c": "four",
+            "d": "five"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "The depth of the bucket in a Pelton wheel is generally ______ times the diameter of jet",
+        "options": {
+            "a": "1.0",
+            "b": "1.2",
+            "c": "1.5",
+            "d": "2.0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "If D is pitch diameter of a Pelton wheel and d is the diameter of the jet, the number of buckets is",
+        "options": {
+            "a": "+ 15",
+            "b": "+ 15",
+            "c": "+ 10",
+            "d": "+ 10"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "In a Pelton wheel the maximum number of jets generally employed are",
+        "options": {
+            "a": "4",
+            "b": "6",
+            "c": "8",
+            "d": "12"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "In reaction turbines, total inlet energy is",
+        "options": {
+            "a": "kinetic energy only",
+            "b": "pressure energy only",
+            "c": "both (a) & (b)",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "In reaction turbines ______ changes as fluid passes through the runner.",
+        "options": {
+            "a": "pressure",
+            "b": "velocity",
+            "c": "both pressure and velocity",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "A Pelton wheel is a ______ impulse turbine",
+        "options": {
+            "a": "tangential flow",
+            "b": "axial flow",
+            "c": "inward flow",
+            "d": "outward flow"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "A Kaplan turbine is an ______ flow reaction turbine",
+        "options": {
+            "a": "tangential",
+            "b": "axial",
+            "c": "inward",
+            "d": "outward"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "A Francis turbine is an ______ flow reaction turbine",
+        "options": {
+            "a": "tangential",
+            "b": "axial",
+            "c": "inward",
+            "d": "outward"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "In Kaplan turbine, the number of blades are generally",
+        "options": {
+            "a": "4 to 8",
+            "b": "8 to 12",
+            "c": "12 to 16",
+            "d": "16 to 20"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Draft tube is a pipe of gradually ______ area used at ______ of a reaction turbine",
+        "options": {
+            "a": "increasing, exit",
+            "b": "decreasing, exit",
+            "c": "increasing, inlet",
+            "d": "decreasing, inlet"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Unit speed is the speed of the turbine when it is working",
+        "options": {
+            "a": "under unit head",
+            "b": "under unit head and discharging one cubic metre of water",
+            "c": "under unit head and developing unit power",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Unit discharge is a discharge through a turbine when it is working under",
+        "options": {
+            "a": "unit head",
+            "b": "unit head and discharging one cubic metre of water",
+            "c": "unit head and developing unit power",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Unit discharge of a turbine is given by",
+        "options": {
+            "a": "Qu =",
+            "b": "Qu =",
+            "c": "Qu =",
+            "d": "Qu ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Unit power is the power developed by turbine when it is working under",
+        "options": {
+            "a": "unit head",
+            "b": "unit head and discharging one cubic metre of water",
+            "c": "unit head and developing unit power",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "If H is the head of water under which a turbine is working, the power developed is",
+        "options": {
+            "a": "directly proportional to H3/2",
+            "b": "inversely proportional to H3/2",
+            "c": "directly proportional to",
+            "d": "inversely proportional to"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "The cavitation in a turbine is mainly due to",
+        "options": {
+            "a": "low velocity",
+            "b": "high velocity",
+            "c": "low pressure",
+            "d": "high pressure"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Cavitation in a reaction turbine is avoided to a great extent by",
+        "options": {
+            "a": "installing the turbine below the tailrace level",
+            "b": "using stainless steel runners",
+            "c": "running the turbine at the designed speed",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "The region within which the effect of viscocity is confined is known as [Set Variant 1]",
+        "options": {
+            "a": "cavitation",
+            "b": "stagnation layer",
+            "c": "boundary layer",
+            "d": "free layer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "In impulsive turbine, the total energy at inlet is [Set Variant 2]",
+        "options": {
+            "a": "kinetic energy only",
+            "b": "pressure energy only",
+            "c": "both kinetic and potential energy",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Turbines & Pumps",
+        "question": "Which one of the following is a impulsive turbine [Set Variant 3]",
+        "options": {
+            "a": "Francis turbine",
+            "b": "Kaplan turbine",
+            "c": "Pelton wheel",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "After felling and separating branches the tree is known as",
+        "options": {
+            "a": "log",
+            "b": "converted timber",
+            "c": "rough timber",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The oldest part of exogenous tree is",
+        "options": {
+            "a": "pith",
+            "b": "heartwood",
+            "c": "sapwood",
+            "d": "cambium layer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The layer between the dark and sapwood which is yet to be converted into wood is known as",
+        "options": {
+            "a": "pith",
+            "b": "heartwood",
+            "c": "softwood",
+            "d": "cambium layer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Which one of the following is softwood",
+        "options": {
+            "a": "deodar",
+            "b": "teak",
+            "c": "sal",
+            "d": "mahogany"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Which one of the following is not a softwood:",
+        "options": {
+            "a": "oak",
+            "b": "pine",
+            "c": "deodar",
+            "d": "bamboo"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "On the basis of availability, timber is classified as",
+        "options": {
+            "a": "I. II, III Class",
+            "b": "grade I, II, and III",
+            "c": "A, B, C Class",
+            "d": "X, Y, Z Class"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The main purpose of seasoning of timber is to",
+        "options": {
+            "a": "reduce moisture content",
+            "b": "make it fire resistant",
+            "c": "make it waterproof",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Most economical method of sawing wood is",
+        "options": {
+            "a": "ordinary sawing",
+            "b": "quarter sawing",
+            "c": "tangential sawing",
+            "d": "radial sawing"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The defect in timber due to broken branch of the tree during the tree growth is",
+        "options": {
+            "a": "knot",
+            "b": "shake",
+            "c": "rind gall",
+            "d": "burl"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Due to improper cutting of the branches during the growth of the tree, the defect caused in timber is",
+        "options": {
+            "a": "shake",
+            "b": "rind gall",
+            "c": "twisted fibre",
+            "d": "burl"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Honeycomb and cracks may occur in timber due to",
+        "options": {
+            "a": "erroneous conversion",
+            "b": "erroneous seasoning",
+            "c": "attack by fungi",
+            "d": "contact with water for a long time"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Which one of the following is not a preservative of timber",
+        "options": {
+            "a": "solignum salt",
+            "b": "chemical salt",
+            "c": "creosote",
+            "d": "solution of barium hydroxide"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "A thin sheet of wood sliced from a log is called",
+        "options": {
+            "a": "plywood",
+            "b": "lamin board",
+            "c": "veneer",
+            "d": "particle board"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "In a plywood the veneers are placed such that the grains of a layer are",
+        "options": {
+            "a": "at 45\u00b0 to the grains of a layer below it",
+            "b": "at 60\u00b0 to the grains of a layer below it",
+            "c": "at right angles to the layer below it",
+            "d": "at 180\u00b0 to the grains of a layer below it"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "An assembled product made up of veneers and adhesives is called",
+        "options": {
+            "a": "batten",
+            "b": "plank",
+            "c": "board",
+            "d": "plywood"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "To get plywood of thickness 25 mm, minimum number of plies is",
+        "options": {
+            "a": "5",
+            "b": "7",
+            "c": "9",
+            "d": "11"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Particle boards are manufactured by using",
+        "options": {
+            "a": "chips of wood, rice husk and bagasse",
+            "b": "strips of wood of width 25\u201380 mm",
+            "c": "wood pulp",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The wood that cannot be attacked by white ants is",
+        "options": {
+            "a": "mahogany",
+            "b": "rosewood",
+            "c": "sissoo",
+            "d": "teak"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "By calcining and smelting iron ores, a crude and impure form of iron obtained is known as",
+        "options": {
+            "a": "cast iron",
+            "b": "wrought iron",
+            "c": "steel",
+            "d": "pig iron"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The compressive and tensile strength of cast iron are",
+        "options": {
+            "a": "700 N/m2 and 150 N/mm2",
+            "b": "600 N/mm2 and 400 N/mm2",
+            "c": "415 N/mm2 and 415 N/mm2",
+            "d": "400 N/mm2 and 600 N/mm2."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "After felling and separating branches the tree is known as [Set Variant 1]",
+        "options": {
+            "a": "log",
+            "b": "converted timber",
+            "c": "rough timber",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The oldest part of exogenous tree is [Set Variant 2]",
+        "options": {
+            "a": "pith",
+            "b": "heartwood",
+            "c": "sapwood",
+            "d": "cambium layer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "The layer between the dark and sapwood which is yet to be converted into wood is known as [Set Variant 3]",
+        "options": {
+            "a": "pith",
+            "b": "heartwood",
+            "c": "softwood",
+            "d": "cambium layer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Which one of the following is softwood [Set Variant 4]",
+        "options": {
+            "a": "deodar",
+            "b": "teak",
+            "c": "sal",
+            "d": "mahogany"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Timber, Metals & Plastics",
+        "question": "Which one of the following is not a softwood: [Set Variant 5]",
+        "options": {
+            "a": "oak",
+            "b": "pine",
+            "c": "deodar",
+            "d": "bamboo"
+        },
+        "correct_answer": "a"
+    }
+]

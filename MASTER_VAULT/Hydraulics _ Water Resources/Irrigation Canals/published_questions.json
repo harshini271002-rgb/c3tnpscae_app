@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "If wheat requires about 75 mm of water after every 28 days, and the base period for wheat is 140 days, the value of delta for wheat is",
+        "options": {
+            "a": "2100 mm",
+            "b": "375 mm",
+            "c": "52.3 mm",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "A minor irrigation scheme involves command area equal to or less than",
+        "options": {
+            "a": "500 hectares",
+            "b": "1000 hectares",
+            "c": "2000 hectares",
+            "d": "3000 hectares"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The ratio between the area of a crop irrigated and the quantity of water required during its entire period of the growth, is known as",
+        "options": {
+            "a": "delta",
+            "b": "duty",
+            "c": "base period",
+            "d": "crop period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The total depth of water required by a crop during the entire period the crop is in the field, is known as",
+        "options": {
+            "a": "delta",
+            "b": "duty",
+            "c": "base period",
+            "d": "crop period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The number of hectares of land irrigated for full growth of a given crop by supply of 1m3 per second of water continuously during the entire base period of crop, is called",
+        "options": {
+            "a": "duty",
+            "b": "kor - watering",
+            "c": "delta",
+            "d": "crop water"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The whole period of cultivation from the time when irrigation water is first supplied for preparation of the ground to its last watering before harvesting, is called",
+        "options": {
+            "a": "base period",
+            "b": "crop period",
+            "c": "kor period",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The duty of a crop is 432 hectares per cumec when the base period of the crop is 100 days. The delta for the crop will be",
+        "options": {
+            "a": "100 cm",
+            "b": "200 cm",
+            "c": "432 cm",
+            "d": "864 cm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "A field of 500  hectares is to be irrigated for a particular crop having 100 days base period. The total depth of water required by the crop is 100 cm. duty of the water (in hectares per cubic metre per second) is",
+        "options": {
+            "a": "8.64",
+            "b": "57.87",
+            "c": "86.4",
+            "d": "864"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "If wheat requires about 75 mm of water after every 28 days, and the base period for wheat is 140 days, the value of delta for wheat is [Set Variant 1]",
+        "options": {
+            "a": "2100 mm",
+            "b": "375 mm",
+            "c": "52.3 mm",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "A minor irrigation scheme involves command area equal to or less than [Set Variant 2]",
+        "options": {
+            "a": "500 hectares",
+            "b": "1000 hectares",
+            "c": "2000 hectares",
+            "d": "3000 hectares"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The ratio between the area of a crop irrigated and the quantity of water required during its entire period of the growth, is known as [Set Variant 3]",
+        "options": {
+            "a": "delta",
+            "b": "duty",
+            "c": "base period",
+            "d": "crop period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The total depth of water required by a crop during the entire period the crop is in the field, is known as [Set Variant 4]",
+        "options": {
+            "a": "delta",
+            "b": "duty",
+            "c": "base period",
+            "d": "crop period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The number of hectares of land irrigated for full growth of a given crop by supply of 1m3 per second of water continuously during the entire base period of crop, is called [Set Variant 5]",
+        "options": {
+            "a": "duty",
+            "b": "kor - watering",
+            "c": "delta",
+            "d": "crop water"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The whole period of cultivation from the time when irrigation water is first supplied for preparation of the ground to its last watering before harvesting, is called [Set Variant 6]",
+        "options": {
+            "a": "base period",
+            "b": "crop period",
+            "c": "kor period",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The duty of a crop is 432 hectares per cumec when the base period of the crop is 100 days. The delta for the crop will be [Set Variant 7]",
+        "options": {
+            "a": "100 cm",
+            "b": "200 cm",
+            "c": "432 cm",
+            "d": "864 cm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "A field of 500  hectares is to be irrigated for a particular crop having 100 days base period. The total depth of water required by the crop is 100 cm. duty of the water (in hectares per cubic metre per second) is [Set Variant 8]",
+        "options": {
+            "a": "8.64",
+            "b": "57.87",
+            "c": "86.4",
+            "d": "864"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "If wheat requires about 75 mm of water after every 28 days, and the base period for wheat is 140 days, the value of delta for wheat is [Set Variant 9]",
+        "options": {
+            "a": "2100 mm",
+            "b": "375 mm",
+            "c": "52.3 mm",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "A minor irrigation scheme involves command area equal to or less than [Set Variant 10]",
+        "options": {
+            "a": "500 hectares",
+            "b": "1000 hectares",
+            "c": "2000 hectares",
+            "d": "3000 hectares"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The ratio between the area of a crop irrigated and the quantity of water required during its entire period of the growth, is known as [Set Variant 11]",
+        "options": {
+            "a": "delta",
+            "b": "duty",
+            "c": "base period",
+            "d": "crop period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The total depth of water required by a crop during the entire period the crop is in the field, is known as [Set Variant 12]",
+        "options": {
+            "a": "delta",
+            "b": "duty",
+            "c": "base period",
+            "d": "crop period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The number of hectares of land irrigated for full growth of a given crop by supply of 1m3 per second of water continuously during the entire base period of crop, is called [Set Variant 13]",
+        "options": {
+            "a": "duty",
+            "b": "kor - watering",
+            "c": "delta",
+            "d": "crop water"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The whole period of cultivation from the time when irrigation water is first supplied for preparation of the ground to its last watering before harvesting, is called [Set Variant 14]",
+        "options": {
+            "a": "base period",
+            "b": "crop period",
+            "c": "kor period",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "The duty of a crop is 432 hectares per cumec when the base period of the crop is 100 days. The delta for the crop will be [Set Variant 15]",
+        "options": {
+            "a": "100 cm",
+            "b": "200 cm",
+            "c": "432 cm",
+            "d": "864 cm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "A field of 500  hectares is to be irrigated for a particular crop having 100 days base period. The total depth of water required by the crop is 100 cm. duty of the water (in hectares per cubic metre per second) is [Set Variant 16]",
+        "options": {
+            "a": "8.64",
+            "b": "57.87",
+            "c": "86.4",
+            "d": "864"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Irrigation Canals",
+        "question": "If wheat requires about 75 mm of water after every 28 days, and the base period for wheat is 140 days, the value of delta for wheat is [Set Variant 17]",
+        "options": {
+            "a": "2100 mm",
+            "b": "375 mm",
+            "c": "52.3 mm",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    }
+]

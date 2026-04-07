@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The most economical section for a compression member is",
+        "options": {
+            "a": "rectangular",
+            "b": "I-shaped",
+            "c": "circular (d) hollow circular",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the Froude number in open channel flow is less than 1.0, the flow is known as",
+        "options": {
+            "a": "subcritical",
+            "b": "critical",
+            "c": "supercritical",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the Froude number in open channel is 1.0, this flow is known as",
+        "options": {
+            "a": "subcritical",
+            "b": "critical",
+            "c": "supercritical",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the Froude number in open channel is more than 1.0, the flow is known as",
+        "options": {
+            "a": "subcritical",
+            "b": "critical",
+            "c": "supercritical",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The Manning\u2019s formula used in open channel flow is",
+        "options": {
+            "a": "V =",
+            "b": "V =",
+            "c": "V =",
+            "d": "V =  RS"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The specific energy of the flow in a channel is equal to",
+        "options": {
+            "a": "y +",
+            "b": "",
+            "c": "y \u2013",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The depth of flow of water in a channel corresponding to the minimum specific energy is known as",
+        "options": {
+            "a": "hydraulic radius",
+            "b": "critical depth",
+            "c": "hydraulic gradient line",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "At the critical state of flow, the specific energy in a rectangular channel is equal to ______ times the depth of flow.",
+        "options": {
+            "a": "1.0",
+            "b": "1.5",
+            "c": "2.0",
+            "d": "2.5"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The most economical section of a rectangular channel is one which has hydraulic mean depth or hydraulic radius equal to",
+        "options": {
+            "a": "half the depth",
+            "b": "half the breadth",
+            "c": "twice the depth",
+            "d": "twice the breadth"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The most economical section of a trapezoidal channel is one which has hydraulic mean depth equal to",
+        "options": {
+            "a": "1 depth",
+            "b": "1 breadth",
+            "c": "1 slopingside",
+            "d": "1 (depth +breadth)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "In open channels, the specific energy is the",
+        "options": {
+            "a": "total energy per unit discharge",
+            "b": "\u0007total energy measured with respect to the datum",
+            "c": "total energy measured above the horizontal datum",
+            "d": "kinetic energy plotted above the free surface of"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The depth of water in a channel corresponding to the minimum specific energy is known as critical depth.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the depth of water in an open channel is greater than the critical depth, the flow is called",
+        "options": {
+            "a": "critical flow",
+            "b": "turbulent flow",
+            "c": "tranquil flow",
+            "d": "torrential flow"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the depth of water in an open channel is less than the critical depth, the flow is called",
+        "options": {
+            "a": "critical flow",
+            "b": "turbulent flow",
+            "c": "tranquil flow",
+            "d": "torrential flow"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The flow at critical depth in an open channel is called torrential flow.",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The discharge in an open channel corresponding to critical depth is",
+        "options": {
+            "a": "zero",
+            "b": "minimum",
+            "c": "maximum",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The most economical section of a lined canal is",
+        "options": {
+            "a": "rectangular section with circular bottom for small",
+            "b": "triangular section with circular bottom for small",
+            "c": "trapezoidal section with rounded corners for",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The most economical section for a compression member is [Set Variant 1]",
+        "options": {
+            "a": "rectangular",
+            "b": "I-shaped",
+            "c": "circular (d) hollow circular",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the Froude number in open channel flow is less than 1.0, the flow is known as [Set Variant 2]",
+        "options": {
+            "a": "subcritical",
+            "b": "critical",
+            "c": "supercritical",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the Froude number in open channel is 1.0, this flow is known as [Set Variant 3]",
+        "options": {
+            "a": "subcritical",
+            "b": "critical",
+            "c": "supercritical",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "If the Froude number in open channel is more than 1.0, the flow is known as [Set Variant 4]",
+        "options": {
+            "a": "subcritical",
+            "b": "critical",
+            "c": "supercritical",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The Manning\u2019s formula used in open channel flow is [Set Variant 5]",
+        "options": {
+            "a": "V =",
+            "b": "V =",
+            "c": "V =",
+            "d": "V =  RS"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The specific energy of the flow in a channel is equal to [Set Variant 6]",
+        "options": {
+            "a": "y +",
+            "b": "",
+            "c": "y \u2013",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "The depth of flow of water in a channel corresponding to the minimum specific energy is known as [Set Variant 7]",
+        "options": {
+            "a": "hydraulic radius",
+            "b": "critical depth",
+            "c": "hydraulic gradient line",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Open Channel Flow",
+        "question": "At the critical state of flow, the specific energy in a rectangular channel is equal to ______ times the depth of flow. [Set Variant 8]",
+        "options": {
+            "a": "1.0",
+            "b": "1.5",
+            "c": "2.0",
+            "d": "2.5"
+        },
+        "correct_answer": "a"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "In case of a member made up of two flats, or angles or tees or channels, tacking rivets/bolts are to be provided along the length:",
+        "options": {
+            "a": "not exceeding 1000 mm, if it is tension member",
+            "b": "not exceeding 600 mm, if it is compression member.",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "IS 800\u20132007 recommends use of ______ connections as far as possible.",
+        "options": {
+            "a": "riveted",
+            "b": "bolted",
+            "c": "welded",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "The effective diameter of a rivet is taken as",
+        "options": {
+            "a": "nominal diameter of rivet",
+            "b": "rivet hole diameter",
+            "c": "rivet hole diameter +1.5 mm",
+            "d": "rivet hole diameter \u20131.5 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "Which one of the following is not an advantage of bolted connection over welded connection?",
+        "options": {
+            "a": "Making joint is noiseless.",
+            "b": "Connection can be made easily.",
+            "c": "Accommodates minor discrepancies in dimensions.",
+            "d": "Alterations in connections can be made easily in the field."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "If t is the thickness of thinner plate in a bolted connection of tension member, pitch shall not be more than the",
+        "options": {
+            "a": "16t or 200 mm whichever is less",
+            "b": "16t or 200 mm whichever is more",
+            "c": "12t or 150 mm whichever is less",
+            "d": "12t or 150 mm whichever is more"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "If t is the thickness of thinner member and p is the pitch in bolted connection of a compression member, pitch shall not be more than",
+        "options": {
+            "a": "16t or 200 mm whichever is less",
+            "b": "16t or 200 mm whichever is more",
+            "c": "12t or 200 mm whichever is less",
+            "d": "12t or 180 mm whichever is less"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "For connecting circular tubes in tension, the best connection is by",
+        "options": {
+            "a": "riveting",
+            "b": "bolting",
+            "c": "using HSFG bolts",
+            "d": "welding"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "If a plate with small hole is kept over another plate and the entire hole is filled with weld material, the welded joint is known as",
+        "options": {
+            "a": "fillet weld",
+            "b": "butt weld",
+            "c": "plug weld",
+            "d": "slot weld"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "The minimum length of butt weld shall be ______ times the size of weld",
+        "options": {
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "8"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "If intermittent butt welding is used, the space between two welds should not be more than ______ times the thickness of the thinner member connected.",
+        "options": {
+            "a": "12",
+            "b": "16",
+            "c": "20",
+            "d": "24"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "For connecting 10 to 20 mm plates minimum size of fillet weld is",
+        "options": {
+            "a": "5 mm",
+            "b": "6 mm",
+            "c": "8 mm",
+            "d": "10 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "If a fillet weld is to the square edge, the size of weld shall be at least ______ less than the edge thickness",
+        "options": {
+            "a": "1.5 mm",
+            "b": "2.0 mm",
+            "c": "2.5 mm",
+            "d": "3.0 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "IS 800\u20132007, divides sections into ______ number of buckling classes.",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "The rivets are made from ductile material.",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "For riveting, the size of hole drilled in plates is ............ shank diameter of rivet.",
+        "options": {
+            "a": "equal to",
+            "b": "less than",
+            "c": "greater than",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "For a 25 mm hole drilled in plates, the diameter of rivet shank should be",
+        "options": {
+            "a": "23 mm",
+            "b": "24.5 mm",
+            "c": "25 mm",
+            "d": "26 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "According to Unwin\u2019s formula, the relation between diameter of rivet hole (d) and thickness of plate (t) is given by",
+        "options": {
+            "a": "d = t",
+            "b": "",
+            "c": "d = 2t",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "The rivets are used for ........... fastenings.",
+        "options": {
+            "a": "permanent",
+            "b": "temporary",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "When one plate overlaps the other and the two plates are riveted together with two rows of rivets, the joint is known as",
+        "options": {
+            "a": "single riveted lap joint",
+            "b": "double riveted lap joint",
+            "c": "double riveted single cover butt joint",
+            "d": "double riveted double cover butt joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "When two main plates are kept in alignment butting each other and riveted with cover plate on both sides of the main plates with two rows of rivets in each main plate, the joint is known as ........... double cover butt joint.",
+        "options": {
+            "a": "single riveted",
+            "b": "double riveted",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "In a riveted joint, when the rivets in the various rows are opposite to each other, the joint is said to be",
+        "options": {
+            "a": "chain riveted",
+            "b": "zig-zag riveted",
+            "c": "diamond riveted",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "In a riveted joint, when the rivets in the adjacent rows are staggered in such a way that every rivet is in the middle of the two rivets of the opposite row, the joint is said to be diamond riveted.",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "In a riveted joint, when the number of rivets decreases from the inner most row to outer most row, the joint is said to be",
+        "options": {
+            "a": "chain riveted",
+            "b": "zig-zag riveted",
+            "c": "diamond riveted",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "The centre to centre distance, between two consecutive rivets in a row, is called",
+        "options": {
+            "a": "margin",
+            "b": "pitch",
+            "c": "back pitch",
+            "d": "diagonal pitch"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "RCC / Prestressed Concrete & Steel Structures",
+        "subcategory": "Steel - Bolted & Welded Joints",
+        "question": "In case of a member made up of two flats, or angles or tees or channels, tacking rivets/bolts are to be provided along the length: [Set Variant 1]",
+        "options": {
+            "a": "not exceeding 1000 mm, if it is tension member",
+            "b": "not exceeding 600 mm, if it is compression member.",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    }
+]

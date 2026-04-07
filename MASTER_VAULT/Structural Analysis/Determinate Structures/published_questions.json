@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 1]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as [Set Variant 2]",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as [Set Variant 3]",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 4]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as [Set Variant 5]",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as [Set Variant 6]",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 7]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as [Set Variant 8]",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as [Set Variant 9]",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 10]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as [Set Variant 11]",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as [Set Variant 12]",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 13]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as [Set Variant 14]",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as [Set Variant 15]",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 16]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as [Set Variant 17]",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as [Set Variant 18]",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 19]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "If a rigid body is in equilibrium under a system of forces the virtual work done by this system of forces during virtual displacement is zero. This principle is known as [Set Variant 20]",
+        "options": {
+            "a": "work energy principle",
+            "b": "Mecaulay\u2019s principle",
+            "c": "Bernauli\u2019s principle",
+            "d": "Castigliano\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "\u2018In a linearly elastic structure, partial derivative of the strain energy with respect to a load is equal to the deflection of the point where the load is acting, the deflection being measured in the direction of the load\u2019. This is known as [Set Variant 21]",
+        "options": {
+            "a": "Castigliano\u2019s theorem",
+            "b": "Bernauli\u2019s theorem",
+            "c": "work energy principle",
+            "d": "unit load method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Determinate Structures",
+        "question": "The change in the slope between two points in a straight member under flexure is equal to the area of  diagram between those two points. This statement is known as [Set Variant 22]",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    }
+]

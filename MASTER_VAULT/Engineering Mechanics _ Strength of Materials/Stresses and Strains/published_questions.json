@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Formula-based",
+        "question": "[Stresses and Strains Advanced Check #1] The highly specific relationship between Young's Modulus (E), Bulk Modulus (K), and Poisson's ratio (\u03bc) is E = :",
+        "options": {
+            "a": "3K(1 - \u03bc)",
+            "b": "3K(1 - 2\u03bc)",
+            "c": "9K/(3K + \u03bc)",
+            "d": "2K(1 + \u03bc)"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based",
+        "question": "[Stresses and Strains Advanced Check #2] The ratio of lateral strain to longitudinal strain is strictly known as:",
+        "options": {
+            "a": "Modulus of rigidity",
+            "b": "Young's modulus",
+            "c": "Poisson's ratio",
+            "d": "Bulk modulus"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based",
+        "question": "[Stresses and Strains Advanced Check #3] Hooke's law fundamentally holds good strictly up to the:",
+        "options": {
+            "a": "Ultimate limit",
+            "b": "Yield limit",
+            "c": "Elastic limit",
+            "d": "Proportional limit"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #4] A prismatic bar subjected to an axial pull of 53 kN has a length of 2000 mm, area 330 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "16.06 mm",
+            "b": "1.606 mm",
+            "c": "0.803 mm",
+            "d": "3.212 mm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #5] If an isotropic material has a Young's Modulus of 200 GPa and a Shear Modulus of 85 GPa, its Poisson's ratio is:",
+        "options": {
+            "a": "0.276",
+            "b": "0.352",
+            "c": "0.176",
+            "d": "0.024"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #6] A steel bar is perfectly restrained at both ends and heated by 50\u00b0C. If \u03b1 = 12x10^-6 /\u00b0C and E = 200 GPa, the thermal stress induced is:",
+        "options": {
+            "a": "120.0 MPa",
+            "b": "60.0 MPa",
+            "c": "180.0 MPa",
+            "d": "170.0 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #7] A prismatic bar subjected to an axial pull of 56 kN has a length of 2000 mm, area 360 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "3.112 mm",
+            "b": "15.56 mm",
+            "c": "0.778 mm",
+            "d": "1.556 mm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #8] If an isotropic material has a Young's Modulus of 200 GPa and a Shear Modulus of 85 GPa, its Poisson's ratio is:",
+        "options": {
+            "a": "0.024",
+            "b": "0.176",
+            "c": "0.352",
+            "d": "0.276"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #9] A steel bar is perfectly restrained at both ends and heated by 56\u00b0C. If \u03b1 = 12x10^-6 /\u00b0C and E = 200 GPa, the thermal stress induced is:",
+        "options": {
+            "a": "184.4 MPa",
+            "b": "134.4 MPa",
+            "c": "67.2 MPa",
+            "d": "201.6 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #10] A prismatic bar subjected to an axial pull of 59 kN has a length of 2000 mm, area 390 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "3.026 mm",
+            "b": "0.756 mm",
+            "c": "15.13 mm",
+            "d": "1.513 mm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #11] If an isotropic material has a Young's Modulus of 200 GPa and a Shear Modulus of 85 GPa, its Poisson's ratio is:",
+        "options": {
+            "a": "0.276",
+            "b": "0.176",
+            "c": "0.352",
+            "d": "0.024"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #12] A steel bar is perfectly restrained at both ends and heated by 62\u00b0C. If \u03b1 = 12x10^-6 /\u00b0C and E = 200 GPa, the thermal stress induced is:",
+        "options": {
+            "a": "198.8 MPa",
+            "b": "223.2 MPa",
+            "c": "74.4 MPa",
+            "d": "148.8 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #13] A prismatic bar subjected to an axial pull of 62 kN has a length of 2000 mm, area 420 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "1.476 mm",
+            "b": "2.952 mm",
+            "c": "0.738 mm",
+            "d": "14.76 mm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #14] If an isotropic material has a Young's Modulus of 200 GPa and a Shear Modulus of 85 GPa, its Poisson's ratio is:",
+        "options": {
+            "a": "0.024",
+            "b": "0.276",
+            "c": "0.176",
+            "d": "0.352"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #15] A steel bar is perfectly restrained at both ends and heated by 68\u00b0C. If \u03b1 = 12x10^-6 /\u00b0C and E = 200 GPa, the thermal stress induced is:",
+        "options": {
+            "a": "81.6 MPa",
+            "b": "163.2 MPa",
+            "c": "213.2 MPa",
+            "d": "244.8 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #16] A prismatic bar subjected to an axial pull of 65 kN has a length of 2000 mm, area 450 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "2.888 mm",
+            "b": "14.44 mm",
+            "c": "1.444 mm",
+            "d": "0.722 mm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #17] If an isotropic material has a Young's Modulus of 200 GPa and a Shear Modulus of 85 GPa, its Poisson's ratio is:",
+        "options": {
+            "a": "0.176",
+            "b": "0.276",
+            "c": "0.024",
+            "d": "0.352"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #18] A steel bar is perfectly restrained at both ends and heated by 74\u00b0C. If \u03b1 = 12x10^-6 /\u00b0C and E = 200 GPa, the thermal stress induced is:",
+        "options": {
+            "a": "88.8 MPa",
+            "b": "177.6 MPa",
+            "c": "227.6 MPa",
+            "d": "266.4 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #19] A prismatic bar subjected to an axial pull of 68 kN has a length of 2000 mm, area 480 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "0.709 mm",
+            "b": "1.417 mm",
+            "c": "2.834 mm",
+            "d": "14.17 mm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #20] If an isotropic material has a Young's Modulus of 200 GPa and a Shear Modulus of 85 GPa, its Poisson's ratio is:",
+        "options": {
+            "a": "0.276",
+            "b": "0.176",
+            "c": "0.352",
+            "d": "0.024"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #21] A steel bar is perfectly restrained at both ends and heated by 80\u00b0C. If \u03b1 = 12x10^-6 /\u00b0C and E = 200 GPa, the thermal stress induced is:",
+        "options": {
+            "a": "192.0 MPa",
+            "b": "96.0 MPa",
+            "c": "288.0 MPa",
+            "d": "242.0 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #22] A prismatic bar subjected to an axial pull of 71 kN has a length of 2000 mm, area 510 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "1.392 mm",
+            "b": "2.784 mm",
+            "c": "0.696 mm",
+            "d": "13.92 mm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #23] If an isotropic material has a Young's Modulus of 200 GPa and a Shear Modulus of 85 GPa, its Poisson's ratio is:",
+        "options": {
+            "a": "0.276",
+            "b": "0.176",
+            "c": "0.352",
+            "d": "0.024"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #24] A steel bar is perfectly restrained at both ends and heated by 86\u00b0C. If \u03b1 = 12x10^-6 /\u00b0C and E = 200 GPa, the thermal stress induced is:",
+        "options": {
+            "a": "206.4 MPa",
+            "b": "256.4 MPa",
+            "c": "103.2 MPa",
+            "d": "309.6 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical",
+        "question": "[Stresses and Strains Advanced Check #25] A prismatic bar subjected to an axial pull of 74 kN has a length of 2000 mm, area 540 mm\u00b2, and Young's modulus 200 GPa. Its elongation is:",
+        "options": {
+            "a": "13.7 mm",
+            "b": "1.37 mm",
+            "c": "2.74 mm",
+            "d": "0.685 mm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

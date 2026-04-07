@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The point on which both foresight and back sights are taken is",
+        "options": {
+            "a": "change point",
+            "b": "first station point in the traverse",
+            "c": "last station point in a traverse",
+            "d": "the point where level is to be set"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The process of turning the telescope through 180\u00b0 in vertical plane is known as",
+        "options": {
+            "a": "transiting",
+            "b": "plunging",
+            "c": "reversing",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The process of rotating the telescope of a theodolite in a horizontal plane is known as",
+        "options": {
+            "a": "transiting",
+            "b": "plunging",
+            "c": "swinging",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "A theodolite is considered to be in proper condition, if",
+        "options": {
+            "a": "the axis of the plate is perpendicular to the vertical axis",
+            "b": "the trunnion axis is perpendicular to the vertical axis",
+            "c": "the axis of the altitude level is parallel to the line of collimation",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "Spire test is to check the following permanent adjustment of theodolite",
+        "options": {
+            "a": "plate level axis is perpendicular to vertical axis",
+            "b": "horizontal axis is perpendicular to vertical axis",
+            "c": "the line of sight coincides with the optical axis of the telescope",
+            "d": "the axis of altitude level is parallel to the line of sight"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "In a theodolite the multiplying constant for tacheometry is usually",
+        "options": {
+            "a": "10",
+            "b": "50",
+            "c": "100",
+            "d": "200"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The length of long chord of a circular curve of radius R and deflection angle D is",
+        "options": {
+            "a": "R sin",
+            "b": "2R sin",
+            "c": "R cos",
+            "d": "2R cos"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "If D is deflection angle, the chord length of a circular curve is",
+        "options": {
+            "a": "R sin D",
+            "b": "R cos D",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "Two theodolite method of setting out a curve involves",
+        "options": {
+            "a": "linear measurements only",
+            "b": "angular measurements only",
+            "c": "both angular and linear measurement",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "Four point loads 8, 15, 15 and 10 kN have centre-to-centre spacing of 2 m between consecutive loads and they traverse a girder of 30 m spam from left to right with 10 kN load loading. The maximum shear force at 8 m from left support will be",
+        "options": {
+            "a": "8.2 kN",
+            "b": "25.4 kN",
+            "c": "30.2 kN",
+            "d": "42.2 kN"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The device used to move wagons sideway from one track to another track is",
+        "options": {
+            "a": "turntable",
+            "b": "triangle",
+            "c": "traverse",
+            "d": "buffer stop"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "Beyond the dead end siding ______ provided to prevent the movement of vehicles",
+        "options": {
+            "a": "buffer stop",
+            "b": "sand hump",
+            "c": "traverse",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "Non-transit A theodolite is called a transit theodolite, when its telescope can be transited i.e. revolved through a complete revolution about its horizontal axis in a vertical plane. In a non-transist theodolite, the telescope cannot be transited. These types of theodolites have now become obsolete. The theodolites are also classified as vernier theodolites and micrometer theodolites, according as the vernier or micrometer is fitted to read the graduated circle. The first type is more commonly used. The following terms should be well understood when manipulating a transit theodolite: *\u2002 The magnetic needle is an essential part of the various forms of compass.",
+        "options": {
+            "a": "Centering. It means setting the theodolite exactly over a station mark. It can be done by means of a plumb",
+            "b": "Transiting. It is also called plunging or reversing. It is the process of turning the telescope of a theodolite",
+            "c": "Line of collimation. It is also known as line of sight. It is an imaginary line joining the point of intersection of",
+            "d": "Axis of telescope. It is a line joining the optical centre of the object glass and the centre of the eye piece."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "When the position of a point is to be located accurately by a perpendicular offset, the direction of perpendicular is set out by means of",
+        "options": {
+            "a": "theodolite",
+            "b": "optical square",
+            "c": "dumpy level",
+            "d": "planimeter"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The theodolite is an instrument used for measuring very accurately",
+        "options": {
+            "a": "horizontal angles only",
+            "b": "vertical angles only",
+            "c": "horizontal and vertical angles",
+            "d": "linear measurements"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The process of turning the telescope of a theodolite over its supporting axis through 180\u00b0 in a vertical plane, is called",
+        "options": {
+            "a": "transiting",
+            "b": "reversing",
+            "c": "plunging",
+            "d": "any one of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "In order to measure a horizontal angle more accurately than a vernier, a",
+        "options": {
+            "a": "method of repitition is used",
+            "b": "method of reiteration is used",
+            "c": "method of deflection angles is used",
+            "d": "method of double observations is used"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "In measuring horizontal angles, the theodolite should be turned",
+        "options": {
+            "a": "clockwise from the forward station to the back",
+            "b": "clockwise from the back station to the forward",
+            "c": "anticlockwise from the forward station to the",
+            "d": "anticlockwise from the back station to the forward"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "An angle made by a survey line with the prolongation of the proceeding line, is known as",
+        "options": {
+            "a": "direct angle",
+            "b": "vertical angle",
+            "c": "horizontal angle",
+            "d": "deflection angle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "A deflection angle in a traverse is equal to the",
+        "options": {
+            "a": "difference between the included angle and 180\u00b0",
+            "b": "difference between 360\u00b0 and the included angle",
+            "c": "sum of the included angle and 180\u00b0",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The deflection angle may have any value between",
+        "options": {
+            "a": "0\u00b0 and 45\u00b0",
+            "b": "0\u00b0 and 90\u00b0",
+            "c": "0\u00b0 and 120\u00b0",
+            "d": "0\u00b0 and 180\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "An angle measured clockwise from the proceeding survey line to the following survey line is called",
+        "options": {
+            "a": "direct angle",
+            "b": "vertical angle",
+            "c": "horizontal angle",
+            "d": "deflection angle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "The deflection angle may be directly obtained by setting the instrument to read ................. on back station.",
+        "options": {
+            "a": "0\u00b0",
+            "b": "90\u00b0",
+            "c": "180\u00b0",
+            "d": "270\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "In railway and highway works, the method of measuring the ................. is generally employed.",
+        "options": {
+            "a": "direct angles",
+            "b": "deflection angles",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Theodolite & Traversing",
+        "question": "An angle between the inclined line of sight and the horizontal is called",
+        "options": {
+            "a": "direct angle",
+            "b": "vertical angle",
+            "c": "horizontal angle",
+            "d": "deflection angle"
+        },
+        "correct_answer": "a"
+    }
+]

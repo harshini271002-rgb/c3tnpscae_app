@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Formula-based",
+        "question": "[Torsion Advanced Check #1] The fundamental torsion equation linking torque T, polar moment of inertia J, and shear stress \u03c4 is T/J = \u03c4/R = :",
+        "options": {
+            "a": "GL/\u03b8",
+            "b": "J\u03b8/L",
+            "c": "G\u03b8/L",
+            "d": "E\u03b8/L"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Theory-based",
+        "question": "[Torsion Advanced Check #2] When a solid circular cylindrical shaft is subjected to pure extreme torsion, the maximum shear stress mathematically occurs at the:",
+        "options": {
+            "a": "Mid-radius",
+            "b": "Exact geometric center",
+            "c": "Outer surface",
+            "d": "Neutral flexural axis"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Assertion-Reason",
+        "question": "[Torsion Advanced Check #3] Assertion (A): Hollow circular shafts are functionally preferred over solid circular shafts for power transmission.\nReason (R): For the identical material and weight, a hollow shaft provides a significantly higher polar section modulus.",
+        "options": {
+            "a": "A is false, but R is true",
+            "b": "A is true, but R is false",
+            "c": "Both A and R are true, and R is the correct explanation of A",
+            "d": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #4] A solid steel shaft of diameter 80 mm transmits a highly concentrated torque of 8 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "39.79 MPa",
+            "b": "159.16 MPa",
+            "c": "79.58 MPa",
+            "d": "159.15 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #5] The polar section modulus (Zp) specifically for a solid circular torsion member of outer diameter 80 mm is calculated to be:",
+        "options": {
+            "a": "100530.96 mm\u00b3",
+            "b": "2010619.3 mm\u00b3",
+            "c": "50265.48 mm\u00b3",
+            "d": "4021238.6 mm\u00b3"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #6] A mechanical shaft is subjected to a torque of 2x10^6 Nmm. Its length is 2000 mm, G = 80000 MPa, and J = 2000000.0 mm\u2074. The internal angle of twist in RADIANS is:",
+        "options": {
+            "a": "0.025 rad",
+            "b": "0.0125 rad",
+            "c": "0.0375 rad",
+            "d": "0.05 rad"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #7] A solid steel shaft of diameter 60 mm transmits a highly concentrated torque of 11 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "518.72 MPa",
+            "b": "129.68 MPa",
+            "c": "259.36 MPa",
+            "d": "518.73 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #8] The polar section modulus (Zp) specifically for a solid circular torsion member of outer diameter 95 mm is calculated to be:",
+        "options": {
+            "a": "84172.59 mm\u00b3",
+            "b": "7996396.41 mm\u00b3",
+            "c": "168345.19 mm\u00b3",
+            "d": "3998198.21 mm\u00b3"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #9] A mechanical shaft is subjected to a torque of 2x10^6 Nmm. Its length is 2000 mm, G = 80000 MPa, and J = 2300000.0 mm\u2074. The internal angle of twist in RADIANS is:",
+        "options": {
+            "a": "0.0434 rad",
+            "b": "0.0326 rad",
+            "c": "0.0109 rad",
+            "d": "0.0217 rad"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #10] A solid steel shaft of diameter 90 mm transmits a highly concentrated torque of 14 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "195.62 MPa",
+            "b": "195.61 MPa",
+            "c": "48.91 MPa",
+            "d": "97.81 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #11] The polar section modulus (Zp) specifically for a solid circular torsion member of outer diameter 110 mm is calculated to be:",
+        "options": {
+            "a": "7186884.07 mm\u00b3",
+            "b": "261341.24 mm\u00b3",
+            "c": "130670.62 mm\u00b3",
+            "d": "14373768.14 mm\u00b3"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #12] A mechanical shaft is subjected to a torque of 2x10^6 Nmm. Its length is 2000 mm, G = 80000 MPa, and J = 2600000.0 mm\u2074. The internal angle of twist in RADIANS is:",
+        "options": {
+            "a": "0.0192 rad",
+            "b": "0.0096 rad",
+            "c": "0.0288 rad",
+            "d": "0.0384 rad"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #13] A solid steel shaft of diameter 70 mm transmits a highly concentrated torque of 17 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "504.84 MPa",
+            "b": "504.84 MPa",
+            "c": "252.42 MPa",
+            "d": "126.21 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #14] The polar section modulus (Zp) specifically for a solid circular torsion member of outer diameter 125 mm is calculated to be:",
+        "options": {
+            "a": "191747.6 mm\u00b3",
+            "b": "11984224.91 mm\u00b3",
+            "c": "23968449.81 mm\u00b3",
+            "d": "383495.2 mm\u00b3"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #15] A mechanical shaft is subjected to a torque of 2x10^6 Nmm. Its length is 2000 mm, G = 80000 MPa, and J = 2900000.0 mm\u2074. The internal angle of twist in RADIANS is:",
+        "options": {
+            "a": "0.0344 rad",
+            "b": "0.0258 rad",
+            "c": "0.0086 rad",
+            "d": "0.0172 rad"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #16] A solid steel shaft of diameter 50 mm transmits a highly concentrated torque of 20 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "1629.74 MPa",
+            "b": "814.87 MPa",
+            "c": "407.44 MPa",
+            "d": "1629.75 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #17] The polar section modulus (Zp) specifically for a solid circular torsion member of outer diameter 140 mm is calculated to be:",
+        "options": {
+            "a": "18857409.9 mm\u00b3",
+            "b": "538783.14 mm\u00b3",
+            "c": "269391.57 mm\u00b3",
+            "d": "37714819.81 mm\u00b3"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #18] A mechanical shaft is subjected to a torque of 2x10^6 Nmm. Its length is 2000 mm, G = 80000 MPa, and J = 3200000.0 mm\u2074. The internal angle of twist in RADIANS is:",
+        "options": {
+            "a": "0.0234 rad",
+            "b": "0.0078 rad",
+            "c": "0.0312 rad",
+            "d": "0.0156 rad"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #19] A solid steel shaft of diameter 80 mm transmits a highly concentrated torque of 23 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "228.79 MPa",
+            "b": "114.39 MPa",
+            "c": "457.58 MPa",
+            "d": "457.57 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #20] The polar section modulus (Zp) specifically for a solid circular torsion member of outer diameter 155 mm is calculated to be:",
+        "options": {
+            "a": "28333269.42 mm\u00b3",
+            "b": "365590.57 mm\u00b3",
+            "c": "731181.15 mm\u00b3",
+            "d": "56666538.85 mm\u00b3"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #21] A mechanical shaft is subjected to a torque of 2x10^6 Nmm. Its length is 2000 mm, G = 80000 MPa, and J = 3500000.0 mm\u2074. The internal angle of twist in RADIANS is:",
+        "options": {
+            "a": "0.0143 rad",
+            "b": "0.0286 rad",
+            "c": "0.0072 rad",
+            "d": "0.0215 rad"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #22] A solid steel shaft of diameter 60 mm transmits a highly concentrated torque of 26 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "306.52 MPa",
+            "b": "1226.08 MPa",
+            "c": "613.04 MPa",
+            "d": "1226.08 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #23] The polar section modulus (Zp) specifically for a solid circular torsion member of outer diameter 170 mm is calculated to be:",
+        "options": {
+            "a": "482332.65 mm\u00b3",
+            "b": "964665.29 mm\u00b3",
+            "c": "40998275.0 mm\u00b3",
+            "d": "81996550.01 mm\u00b3"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #24] A mechanical shaft is subjected to a torque of 2x10^6 Nmm. Its length is 2000 mm, G = 80000 MPa, and J = 3800000.0 mm\u2074. The internal angle of twist in RADIANS is:",
+        "options": {
+            "a": "0.0198 rad",
+            "b": "0.0132 rad",
+            "c": "0.0264 rad",
+            "d": "0.0066 rad"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Torsion",
+        "type": "Numerical",
+        "question": "[Torsion Advanced Check #25] A solid steel shaft of diameter 90 mm transmits a highly concentrated torque of 29 kNm. The maximum torsional shear stress induced is:",
+        "options": {
+            "a": "101.3 MPa",
+            "b": "405.2 MPa",
+            "c": "405.2 MPa",
+            "d": "202.6 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

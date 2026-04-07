@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "Which of the following statement is wrong?",
+        "options": {
+            "a": "Pan tiles are similar to half round tiles but less curved",
+            "b": "Pan tiles are weaker than half round tiles",
+            "c": "Allahabad tiles are interlocking tiles",
+            "d": "Mangalore tiles are also interlocking tiles"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "The type of stairs with curved well formed between the two adjacent flights is known as",
+        "options": {
+            "a": "open-newel stair",
+            "b": "turning stair",
+            "c": "dog-logged stair",
+            "d": "geometric stair"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "Which one of the following methods estimates best the area of an irregular curved boundary?",
+        "options": {
+            "a": "Midordinate method",
+            "b": "Average ordinate method",
+            "c": "Trapezoidal method",
+            "d": "Simpson\u2019s method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "If the degree of curve is 1, then radius of the curve is",
+        "options": {
+            "a": "R sin",
+            "b": "R cos",
+            "c": "R tan",
+            "d": "R cot"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "If point of curve is 521.4 m in setting circular curve with 20 m chain, the first point where peg is to be fixed on the curve is",
+        "options": {
+            "a": "540 m",
+            "b": "541.4 m",
+            "c": "550 m",
+            "d": "551.4 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "In linear method of setting out simple circular curves the method to be used is",
+        "options": {
+            "a": "offset from long chord",
+            "b": "successive bisection of chord",
+            "c": "offsets from the tangents",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "If obstacles are coming in the alignment of a simple circular curve use",
+        "options": {
+            "a": "transition curve",
+            "b": "compound curve",
+            "c": "reverse curve",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "As far as possible reverse curves should be avoided. Reason for it is",
+        "options": {
+            "a": "puts passengers to discomfort",
+            "b": "needs cambers on opposite edges",
+            "c": "at the point of reverse curvature, it is not possible to provide camber",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "In a reverse curve, the super elevation provided at the point of reverse curvature is",
+        "options": {
+            "a": "minimum",
+            "b": "zero",
+            "c": "maximum",
+            "d": "depends upon the elements of curve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "If R is radius of curvature and l is the distance from the beginning in a transition curve, then for ideal transition",
+        "options": {
+            "a": "l \u00b5 R",
+            "b": "l \u00b5 R2",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "Which one of the following is not a transition curve?",
+        "options": {
+            "a": "Cubic spiral",
+            "b": "Cubic parabola",
+            "c": "Bermalli\u2019s leminiscale",
+            "d": "Sag curve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "If the vertical curve connects a 1% upgrade with 1.4% downgrade, and the rate of change of grade is to be 0.06% per 20 m stations, the length of vertical curve is",
+        "options": {
+            "a": "133.3 m",
+            "b": "40 m",
+            "c": "400 m",
+            "d": "800 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "In a sag curve a minimum of stoppage distance is determined with assumptions of head light ______ and beam tilted at an upward angle of ______",
+        "options": {
+            "a": "1.0 m and 2\u00b0",
+            "b": "0.75 m and 2\u00b0",
+            "c": "1.0 and 1\u00b0",
+            "d": "0.75 m and 1\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "A body is said to have plane motion when",
+        "options": {
+            "a": "it moves in a straight line on a plane surface",
+            "b": "it moves in a curved path on a plane surface",
+            "c": "it rotates around a point",
+            "d": "it possesses translation as well as rotation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "In a acceleration-time curve, the velocity is represented by",
+        "options": {
+            "a": "slope of the curve",
+            "b": "ordinate of the curve",
+            "c": "area under the curve",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "When a body moves in a curved path, centrifugal force to be applied to bring it to dynamic equilibrium is in the direction",
+        "options": {
+            "a": "radially inward",
+            "b": "radially outward",
+            "c": "tangentially forward",
+            "d": "tangentially backward"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "On curved path banking is provided to",
+        "options": {
+            "a": "avoid skidding and overturning",
+            "b": "permit higher speed",
+            "c": "reduce lateral pressure on wheels",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "Design speed on a banked curved path is",
+        "options": {
+            "a": "to avoid skidding of the vehicle",
+            "b": "to avoid overturning of the vehicle",
+            "c": "to avoid lateral pressure on tyres",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "In the case in Q. No. 39, the variation of bending moment diagram is",
+        "options": {
+            "a": "linear",
+            "b": "parabolic",
+            "c": "elliptic (a) 3rd degree curve",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "Deflection at a point in a beam in the direction perpendicular to its original straight line position measured from the tangent to the elastic curve at another point is given by the moment of diagram about the point where deflection is required. This statement is known as",
+        "options": {
+            "a": "Conjugate beam theorem",
+            "b": "Mecaulay\u2019s theorem",
+            "c": "Moment area theorem",
+            "d": "Castigliano\u2019s theorem"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "Which of the following statement is wrong? [Set Variant 1]",
+        "options": {
+            "a": "Pan tiles are similar to half round tiles but less curved",
+            "b": "Pan tiles are weaker than half round tiles",
+            "c": "Allahabad tiles are interlocking tiles",
+            "d": "Mangalore tiles are also interlocking tiles"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "The type of stairs with curved well formed between the two adjacent flights is known as [Set Variant 2]",
+        "options": {
+            "a": "open-newel stair",
+            "b": "turning stair",
+            "c": "dog-logged stair",
+            "d": "geometric stair"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "Which one of the following methods estimates best the area of an irregular curved boundary? [Set Variant 3]",
+        "options": {
+            "a": "Midordinate method",
+            "b": "Average ordinate method",
+            "c": "Trapezoidal method",
+            "d": "Simpson\u2019s method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "If the degree of curve is 1, then radius of the curve is [Set Variant 4]",
+        "options": {
+            "a": "R sin",
+            "b": "R cos",
+            "c": "R tan",
+            "d": "R cot"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Curves & Setting Out",
+        "question": "If point of curve is 521.4 m in setting circular curve with 20 m chain, the first point where peg is to be fixed on the curve is [Set Variant 5]",
+        "options": {
+            "a": "540 m",
+            "b": "541.4 m",
+            "c": "550 m",
+            "d": "551.4 m"
+        },
+        "correct_answer": "a"
+    }
+]

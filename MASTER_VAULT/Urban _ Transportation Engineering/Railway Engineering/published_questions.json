@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "In a tension test on a bar, gauge length means",
+        "options": {
+            "a": "grip to grip distance",
+            "b": "the length over which extensometer grips",
+            "c": "the length over which extension is measured",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Which one of the following is not an automatic rain gauge?",
+        "options": {
+            "a": "Symon\u2019s",
+            "b": "weighing bucket type",
+            "c": "tipping bucket type",
+            "d": "float type"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "In India ______ rain gauge is used in all government rain gauge stations.",
+        "options": {
+            "a": "Symon\u2019s",
+            "b": "weighing bucket type",
+            "c": "tipping bucket type",
+            "d": "float type"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Self-recording rain gauges are used to determine rainfall over",
+        "options": {
+            "a": "one year",
+            "b": "rainy season",
+            "c": "month",
+            "d": "short period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Gradient The rise or fall of the rail track level per unit length of the track is known as gradient. Gradient on railways may be classified as: (i) Ruling gradient (ii) Momentum gradient (iii) Pusher gradient (iv) Station yard gradient (i) Ruling gradient To balance between efficient running of the train as well as to take care of drainage even on plane land suitable gradient should be given. Such gradient is called ruling gradient. In India ruling gradients are: 1 in 150 to 1 in 200 in plains. 1 in 100 to 1 in 190 in hilly areas. However on curves grade compensation is provided to maintain the speed. Grade compensation provided is 0.04 % on B.G. 0.03 % on M.G. 0.02 % on N.G. (ii) Momentum gradient When there is a change from falling gradient to rising gradient, falling gradient may be slightly increased to make use of momentum gained to climb rising gradient. This is called momentum of gradient. This stretch of track should not have any signal. (iii) Pusher gradient In ghat section sometimes more gradient is provided. To climb this extra engine may be used. Between Mumbai and Poona a gradient of 1 in 37 is also provided. This is known as pusher gradient. (iv) Station yard gradient At railway stations and yards for easy drainage gradients provided are a maximum of 1 in 400 and a minimum of 1 in 1000. Superelevation On curves superelevation required is S = where V = speed in m/sec, G = gauge in metre R = radius in metre and g = 9.81 m/sec2. Maximum superelevation on broad gauge works out to be For V = 100 kmph 140 mm V = 120 kmph 165 mm V = 160 kmph 185 mm Cant deficiency It is the difference between necessary cant for design speed and actual cant. The maximum cant deficiency for speeds up to 100 kmph is",
+        "options": {
+            "a": "On broad gauge = 76 mm",
+            "b": "On metre gauge = 51 mm",
+            "c": "On narrow gauge = 38 mm",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Gauge is the distance between ______ of rails of track.",
+        "options": {
+            "a": "centre to centre",
+            "b": "inner edge to edge between top edges",
+            "c": "outer edge to edge distance",
+            "d": "inner edge to edges between bottom edges"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "The most widely used gauge in the world is",
+        "options": {
+            "a": "standard gauge",
+            "b": "broad gauge",
+            "c": "metre gauge",
+            "d": "narrow gauge"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Standard gauge is ______ wide.",
+        "options": {
+            "a": "1676 mm",
+            "b": "1435 mm",
+            "c": "1000 mm",
+            "d": "762 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "For developing a thinly populated area, the correct choice of gauge is",
+        "options": {
+            "a": "standard gauge",
+            "b": "broad gauge",
+            "c": "metre gauge",
+            "d": "narrow gauge"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "The rail section, nowadays, used in India is",
+        "options": {
+            "a": "bull headed",
+            "b": "double headed",
+            "c": "flat footed",
+            "d": "I-section"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "The rail section first designed in India was",
+        "options": {
+            "a": "full headed",
+            "b": "double headed",
+            "c": "flot footed",
+            "d": "I-section"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "A rail section is designated by its",
+        "options": {
+            "a": "cross-sectional area",
+            "b": "length",
+            "c": "total weight",
+            "d": "weight per metre length"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "The length of rails used in broad gauges in India is",
+        "options": {
+            "a": "13 m",
+            "b": "15 m",
+            "c": "17 m",
+            "d": "20 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Breaking length of rails is approximately equal to the length between ______ sleepers.",
+        "options": {
+            "a": "40",
+            "b": "60",
+            "c": "80",
+            "d": "100"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Which one of the following is not correct? Requirement of good joint",
+        "options": {
+            "a": "strength should be same as the original rail section",
+            "b": "it should withstand lateral pressure without altering the gauge length",
+            "c": "it should provide sufficient elasticity so that vibration and shocks are absorbed",
+            "d": "it should not allow for expansion."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Fish plates should be designed for",
+        "options": {
+            "a": "vertical force",
+            "b": "horizontal forces",
+            "c": "longitudinal forces",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "On Indian Railways fish plates are connected to the rails by ______ number of fish bolts.",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "6",
+            "d": "8"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Chief function of sleeper is to",
+        "options": {
+            "a": "keep the rails at correct gauge",
+            "b": "support the rails",
+            "c": "distribute the load coming from rails",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Requirements of a good sleeper is",
+        "options": {
+            "a": "provide adequate bearing area for the rails",
+            "b": "provide adequate bearing area to the ballast",
+            "c": "it should be easy to fix the rails",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "In a tension test on a bar, gauge length means [Set Variant 1]",
+        "options": {
+            "a": "grip to grip distance",
+            "b": "the length over which extensometer grips",
+            "c": "the length over which extension is measured",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Which one of the following is not an automatic rain gauge? [Set Variant 2]",
+        "options": {
+            "a": "Symon\u2019s",
+            "b": "weighing bucket type",
+            "c": "tipping bucket type",
+            "d": "float type"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "In India ______ rain gauge is used in all government rain gauge stations. [Set Variant 3]",
+        "options": {
+            "a": "Symon\u2019s",
+            "b": "weighing bucket type",
+            "c": "tipping bucket type",
+            "d": "float type"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Self-recording rain gauges are used to determine rainfall over [Set Variant 4]",
+        "options": {
+            "a": "one year",
+            "b": "rainy season",
+            "c": "month",
+            "d": "short period"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Gradient The rise or fall of the rail track level per unit length of the track is known as gradient. Gradient on railways may be classified as: (i) Ruling gradient (ii) Momentum gradient (iii) Pusher gradient (iv) Station yard gradient (i) Ruling gradient To balance between efficient running of the train as well as to take care of drainage even on plane land suitable gradient should be given. Such gradient is called ruling gradient. In India ruling gradients are: 1 in 150 to 1 in 200 in plains. 1 in 100 to 1 in 190 in hilly areas. However on curves grade compensation is provided to maintain the speed. Grade compensation provided is 0.04 % on B.G. 0.03 % on M.G. 0.02 % on N.G. (ii) Momentum gradient When there is a change from falling gradient to rising gradient, falling gradient may be slightly increased to make use of momentum gained to climb rising gradient. This is called momentum of gradient. This stretch of track should not have any signal. (iii) Pusher gradient In ghat section sometimes more gradient is provided. To climb this extra engine may be used. Between Mumbai and Poona a gradient of 1 in 37 is also provided. This is known as pusher gradient. (iv) Station yard gradient At railway stations and yards for easy drainage gradients provided are a maximum of 1 in 400 and a minimum of 1 in 1000. Superelevation On curves superelevation required is S = where V = speed in m/sec, G = gauge in metre R = radius in metre and g = 9.81 m/sec2. Maximum superelevation on broad gauge works out to be For V = 100 kmph 140 mm V = 120 kmph 165 mm V = 160 kmph 185 mm Cant deficiency It is the difference between necessary cant for design speed and actual cant. The maximum cant deficiency for speeds up to 100 kmph is [Set Variant 5]",
+        "options": {
+            "a": "On broad gauge = 76 mm",
+            "b": "On metre gauge = 51 mm",
+            "c": "On narrow gauge = 38 mm",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Railway Engineering",
+        "question": "Gauge is the distance between ______ of rails of track. [Set Variant 6]",
+        "options": {
+            "a": "centre to centre",
+            "b": "inner edge to edge between top edges",
+            "c": "outer edge to edge distance",
+            "d": "inner edge to edges between bottom edges"
+        },
+        "correct_answer": "a"
+    }
+]

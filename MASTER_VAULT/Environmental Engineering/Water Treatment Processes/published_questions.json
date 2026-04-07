@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "The system in which filtration and humidity control are exercised at a central point but heating and cooling systems are installed separately for different rooms is known as",
+        "options": {
+            "a": "central system",
+            "b": "self-contained system",
+            "c": "semi-conditioned system",
+            "d": "combined system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Vertical wells provided along the banks of a riverbed to draw ground water in dry season are known as",
+        "options": {
+            "a": "infiltration wells",
+            "b": "tubewells",
+            "c": "artesian wells",
+            "d": "open wells"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "A pipe sunk into the well to tap underground water is called",
+        "options": {
+            "a": "infiltration well",
+            "b": "tube well",
+            "c": "artesian well",
+            "d": "open well"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "In a well, if the water level is below the ground level but is above the local water table, it is known as",
+        "options": {
+            "a": "infiltration well",
+            "b": "tubewell",
+            "c": "artesian well",
+            "d": "open well"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Sedimentation tanks and clean water reservoir are designed for the n times rate of consumption, where n is",
+        "options": {
+            "a": "1.0",
+            "b": "1.2",
+            "c": "1.25",
+            "d": "1.4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Ion transfer takes place by means of",
+        "options": {
+            "a": "chemical coagulation",
+            "b": "chemical precipitation",
+            "c": "adsorption",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Plain sedimentation is the process of removal of suspended particles by the action of",
+        "options": {
+            "a": "sunrays",
+            "b": "gravity",
+            "c": "velocity of particles",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "In fill and draw type of sedimentation tanks the time required for one cycle is",
+        "options": {
+            "a": "6 to 12 hours",
+            "b": "18 to 24 hours",
+            "c": "30 to 36 hours",
+            "d": "42 to 48 hours"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Efficiency of sedimentation tank for a given discharge can be increased by",
+        "options": {
+            "a": "decreasing the depth of tank",
+            "b": "increasing the depth of tank",
+            "c": "increasing the surface area of the tank",
+            "d": "decreasing the surface area of the tank"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "The process of purifying water by passing it through a bed of fine granular material is known as",
+        "options": {
+            "a": "screening",
+            "b": "sedimentation",
+            "c": "filtration",
+            "d": "coagulation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "In slow sand filters rate of filtration varies between",
+        "options": {
+            "a": "50 and 100 litres/m2/ hour",
+            "b": "100 and 200 litres/m2/hour",
+            "c": "200 and 300 litres/m2/hour",
+            "d": "300 and 500 litres/m2/hour"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "The depth of slow filtration tank varies between",
+        "options": {
+            "a": "1 and 2 m",
+            "b": "2.5 and 4.0 m",
+            "c": "4 and 6 m",
+            "d": "6 and 8 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "In treating swimming pool water the filtration system to be used is",
+        "options": {
+            "a": "slow sand filters",
+            "b": "rapid sand filters",
+            "c": "pressure filters",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Process of killing pathogenic bacteria from water is known as",
+        "options": {
+            "a": "filtration",
+            "b": "sedimentation",
+            "c": "disinfection",
+            "d": "coagulation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Which one of the following is universally practised for disinfection of water?",
+        "options": {
+            "a": "Boiling",
+            "b": "Excess lime treatment",
+            "c": "Ultraviolet ray treatment",
+            "d": "Chlorination"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Activated carbon treatment has the function",
+        "options": {
+            "a": "aids coagulation",
+            "b": "removes colour",
+            "c": "removes odours due to excess chlorine, hydrogen sulphide, phenol and other elements",
+            "d": "all these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "The dose of copper sulphate in water treatment varies from",
+        "options": {
+            "a": "0.3 to 0.6 ppm",
+            "b": "1 to 1.5 ppm",
+            "c": "2 to 2.5 ppm",
+            "d": "3 to 4 ppm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "The dose of copper sulphate in water treatment",
+        "options": {
+            "a": "removes colour",
+            "b": "removes odour and taste",
+            "c": "controls growth of algae",
+            "d": "all these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Sources of sludge in wastewater treatment system is",
+        "options": {
+            "a": "primary settling tanks",
+            "b": "trickling filters",
+            "c": "chemical coagulation plants",
+            "d": "all these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Which of the following statement is correct for sprinkler irrigation method?",
+        "options": {
+            "a": "It is used for rice and jute",
+            "b": "It is used for the soil having very low infiltration",
+            "c": "It is best suitable for very light soil",
+            "d": "It requires borders and field channel"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "The graphical representation of average rainfall and rainfall excess (i.e. rainfall minus infiltration) rates over specified areas during successive unit time intervals during a storm is known\u2009as",
+        "options": {
+            "a": "hydrograph",
+            "b": "unit hydrograph",
+            "c": "hyetograph",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Plain sedimentation. It is the process of retaining water in a basin so that the suspended particles settles down as a result of the action of gravity and forces. The rate of settling of a particle in water depends upon the viscosity of water, density of water, specific gravity of the particle, shape and size of the particle. It may be noted that the particles will settle down more rapidly in water at higher temperatures than at lower temperatures. The process of plain sedimentation may remove 60% suspended matter and 75% bacteria. The following are the important factors to be considered in designing a sedimentation tank:",
+        "options": {
+            "a": "Period of detention. It is the time required to fill the tank at the given rate of flow. The detention time for an",
+            "b": "Depth of tank. It is also an important factor and should be 3 metres to 6 metres.",
+            "c": "Velocity of flow. The velocity of flow of water is obtained by dividing the volumetric flow by vertical cross-",
+            "d": "Sludge capacity. The sludge capacity depends upon the period of cleanings and the amount of matter removed"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "The system in which filtration and humidity control are exercised at a central point but heating and cooling systems are installed separately for different rooms is known as [Set Variant 1]",
+        "options": {
+            "a": "central system",
+            "b": "self-contained system",
+            "c": "semi-conditioned system",
+            "d": "combined system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "Vertical wells provided along the banks of a riverbed to draw ground water in dry season are known as [Set Variant 2]",
+        "options": {
+            "a": "infiltration wells",
+            "b": "tubewells",
+            "c": "artesian wells",
+            "d": "open wells"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Treatment Processes",
+        "question": "A pipe sunk into the well to tap underground water is called [Set Variant 3]",
+        "options": {
+            "a": "infiltration well",
+            "b": "tube well",
+            "c": "artesian well",
+            "d": "open well"
+        },
+        "correct_answer": "a"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "If ultimate strength of a material in tension is 60 N/mm2, shear strength is 25 N/mm2, its specimen in tension test fails",
+        "options": {
+            "a": "at right angle to axial direction",
+            "b": "at 45\u00b0 to axial direction",
+            "c": "at 30\u00b0 to axial direction",
+            "d": "there is no definite direction"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Shear capacity of bolts Vdsb = where fub = ultimate tensile strength of bolt nn = number of shear planes with threads ns = number of shear planes with threads intercepting shear planes (in shank) Asb = nominal shank area of the bolts Anb = net area of the bolt at threads = , where p = pitch of thread = 0.78 for ISO threads. Reduction factors for shear strength:",
+        "options": {
+            "a": "For long joints: If the distance between first and least bolt exceed 15 d, the reduction factor",
+            "b": "Reduction factor, if grip length is larger, i.e., total thickness for connected plates is more than 5 d",
+            "c": "Reduction factor if packing plates used are more than 6 mm thick:",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Check for bending strength, shear strength and deflection. Revise the section if necessary. Bending strength If , two cases",
+        "options": {
+            "a": "If V \u00a3 0 .6 Vd",
+            "b": "If V > 0.6 Vd",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The design strength of tension member is",
+        "options": {
+            "a": "design strength of gross section due to yielding",
+            "b": "rupture strength of section",
+            "c": "block shear strength",
+            "d": "lowest of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Shear strength of soil increases with increase in",
+        "options": {
+            "a": "cohesion of soil",
+            "b": "angle of internal friction",
+            "c": "normal stress on soil",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The apparatus that is suitable for conducting drained, undrained and consolidated drained shear test is",
+        "options": {
+            "a": "box shear apparatus",
+            "b": "triaxial test apparatus",
+            "c": "shear vane test apparatus",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The test suitable for conducting in the laboratory as well as on site for finding shear strength of cohesive soil is",
+        "options": {
+            "a": "direct shear test",
+            "b": "triaxial test",
+            "c": "shear vane test",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "In a triaxial test when the drainage is allowed initially only and not during latter stage, the test is known as",
+        "options": {
+            "a": "consolidated drained test",
+            "b": "consolidated underained test",
+            "c": "unconsolidated drained test",
+            "d": "unconsolidated undrained test"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "In unconfined compression test, height to diameter ratio of the specimen is",
+        "options": {
+            "a": "1.0",
+            "b": "1.5",
+            "c": "2.0",
+            "d": "3.0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "In unconfined compression test the cross-sectional area A at any stage of loading is",
+        "options": {
+            "a": "constant",
+            "b": "decreases",
+            "c": "increases",
+            "d": "depends upon type of soil it may be"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Transverse fillet welds are designed for",
+        "options": {
+            "a": "tensile strength",
+            "b": "compressive strength",
+            "c": "shear strength",
+            "d": "bending strength"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Shear strength of the welded joint for double parallel fillet is",
+        "options": {
+            "a": "0.5 s.l \u03c4",
+            "b": "s.l.\u03c4",
+            "c": "",
+            "d": "2. s.l.\u03c4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Density index for a natural soil is used to express",
+        "options": {
+            "a": "percentage voids",
+            "b": "relations compactness",
+            "c": "shear strength of days",
+            "d": "specific gravity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The useful method of finding the shear strength of very plastic cohesive soils is by means of",
+        "options": {
+            "a": "cone test",
+            "b": "penetration test",
+            "c": "vane shear test",
+            "d": "torsional shear test"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "A dry sand specimen is put through a triaxial test. The cell pressure is 50 kPa and the deviator stress at failure is 100 kPa. The angle of internal friction for the sand specimen is",
+        "options": {
+            "a": "15\u00b0",
+            "b": "30\u00b0",
+            "c": "35\u00b0",
+            "d": "40\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The transverse fillet welds are designed for",
+        "options": {
+            "a": "tensile strength",
+            "b": "shear strength",
+            "c": "compressive strength",
+            "d": "bending strength"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "If ultimate strength of a material in tension is 60 N/mm2, shear strength is 25 N/mm2, its specimen in tension test fails [Set Variant 1]",
+        "options": {
+            "a": "at right angle to axial direction",
+            "b": "at 45\u00b0 to axial direction",
+            "c": "at 30\u00b0 to axial direction",
+            "d": "there is no definite direction"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Shear capacity of bolts Vdsb = where fub = ultimate tensile strength of bolt nn = number of shear planes with threads ns = number of shear planes with threads intercepting shear planes (in shank) Asb = nominal shank area of the bolts Anb = net area of the bolt at threads = , where p = pitch of thread = 0.78 for ISO threads. Reduction factors for shear strength: [Set Variant 2]",
+        "options": {
+            "a": "For long joints: If the distance between first and least bolt exceed 15 d, the reduction factor",
+            "b": "Reduction factor, if grip length is larger, i.e., total thickness for connected plates is more than 5 d",
+            "c": "Reduction factor if packing plates used are more than 6 mm thick:",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Check for bending strength, shear strength and deflection. Revise the section if necessary. Bending strength If , two cases [Set Variant 3]",
+        "options": {
+            "a": "If V \u00a3 0 .6 Vd",
+            "b": "If V > 0.6 Vd",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The design strength of tension member is [Set Variant 4]",
+        "options": {
+            "a": "design strength of gross section due to yielding",
+            "b": "rupture strength of section",
+            "c": "block shear strength",
+            "d": "lowest of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "Shear strength of soil increases with increase in [Set Variant 5]",
+        "options": {
+            "a": "cohesion of soil",
+            "b": "angle of internal friction",
+            "c": "normal stress on soil",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The apparatus that is suitable for conducting drained, undrained and consolidated drained shear test is [Set Variant 6]",
+        "options": {
+            "a": "box shear apparatus",
+            "b": "triaxial test apparatus",
+            "c": "shear vane test apparatus",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "The test suitable for conducting in the laboratory as well as on site for finding shear strength of cohesive soil is [Set Variant 7]",
+        "options": {
+            "a": "direct shear test",
+            "b": "triaxial test",
+            "c": "shear vane test",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "In a triaxial test when the drainage is allowed initially only and not during latter stage, the test is known as [Set Variant 8]",
+        "options": {
+            "a": "consolidated drained test",
+            "b": "consolidated underained test",
+            "c": "unconsolidated drained test",
+            "d": "unconsolidated undrained test"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Shear Strength of Soils",
+        "question": "In unconfined compression test, height to diameter ratio of the specimen is [Set Variant 9]",
+        "options": {
+            "a": "1.0",
+            "b": "1.5",
+            "c": "2.0",
+            "d": "3.0"
+        },
+        "correct_answer": "a"
+    }
+]

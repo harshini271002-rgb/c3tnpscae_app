@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Among the following the costliest masonry work is",
+        "options": {
+            "a": "ashlar champered",
+            "b": "ashlar rock faced",
+            "c": "ashlar fine tooled",
+            "d": "ashlar block in course"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "A brick with its longer face in the direction of wall is known as",
+        "options": {
+            "a": "stretchers",
+            "b": "header",
+            "c": "quoin",
+            "d": "perpend"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "A brick with its shorter face in the direction of the wall is",
+        "options": {
+            "a": "stretcher",
+            "b": "header",
+            "c": "quoin",
+            "d": "perpend"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "A type of bond in brick masonry consisting of alternate courses of header and stretchers, is",
+        "options": {
+            "a": "stretchers band",
+            "b": "header band",
+            "c": "English band",
+            "d": "Flemish band"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "A type of bond in the brick masonry in which each course consists of alternate headers and stretchers is",
+        "options": {
+            "a": "English bond",
+            "b": "Raking bond",
+            "c": "Dutch bond",
+            "d": "Flemish bond"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Diagonal bond is a pattern of bond in",
+        "options": {
+            "a": "English bond",
+            "b": "Flemish bond",
+            "c": "Dutch bond",
+            "d": "Raking bond"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Temporary structure erected to facilitate the construction of walls when the height is more than 1.5 m is known as",
+        "options": {
+            "a": "scaffolding",
+            "b": "formwork",
+            "c": "centring",
+            "d": "shoring"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Masons scaffolding consists of",
+        "options": {
+            "a": "only one row of standards",
+            "b": "two rows of standards",
+            "c": "one or two rows of standards",
+            "d": "any number of rows standards"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Cantilever scaffolding is used when",
+        "options": {
+            "a": "the construction is in upper parts of multistorey building",
+            "b": "the ground is too weak to receive standards",
+            "c": "the space at ground level is required to be free of obstruction",
+            "d": "in any of the above situations"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "For maintenance works inside the building, the type of scaffolding used is",
+        "options": {
+            "a": "cantilever scaffolding",
+            "b": "trestle scaffolding",
+            "c": "single scaffolding",
+            "d": "suspended scaffolding"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Which one of the following is not a type of shoring",
+        "options": {
+            "a": "raking shore",
+            "b": "flying shore",
+            "c": "dead shore",
+            "d": "running shore"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "When large openings are to be made in existing wall, the type of temporary work used is",
+        "options": {
+            "a": "raking shore",
+            "b": "flying shore",
+            "c": "dead shore",
+            "d": "underpinning"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "The floor provided between masonry walls below the river bed is known as",
+        "options": {
+            "a": "wing wall",
+            "b": "curtain wall",
+            "c": "bed block",
+            "d": "kerb"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Masonry arch bridges are used to span",
+        "options": {
+            "a": "less than 3 m",
+            "b": "3 to 15 m",
+            "c": "15 to 20 m",
+            "d": "20 to 30 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "In order to avoid sliding of masonry dam, the force of friction between the dam and soil should be at least ............ the total water pressure per metre length.",
+        "options": {
+            "a": "equal to",
+            "b": "1.5 times",
+            "c": "double",
+            "d": "2.5 times"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "In order to prevent crushing of masonry at the base of the dam, the maximum stress should be ............ the permissible stress of the soil.",
+        "options": {
+            "a": "equal to",
+            "b": "less than",
+            "c": "more than",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "The water pressure per metre length on a vertical masonry wall of dam is",
+        "options": {
+            "a": "w H / 2",
+            "b": "wH",
+            "c": "wH2 / 2",
+            "d": "wH2 / 4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "In cross-drainage works, when the difference between bed level of canal and that of drainage is small or when the F.S.L. of the canal is above the bed level of drainage. Following are the different types of canal falls:",
+        "options": {
+            "a": "Ogee fall. In this type of fall, an ogee curve (a combination of convex curve and concave curve) is provided",
+            "b": "Rapid fall. The rapid fall is suitable when the slope of the natural ground surface is even and long. It consists",
+            "c": "Trapezoidal notch fall. It consists of a number of trapezoidal notches provided in a high crested wall across",
+            "d": "Sharda fall or Vertical drop fall. It consists of vertical drop wall which is constructed with masonry work."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "The repelling groyne is constructed in such a way that it is pointing towards ................. at an angle of 30\u00b0.",
+        "options": {
+            "a": "upstream",
+            "b": "downstream",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Cantilever or needle scaffolding. This type of scaffolding is used under the following circumstances:",
+        "options": {
+            "a": "When the ground is weak to support the standards,",
+            "b": "When the construction for the upper parts of a multi-storeyed building is to be carried out, and",
+            "c": "When the ordinary scaffolding will obstruct the traffic on road such as for a building on the side of a busy",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "The construction of a temporary structure required to support an unsafe structure, is called",
+        "options": {
+            "a": "underpinning",
+            "b": "scaffolding",
+            "c": "shoring",
+            "d": "jacking"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "A temporary rigid structure having platforms raised up as the building increases in height, is called",
+        "options": {
+            "a": "underpinning",
+            "b": "scaffolding",
+            "c": "shoring",
+            "d": "jacking"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "The arrangement of supports provided underneath the existing structure without disturbing its stability, is known as",
+        "options": {
+            "a": "underpinning",
+            "b": "scaffolding",
+            "c": "shoring",
+            "d": "jacking"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "A horizontal layer of bricks laid in mortar is known as",
+        "options": {
+            "a": "course",
+            "b": "stretcher",
+            "c": "header",
+            "d": "closer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Masonry & Scaffolding",
+        "question": "Among the following the costliest masonry work is [Set Variant 1]",
+        "options": {
+            "a": "ashlar champered",
+            "b": "ashlar rock faced",
+            "c": "ashlar fine tooled",
+            "d": "ashlar block in course"
+        },
+        "correct_answer": "a"
+    }
+]

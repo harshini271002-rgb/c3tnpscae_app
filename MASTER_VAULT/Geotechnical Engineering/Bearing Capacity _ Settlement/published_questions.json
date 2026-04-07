@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The maximum intensity of loading that the soil will safely carry without the risk of shear failure irrespective of settlement is known as",
+        "options": {
+            "a": "ultimate bearing capacity",
+            "b": "safe bearing capacity",
+            "c": "safe bearing pressure",
+            "d": "gross allowable bearing pressure"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "Ultimate bearing capacity of soil is the",
+        "options": {
+            "a": "maximum gross pressure at which soil fails in shear.",
+            "b": "maximum net pressure at which soil fails in shear.",
+            "c": "maximum pressure at which soil settles beyond the specified limit.",
+            "d": "both (a) and (c)."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "Terzaghi\u2019s expression CNc + g Df Nq +  g B Ng for bearing capacity gives",
+        "options": {
+            "a": "gross safe bearing capacity",
+            "b": "net safe bearing capacity",
+            "c": "ultimate bearing capacity",
+            "d": "net ultimate bearing capacity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "For square footing ultimate bearing capacity Terzaghi suggested the expression for finding ultimate hearing capacity from consideration of shear strength.",
+        "options": {
+            "a": "CNc + g Df Nq + 0.5 g BNg",
+            "b": "1.3 CNc + g Df Nq + 0.5 g BNg",
+            "c": "1.3 CNc + g Df Nq + 0.4 g BNg",
+            "d": "1.3 CNc + g Df Nq + 0.3 g BNg"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "For circular footing Terzaghi suggested the following formula to get ultimate bearing capacity from the consideration of shear strength.",
+        "options": {
+            "a": "CNc + g Df Nq + 0.5 g BNg",
+            "b": "1.3 CNc + g Df Nq + 0.5 g BNg",
+            "c": "1.3 CNc + g Df Nq + 0.4 g BNg",
+            "d": "1.3 CNc + g Df Nq + 0.3 g BNg"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "In a plate load test minimum size of plate to be used is",
+        "options": {
+            "a": "250 mm \u00d7 250 mm",
+            "b": "300 mm \u00d7 300 mm",
+            "c": "400 mm \u00d7 400 mm",
+            "d": "450 mm \u00d7 450 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "In plate load test width of pit should be at least ______ times the plate.",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "In plate load test preloading recommended by IS code is",
+        "options": {
+            "a": "70 gm/cm2",
+            "b": "100 gm/cm2",
+            "c": "120 gm/cm2",
+            "d": "125 gm/cm2"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "Plate load test is carried over upto ______ times expected ultimate load.",
+        "options": {
+            "a": "90%",
+            "b": "100%",
+            "c": "125%",
+            "d": "150%"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "Allowable bearing capacity. It is the net loading intensity at which neither the soil fails in shear nor there is excessive settlement detrimental to the structure. 11.26\u2002 Terzaghi\u2019s Analysis The analysis of the condition of complete bearing capacity failure, usually termed as general shear failure, can be made by assuming that the soil behaves like an ideally plastic material. According to Dr. K. Terzaghi,",
+        "options": {
+            "a": "The ultimate bearing capacity (qf ) per unit area of a cohesive soil for general shear failure (when the water table",
+            "b": "The ultimate bearing capacity (qf ) per unit area of sands (cohesionless soil) for general shear failure is given by",
+            "c": "The ultimate bearing capacity (qf ) per unit area of clays (i.e. purely cohesive soils) for general shear failure is given",
+            "d": "The net ultimate bearing capacity (qnf ) per unit area of a cohesive soil is given by"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The net ultimate bearing capacity is the maximum net pressure intensity causing shear failure of soil.",
+        "options": {
+            "a": "True",
+            "b": "False",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The maximum unit pressure that a soil can withstand without rupture in shear or without excessive settlement of the structure, is called",
+        "options": {
+            "a": "allowable bearing pressure",
+            "b": "safe bearing capacity",
+            "c": "ultimate bearing capacity",
+            "d": "bearing capacity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "A plate load test is useful to estimate",
+        "options": {
+            "a": "bearing capacity of foundation",
+            "b": "settlement of foundation",
+            "c": "consolidation of soil",
+            "d": "bearing capacity of foundation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The ultimate bearing capacity per unit area of a soil for general shear failure is",
+        "options": {
+            "a": "0.5 \u03b3 BN\u03b3 + \u03b3 Df\u2009Nq",
+            "b": "c Nc + 0.5 \u03b3 BN\u03b3 + g Df Nq",
+            "c": "1.3 c Nc + \u03b3 Df Nq + 0.6 \u03b3.r.N\u03b3",
+            "d": "1.3 c Nc + \u03b3 Df Nq + 0.4 \u03b3 BN\u03b3"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The ultimate bearing capacity per unit area of sands for general shear failure is given by",
+        "options": {
+            "a": "0.5 \u03b3 Df Nq + \u03b3 BN\u03b3\t (b)\t 0.5 \u03b3 BN\u03b3 + \u03b3 Df Nq",
+            "b": "",
+            "c": "0.67 \u03b3 Df N\u03b3 + \u03b3 BNq\t(d)\t 0.67 \u03b3 BNq + \u03b3 Df N\u03b3",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The ultimate bearing capacity per unit area of clays for general shear failure is given by",
+        "options": {
+            "a": "1.54 c + \u03b3 Df",
+            "b": "4.15 c + \u03b3 Df",
+            "c": "c + 1.54 \u03b3 Df",
+            "d": "5.7 c + \u03b3 Df"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The ultimate net bearing capacity of clays depends upon the value of cohesion.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The net ultimate bearing capacity of a square footing in sand is given by",
+        "options": {
+            "a": "0.3 \u03b3 BN\u03b3 + \u03b3 Df (Nq \u2013 1)",
+            "b": "0.3 \u03b3 BN\u03b3 + \u03b3 Df (Nq + 1)",
+            "c": "0.4 \u03b3 BN\u03b3 + \u03b3 Df (Nq \u2013 1)",
+            "d": "0.4 \u03b3 BN\u03b3 + \u03b3 Df (Nq + 1)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The net soil pressure is obtained by multiplying the net ultimate bearing capacity of soil to the factor of safety.",
+        "options": {
+            "a": "Right",
+            "b": "Wrong",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "According to Terzaghi, the net ultimate bearing capacity of clay is given by",
+        "options": {
+            "a": "c Nq",
+            "b": "c N\u03b3",
+            "c": "c Nc",
+            "d": "1.3 c Nc"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The safe bearing capacity of the soil is equal to",
+        "options": {
+            "a": "Nominal strength \u00d7 Factor of safety",
+            "b": "Ultimate bearing power",
+            "c": "Ultimate tensile strength",
+            "d": "Ultimate compressive strength"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "A plate load test is used to determine",
+        "options": {
+            "a": "bearing capacity of foundations",
+            "b": "settlement of foundations",
+            "c": "both (a) and (b)",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "The maximum intensity of loading that the soil will safely carry without the risk of shear failure irrespective of settlement is known as [Set Variant 1]",
+        "options": {
+            "a": "ultimate bearing capacity",
+            "b": "safe bearing capacity",
+            "c": "safe bearing pressure",
+            "d": "gross allowable bearing pressure"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "Ultimate bearing capacity of soil is the [Set Variant 2]",
+        "options": {
+            "a": "maximum gross pressure at which soil fails in shear.",
+            "b": "maximum net pressure at which soil fails in shear.",
+            "c": "maximum pressure at which soil settles beyond the specified limit.",
+            "d": "both (a) and (c)."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Bearing Capacity & Settlement",
+        "question": "Terzaghi\u2019s expression CNc + g Df Nq +  g B Ng for bearing capacity gives [Set Variant 3]",
+        "options": {
+            "a": "gross safe bearing capacity",
+            "b": "net safe bearing capacity",
+            "c": "ultimate bearing capacity",
+            "d": "net ultimate bearing capacity"
+        },
+        "correct_answer": "a"
+    }
+]

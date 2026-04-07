@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "On the basis of durability test, Forest Research Institute of India, Dehradun, a tree is highly durable if its average life is more than",
+        "options": {
+            "a": "5 years",
+            "b": "10 years",
+            "c": "15 years",
+            "d": "20 years"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The inclined surface on the abutment which acts as a seat for the arch is known as",
+        "options": {
+            "a": "springing",
+            "b": "haunch",
+            "c": "skewback",
+            "d": "key"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Roof in which slab is directly supported by column is known as",
+        "options": {
+            "a": "grid floor",
+            "b": "flat slab",
+            "c": "two-way slab",
+            "d": "beam and slab floor"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Roofs are constructed keeping in view",
+        "options": {
+            "a": "climatic conditions",
+            "b": "materials availability",
+            "c": "architectural considerations",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Which one of the following in not a type of flat roof",
+        "options": {
+            "a": "Punjab terrace roof",
+            "b": "Maharashtra and M.P. terrace roofs",
+            "c": "Madras terrace roof",
+            "d": "Rajasthan terrace roof"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Hip is the line formed by the intersection of two sloping roofs, where the exterior angle is",
+        "options": {
+            "a": "> 180\u00b0",
+            "b": "< 180\u00b0",
+            "c": "90\u00b0",
+            "d": "< 90\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The limiting span of a couple roof is",
+        "options": {
+            "a": "2.5 m",
+            "b": "",
+            "c": "4.5 m",
+            "d": "5.5 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The limiting span of a king post truss roof is",
+        "options": {
+            "a": "5 m",
+            "b": "6 m",
+            "c": "7 m",
+            "d": "8 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The limiting span of a queen post roof truss is",
+        "options": {
+            "a": "6 m",
+            "b": "8 m",
+            "c": "10 m",
+            "d": "12 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Number of vertical posts in a queen post truss is",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "4",
+            "d": "any number"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "When more lighting is required in a building with fairly large width, the type of truss used is",
+        "options": {
+            "a": "north-light truss",
+            "b": "fan truss",
+            "c": "fink truss",
+            "d": "pratt truss"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Steel trusses have almost replaced wooden trusses because",
+        "options": {
+            "a": "they are light weight",
+            "b": "they are fireproof and termite proof",
+            "c": "they can be easily built to greater span",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Very commonly used covering materials for steel trussed roof is",
+        "options": {
+            "a": "shingles",
+            "b": "tiles",
+            "c": "A.C. sheets",
+            "d": "G.I. sheets"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The necessary and sufficient condition for a truss with m number of members and j number of joints to be perfect is",
+        "options": {
+            "a": "m = 2j \u2013 3",
+            "b": "m = 2j + 3",
+            "c": "j = 2m \u2013 3",
+            "d": "just sufficient members to retain its shape when the load is applied at any joint in any direction"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "In the method of sections for the analysis of trusses, the section line should",
+        "options": {
+            "a": "cut at least 3 members",
+            "b": "cut only three members",
+            "c": "cut 3 members and separate it into two independent parts",
+            "d": "cut not more than 3 members and separate the truss into two independent parts."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "In case of a three-hinged arch at a point V is vertical shear, H is horizontal thrust and q is the angle made by tangent to horizontals. The normal thrust N and radial shear Q are given by",
+        "options": {
+            "a": "V cos q + H sin q and V cos q \u2013 H sin q",
+            "b": "V sin q + H cos q and V sin q \u2013 H cos q",
+            "c": "V sin q \u2013 H cos q and V sin q + H cos q",
+            "d": "V cos q \u2013 H sin q and V cos q + H sin q"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "A circular arch of span 25 m with a central rise 5 m is hinged at the crown and springings It carries a point load of 100 kN at 6 m from the left support. In this case the horizontal thrust is",
+        "options": {
+            "a": "45 kN",
+            "b": "60 kN",
+            "c": "75 kN",
+            "d": "90 kN"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "On the basis of durability test, Forest Research Institute of India, Dehradun, a tree is highly durable if its average life is more than [Set Variant 1]",
+        "options": {
+            "a": "5 years",
+            "b": "10 years",
+            "c": "15 years",
+            "d": "20 years"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The inclined surface on the abutment which acts as a seat for the arch is known as [Set Variant 2]",
+        "options": {
+            "a": "springing",
+            "b": "haunch",
+            "c": "skewback",
+            "d": "key"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Roof in which slab is directly supported by column is known as [Set Variant 3]",
+        "options": {
+            "a": "grid floor",
+            "b": "flat slab",
+            "c": "two-way slab",
+            "d": "beam and slab floor"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Roofs are constructed keeping in view [Set Variant 4]",
+        "options": {
+            "a": "climatic conditions",
+            "b": "materials availability",
+            "c": "architectural considerations",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Which one of the following in not a type of flat roof [Set Variant 5]",
+        "options": {
+            "a": "Punjab terrace roof",
+            "b": "Maharashtra and M.P. terrace roofs",
+            "c": "Madras terrace roof",
+            "d": "Rajasthan terrace roof"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "Hip is the line formed by the intersection of two sloping roofs, where the exterior angle is [Set Variant 6]",
+        "options": {
+            "a": "> 180\u00b0",
+            "b": "< 180\u00b0",
+            "c": "90\u00b0",
+            "d": "< 90\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The limiting span of a couple roof is [Set Variant 7]",
+        "options": {
+            "a": "2.5 m",
+            "b": "",
+            "c": "4.5 m",
+            "d": "5.5 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Roofing & Arches",
+        "question": "The limiting span of a king post truss roof is [Set Variant 8]",
+        "options": {
+            "a": "5 m",
+            "b": "6 m",
+            "c": "7 m",
+            "d": "8 m"
+        },
+        "correct_answer": "a"
+    }
+]

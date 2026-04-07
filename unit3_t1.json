@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Theory-based MCQ",
+        "question": "Which of the following forces is an example of a non-contact force?",
+        "options": {
+            "a": "Frictional force",
+            "b": "Tension",
+            "c": "Gravitational force",
+            "d": "Normal reaction"
+        },
+        "correct_answer": "c",
+        "explanation": "Gravitational force acts over a distance without physical contact, making it a non-contact force. The others require physical contact.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Theory-based MCQ",
+        "question": "According to the principle of transmissibility of forces, the effect of a force upon a rigid body is:",
+        "options": {
+            "a": "Maximum when applied at the center of gravity",
+            "b": "Different at different points along its line of action",
+            "c": "The same at every point in its line of action",
+            "d": "Minimum when applied at the center of gravity"
+        },
+        "correct_answer": "c",
+        "explanation": "The principle of transmissibility states that the condition of equilibrium or motion of a rigid body will remain unchanged if the point of application of a force is transmitted to any other point along its line of action.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Numerical / Problem-based",
+        "question": "Two forces of 100 N and 150 N are acting simultaneously at a point. What is the maximum resultant force they can produce?",
+        "options": {
+            "a": "50 N",
+            "b": "250 N",
+            "c": "180 N",
+            "d": "150 N"
+        },
+        "correct_answer": "b",
+        "explanation": "The maximum resultant occurs when the two forces act in the same direction (angle = 0). R = F1 + F2 = 100 + 150 = 250 N.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Numerical / Problem-based",
+        "question": "If two equal forces of magnitude 'P' act at an angle of 90 degrees to each other, their resultant is:",
+        "options": {
+            "a": "P",
+            "b": "2P",
+            "c": "P\u221a2",
+            "d": "P/2"
+        },
+        "correct_answer": "c",
+        "explanation": "Using the parallelogram law, R = \u221a(P\u00b2 + P\u00b2 + 2PPcos(90)). Since cos(90) = 0, R = \u221a(2P\u00b2) = P\u221a2.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Statement Combination",
+        "question": "Consider the following statements regarding Lami's Theorem:\n1. It is applicable only to three coplanar forces.\n2. The forces must be concurrent.\n3. The forces must keep the body in equilibrium.\nWhich of these statements are correct?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "d",
+        "explanation": "Lami's Theorem strictly applies to a system of exactly three coplanar, concurrent forces that are in stable equilibrium.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): A couple produces only rotational motion and no translational motion.\nReason (R): The resultant force of a couple is zero.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "A couple consists of two equal and opposite parallel forces. Thus, \u03a3F = 0 (no translation), but they produce a net moment (rotation).",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Match the Following",
+        "question": "Match the type of force system (List I) with its definition (List II):\nList I\nP. Coplanar Concurrent\nQ. Coplanar Non-concurrent\nR. Non-coplanar Concurrent\n\nList II\n1. Lines of action meet at a point but do not lie in one plane\n2. Lines of action lie in one plane and meet at a single point\n3. Lines of action lie in one plane but do not meet at a single point",
+        "options": {
+            "a": "P-2, Q-3, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-3, Q-1, R-2",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "a",
+        "explanation": "Coplanar = same plane. Concurrent = intersecting at a single point. Matching these definitions yields P-2, Q-3, R-1.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Theory-based MCQ",
+        "question": "The moment of a force about a point is a vector quantity. Its direction is given by:",
+        "options": {
+            "a": "The line of action of the force",
+            "b": "The right-hand thumb rule",
+            "c": "The direction of the axis of rotation only",
+            "d": "The left-hand rule"
+        },
+        "correct_answer": "b",
+        "explanation": "Moment (or torque) is a cross product of position and force. Its direction is established using the right-hand thumb rule, perpendicular to the plane containing the force and position vectors.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Numerical / Problem-based",
+        "question": "A force of 50 N acts at an angle of 30\u00b0 to the horizontal. What are its horizontal and vertical components?",
+        "options": {
+            "a": "Fx = 25 N, Fy = 43.3 N",
+            "b": "Fx = 43.3 N, Fy = 25 N",
+            "c": "Fx = 50 N, Fy = 0 N",
+            "d": "Fx = 35.3 N, Fy = 35.3 N"
+        },
+        "correct_answer": "b",
+        "explanation": "Fx = F cos(30\u00b0) = 50 * 0.866 = 43.3 N. Fy = F sin(30\u00b0) = 50 * 0.5 = 25 N.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Diagram-based",
+        "question": "In Varignon's Theorem, if a number of coplanar forces are acting simultaneously on a particle, the algebraic sum of the moments of all the forces about any point is equal to:",
+        "options": {
+            "a": "Zero",
+            "b": "The moment of their resultant about that point",
+            "c": "The sum of their vertical components",
+            "d": "The resultant force itself"
+        },
+        "correct_answer": "b",
+        "explanation": "Varignon's Theorem (Principle of Moments) states that the moment of the resultant of a force system about any point is equal to the algebraic sum of the moments of the individual forces about the same point.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): For a body to be in equilibrium under the action of two forces, the forces must be equal, opposite, and collinear.\nReason (R): Only collinear forces can cancel each other out completely without creating a turning moment.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "If two forces are completely equal and opposite but not collinear, they form a couple (causing rotation). True equilibrium requires \u03a3F=0 and \u03a3M=0, which means they must be collinear.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Statement Combination",
+        "question": "Which of the following are necessary conditions for the equilibrium of a rigid body acted upon by a coplanar, non-concurrent force system?\n1. \u03a3Fx = 0\n2. \u03a3Fy = 0\n3. \u03a3M = 0",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1, 2, and 3",
+            "d": "1 and 3 only"
+        },
+        "correct_answer": "c",
+        "explanation": "For a general 2D (coplanar non-concurrent) system, all three equations of statics (\u03a3Fx=0, \u03a3Fy=0, \u03a3M=0) must be satisfied for complete equilibrium.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Numerical / Problem-based",
+        "question": "Three forces 3N, 4N, and 5N act in the same plane at a point. If they are in equilibrium, the angle between the 3N and 4N forces is:",
+        "options": {
+            "a": "60\u00b0",
+            "b": "90\u00b0",
+            "c": "120\u00b0",
+            "d": "150\u00b0"
+        },
+        "correct_answer": "b",
+        "explanation": "If three forces are in equilibrium, they must form a closed triangle. A triangle with sides 3, 4, 5 is a right-angled triangle. The angle between the sides of length 3 and 4 is 90\u00b0.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Theory-based MCQ",
+        "question": "The polygon law of forces states that if a number of forces acting simultaneously on a particle be represented in magnitude and direction by the sides of a polygon taken in order, then their resultant is represented by:",
+        "options": {
+            "a": "The longest side of the polygon",
+            "b": "The closing side of the polygon, taken in the opposite order",
+            "c": "The closing side of the polygon, taken in the same order",
+            "d": "The sum of all sides"
+        },
+        "correct_answer": "b",
+        "explanation": "The closing side of the force polygon, drawn from the starting point of the first vector to the arrowhead of the last vector (opposite order), represents the resultant.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Match the Following",
+        "question": "Match the term (List I) with its SI unit (List II):\nList I\nP. Force\nQ. Moment of a force\nR. Mass\n\nList II\n1. kg\n2. Newton (N)\n3. N-m",
+        "options": {
+            "a": "P-2, Q-3, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-2, Q-1, R-3",
+            "d": "P-3, Q-2, R-1"
+        },
+        "correct_answer": "a",
+        "explanation": "Force = Newton (N). Moment = Force x Distance = N-m. Mass = kg.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Numerical / Problem-based",
+        "question": "A couple is formed by two antiparallel forces of 20 N each. If the perpendicular distance between their lines of action is 5 m, the moment of the couple is:",
+        "options": {
+            "a": "4 N-m",
+            "b": "100 N-m",
+            "c": "25 N-m",
+            "d": "0 N-m"
+        },
+        "correct_answer": "b",
+        "explanation": "The moment of a couple (M) = Force (F) \u00d7 Arm of the couple (d) = 20 N \u00d7 5 m = 100 N-m.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): It is impossible to reduce a complex spatial force system into a single resultant force in all cases.\nReason (R): A spatial force system generally reduces to a resultant force and a resultant minimum couple (wrench).",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "In 3D statics (spatial), forces do not necessarily intersect or become parallel. They usually reduce to a force and a couple whose vector is parallel to the force (a wrench).",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Diagram-based",
+        "question": "When resolving a force F along two non-orthogonal axes making angles \u03b1 and \u03b2 with the force, the component making angle \u03b1 is given by:",
+        "options": {
+            "a": "F \u00d7 (sin \u03b2 / sin(\u03b1+\u03b2))",
+            "b": "F \u00d7 (cos \u03b2 / sin(\u03b1+\u03b2))",
+            "c": "F \u00d7 (sin \u03b1 / sin(\u03b1+\u03b2))",
+            "d": "F \u00d7 cos \u03b1"
+        },
+        "correct_answer": "a",
+        "explanation": "Using the law of sines on the force triangle: Component_1 / sin(\u03b2) = F / sin(180 - (\u03b1+\u03b2)) = F / sin(\u03b1+\u03b2). Thus, Component_1 = F \u00d7 sin(\u03b2) / sin(\u03b1+\u03b2).",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Theory-based MCQ",
+        "question": "Two non-collinear parallel forces acting in opposite directions will always form a:",
+        "options": {
+            "a": "Resultant force",
+            "b": "Couple",
+            "c": "Equilibrium system",
+            "d": "Both a force and a couple"
+        },
+        "correct_answer": "b",
+        "explanation": "If they are equal, they strictly form a couple. If they are unequal, they form a resultant force. The most typical TNPSC answer for 'opposite parallel forces' implicitly assumes equal magnitude to test the concept of a 'Couple'. Wait, the question doesn't state 'equal'. But conventionally, parallel opposite forces form a couple if equal. The safest answer in standard statics is D, but usually tested as Couple.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Statement Combination",
+        "question": "Which of Newton's laws of motion is heavily utilized to establish the equations of statics (\u03a3F=0)?",
+        "options": {
+            "a": "First Law",
+            "b": "Second Law",
+            "c": "Third Law",
+            "d": "Law of Gravitation"
+        },
+        "correct_answer": "a",
+        "explanation": "Newton's First Law states a body remains at rest or in uniform motion unless acted upon by a net external force. Statics deals with bodies at rest, where net force = 0.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Numerical / Problem-based",
+        "question": "A uniform ladder weighing W leans against a perfectly smooth wall. The ground is rough. The frictional force at the ground must be equal to:",
+        "options": {
+            "a": "W",
+            "b": "The vertical reaction at the wall",
+            "c": "The normal reaction at the wall",
+            "d": "Zero"
+        },
+        "correct_answer": "c",
+        "explanation": "Applying \u03a3Fx = 0, the inward pushing friction force at the ground must perfectly balance the outward pushing normal reaction force from the smooth wall.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Theory-based MCQ",
+        "question": "A free-body diagram strictly isolates the body from its surroundings and shows:",
+        "options": {
+            "a": "Only internal forces",
+            "b": "Only the active external applied forces",
+            "c": "Only the reactive forces",
+            "d": "All active and reactive external forces acting on it"
+        },
+        "correct_answer": "d",
+        "explanation": "A free-body diagram (FBD) must include the body's weight, all applied external forces (active), and all reaction forces (reactive) from removed supports.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): The resultant of two forces P and Q is minimum when the angle between them is 180 degrees.\nReason (R): R = \u221a(P\u00b2 + Q\u00b2 + 2PQcos\u03b8) and cos(180) = -1.",
+        "options": {
+            "a": "Both A and R are individually true and R is the correct explanation of A",
+            "b": "Both A and R are individually true but R is not the correct explanation of A",
+            "c": "A is true but R is false",
+            "d": "A is false but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "When \u03b8 = 180, cos(180) = -1. The equation becomes \u221a(P\u00b2 + Q\u00b2 - 2PQ) = \u221a((P-Q)\u00b2) = |P - Q|, which is the mathematical minimum of the resultant.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Numerical / Problem-based",
+        "question": "If the resultant of two equal forces has the same magnitude as either of the forces, then the angle between the two forces is:",
+        "options": {
+            "a": "45\u00b0",
+            "b": "60\u00b0",
+            "c": "90\u00b0",
+            "d": "120\u00b0"
+        },
+        "correct_answer": "d",
+        "explanation": "P\u00b2 = P\u00b2 + P\u00b2 + 2PPcos(\u03b8). P\u00b2 = 2P\u00b2(1 + cos\u03b8). 1/2 = 1 + cos\u03b8. cos\u03b8 = -1/2, meaning \u03b8 = 120\u00b0.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Forces: Types & Laws",
+        "type": "Match the Following",
+        "question": "Match the principles (List I) with their applications (List II):\nList I\nP. Lami's Theorem\nQ. Varignon's Theorem\nR. Triangle Law\n\nList II\n1. Resultant of two intersecting forces\n2. Equilibrium of three concurrent forces\n3. Moments of forces",
+        "options": {
+            "a": "P-2, Q-3, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-3, Q-1, R-2",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "a",
+        "explanation": "Lami's Theorem deals with 3 concurrent equilibrium forces (2). Varignon's deals with moments (3). Triangle law finds the resultant of two forces (1).",
+        "difficulty": "Hard"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Maximum bearing capacity of soil is that of",
+        "options": {
+            "a": "soft rock",
+            "b": "coarse sand",
+            "c": "fine sand",
+            "d": "sand-clay mixture"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Bearing capacity of soil can be improved by",
+        "options": {
+            "a": "draining the soil",
+            "b": "confining the soil",
+            "c": "compacting",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "On the basis of instruments used",
+        "options": {
+            "a": "Chain survey",
+            "b": "Compass survey",
+            "c": "Plane table survey",
+            "d": "Theodolite survey"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "The line to be measured accurately in a chain survey is",
+        "options": {
+            "a": "main line",
+            "b": "base line",
+            "c": "check line",
+            "d": "detail line"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "In chain survey, as far as possible main triangles should have angles close to",
+        "options": {
+            "a": "40\u00b0",
+            "b": "50\u00b0",
+            "c": "60\u00b0",
+            "d": "70\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "In chain survey a triangle with any angle less than ______ is considered as ill conditioned triangle",
+        "options": {
+            "a": "25\u00b0",
+            "b": "30\u00b0",
+            "c": "35\u00b0",
+            "d": "40\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "The bearing S 25\u00b0 W means ______ in whole circle bearing",
+        "options": {
+            "a": "155\u00b0",
+            "b": "205\u00b0",
+            "c": "115\u00b0",
+            "d": "335\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "The horizontal angle between the true meridian and magnetic meridian is known as",
+        "options": {
+            "a": "magnetic dip",
+            "b": "declination",
+            "c": "local attraction",
+            "d": "magnetic bearing"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "At a place magnetic dip is 15\u00b0 and declination is 10\u00b0E. If the magnetic bearing of a line is 75\u00b0, the true bearing is",
+        "options": {
+            "a": "60\u00b0",
+            "b": "65\u00b0",
+            "c": "85\u00b0",
+            "d": "90\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "In whole circle bearing system, the back bearing of N 20 W line is",
+        "options": {
+            "a": "160\u00b0",
+            "b": "200\u00b0",
+            "c": "340\u00b0",
+            "d": "20\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Forebearing of line AB is 60\u00b0 and that of BC is 130\u00b0, then angle B is",
+        "options": {
+            "a": "50\u00b0",
+            "b": "190\u00b0",
+            "c": "110\u00b0",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Forebearing of line AB is 80\u00b0. Included angle B is 100\u00b0. Then forebearing of BC is",
+        "options": {
+            "a": "160\u00b0",
+            "b": "180\u00b0",
+            "c": "220\u00b0",
+            "d": "240\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "The following bearings were observed while traversing with a compass. Line FB BB AB 80\u00b0 260\u00b0 BC 90\u00b0 269\u00b0 CD 120\u00b0 DA 319\u00b0 Which stations are affected by local attraction?",
+        "options": {
+            "a": "A and B",
+            "b": "B and C",
+            "c": "C and D",
+            "d": "D and A"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Which one of the following is not an accessary of plane table?",
+        "options": {
+            "a": "Plumbing fork",
+            "b": "Trough compass",
+            "c": "Telescopic alidade",
+            "d": "Prismatic compass"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Bearing capacity of bolts Vdpb = where gmb = partial safety factor of material = 1.25 and kb is smaller of where e = end distance p = pitch distance do = diameter of hole d = nominal diameter of bolt t = thickness of the connected plates experiencing bearing stress in the same direction. Nominal diameter of bolts (d): Diameter of bolt hole: * Efficiency of Joint : h = where strength of solid plate = Eccentric Connection",
+        "options": {
+            "a": "Line of action of load is in the plane of group of bolts",
+            "b": "Load causing moment in the plane perpendicular to the plane of group of bolts",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Gussetted Base For columns carrying heavy loads gussetted bases are used. In this case the column is connected to the base through gussets, which transfers the load to the base party through bearing and partly through gussets. Design procedure is as follows: (i) Area of base plate = (ii) Assume various members of gusseted base",
+        "options": {
+            "a": "Thickness of gusset plate = 16 mm",
+            "b": "Size of the gusset angle selected is such that the leg connected to column should accommodate",
+            "c": "Width of gusset base is kept such that it will just project outside the gusset angle and hence",
+            "d": "When the end of the column is machined for complete bearing on the base plate, 50% of the"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "The following types of bolts may be classified as bearing types bolts",
+        "options": {
+            "a": "black bolt",
+            "b": "turned bolt",
+            "c": "HSFG bolt",
+            "d": "both black and turned bolt"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Which one of the following is not the advantage of HSFG bolt?",
+        "options": {
+            "a": "No slip takes place in the joint.",
+            "b": "Bolts are not subjected to shearing and bearing stresses.",
+            "c": "The load transfer is by shearing stresses.",
+            "d": "Less stress concentration."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "The assumptions made in the design of bearing bolted connections are (i) the friction between the plates is negligible (ii) the shear is uniform over the cross section (iii) bolts in a group subject to direct load share the load equally",
+        "options": {
+            "a": "(i) and (ii) are correct",
+            "b": "(ii) and (iii) are correct",
+            "c": "(i) and (iii) are correct",
+            "d": "all the three are correct"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "With usual notations, bearing capacity of bolt is given by",
+        "options": {
+            "a": "1.5 kb dt fu",
+            "b": "2.5 kb dt fu",
+            "c": "1.5 kb dt fy",
+            "d": "2.5 kb dt fy"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "HSFG bolts transfer load mainly due to",
+        "options": {
+            "a": "friction",
+            "b": "shearing",
+            "c": "bearing",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Prying forces should be considered in designing",
+        "options": {
+            "a": "black bolts",
+            "b": "turned bolts",
+            "c": "all bearing bolts",
+            "d": "HSFG bolts"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "When the two columns to be spliced are of slightly different size",
+        "options": {
+            "a": "milled ends are provided",
+            "b": "filler plates are used",
+            "c": "bearing plates are used",
+            "d": "milled end and bearing plated are used"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Bearing stiffeners are provided at (i) supports (ii) the mid span (iii) the point of application of concentrated loads The correct answer is",
+        "options": {
+            "a": "only (i)",
+            "b": "both (i) and (ii)",
+            "c": "both (i) and (iii)",
+            "d": "all the three"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Chain & Compass Surveying",
+        "question": "Maximum bearing capacity of soil is that of [Set Variant 1]",
+        "options": {
+            "a": "soft rock",
+            "b": "coarse sand",
+            "c": "fine sand",
+            "d": "sand-clay mixture"
+        },
+        "correct_answer": "a"
+    }
+]

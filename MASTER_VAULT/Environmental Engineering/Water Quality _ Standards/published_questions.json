@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "In case of corner plots, according to National Building Code,",
+        "options": {
+            "a": "only lower 0.75 m should be solid for a distance of at least 10 m",
+            "b": "only lower 1.0 m should be solid for a distance of at least 5 m",
+            "c": "only lower 0.75 inch should be solid for a distance of at least 5 m.",
+            "d": "only 1.0 m should be solid for a distance of at least 5 m."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "Ventilation inside a building is necessary to",
+        "options": {
+            "a": "remove body odour",
+            "b": "remove dust and bacteria-carrying particles",
+            "c": "prevent condensation or deposition of moisture in the building",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "On the basis of fire resistance, National Building Code of India, a building with fire resistance more than 4 hours is classified as",
+        "options": {
+            "a": "Type 1",
+            "b": "Type 2",
+            "c": "Type 3",
+            "d": "Type 4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "The law \u2018the state of rest or motion of the rigid body is unaltered if a force acting on the body is replaced by another force of the same magnitude and direction but acting anywhere on the body along the line of action of the replaced force\u2019 is known as",
+        "options": {
+            "a": "Newton\u2019s 4th law",
+            "b": "Law of transmissibility",
+            "c": "Lami\u2019s theorem",
+            "d": "D\u2019 Alemberts\u2019 principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "1 newton is the force required to produce an acceleration of",
+        "options": {
+            "a": "9.81 m/sec2 in a body of mass 1 kg",
+            "b": "1 m/sec2 in a body of mass 1 kg",
+            "c": "9.81 m/sec2 in a body of mass 1 kg",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "If a 100 N body rests on a plane inclined at 30\u00b0 to horizontal the component normal to the plane is",
+        "options": {
+            "a": "50 N",
+            "b": "86.6 N",
+            "c": "57.7 N",
+            "d": "75 N"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "If two forces P and P/2 are acting on a body at right angles to each other the motion of the body will be directed at angle ______ to the direction of the force P.",
+        "options": {
+            "a": "zero",
+            "b": "30\u00b0",
+            "c": "45\u00b0",
+            "d": "none of above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "If a body rotates with uniform angular acceleration a, starting from initial velocity wo, the velocity w after t seconds and angular distance q, which one of the following is not correct relation?",
+        "options": {
+            "a": "w = wo + at",
+            "b": "w2 \u2013 w2",
+            "c": "q =",
+            "d": "a ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "A projectile is fired at angle a to horizontal with initial velocity. Match List-I with List-II given below. List I List II A. Maximum height reached 1. B. Time required to reach maximum height 2. C. Total time of flight 3. D. Horizontal range on flat ground surface 4. Codes:",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "Limit state method of R.C.C. design takes care of structure A. Its safety B. Its fitness throughout its designed life. Select your answer code from the list given below:",
+        "options": {
+            "a": "Both A and B are true",
+            "b": "A is true but is not true",
+            "c": "A is not true but B is true",
+            "d": "Both A and B are not true."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "Limit state method is based on probable A. Load B. Strength. Select your answer code from the list given below:",
+        "options": {
+            "a": "Both A and B are true",
+            "b": "A is true and B is false",
+            "c": "A is false and B is true",
+            "d": "Both A and B are false"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "Limiting moment carrying capacity A. If Fe 415 steel is used is 0.138 fck bl2, B. If Fe 500 steel is used is 0.148 fck bl2. Select your answer code from the following.",
+        "options": {
+            "a": "Both A and B are true",
+            "b": "A is true but B is false",
+            "c": "A is false but B is true",
+            "d": "Both A and B are false"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "Crack width limitations are imposed in R.C. design, keeping in mind that it should not affect A: The appearance B: The durability. Select your answer code from below:",
+        "options": {
+            "a": "Both A and B are true.",
+            "b": "A is true but B is false.",
+            "c": "A is false but B is true.",
+            "d": "Both A and B are false."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "IS code recommends that the slope of stairs should be between",
+        "options": {
+            "a": "25\u00b0 to 40\u00b0",
+            "b": "20\u00b0 \u2013 35\u00b0",
+            "c": "20\u00b0 \u2013 30\u00b0",
+            "d": "15\u00b0 \u2013 30\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "Minimum edge distances specified by the code should be maintained to avoid",
+        "options": {
+            "a": "rupture of plate",
+            "b": "shearing of plate",
+            "c": "crushing of plate",
+            "d": "both (b) and (c)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "The code does not suggests reduction factor for shear capacity in the case",
+        "options": {
+            "a": "if the joint is too long",
+            "b": "if number of bolts exceed a specified number",
+            "c": "if the grip length is large",
+            "d": "if packing plate thickness exceeds 6 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "In case of corner plots, according to National Building Code, [Set Variant 1]",
+        "options": {
+            "a": "only lower 0.75 m should be solid for a distance of at least 10 m",
+            "b": "only lower 1.0 m should be solid for a distance of at least 5 m",
+            "c": "only lower 0.75 inch should be solid for a distance of at least 5 m.",
+            "d": "only 1.0 m should be solid for a distance of at least 5 m."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "Ventilation inside a building is necessary to [Set Variant 2]",
+        "options": {
+            "a": "remove body odour",
+            "b": "remove dust and bacteria-carrying particles",
+            "c": "prevent condensation or deposition of moisture in the building",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "On the basis of fire resistance, National Building Code of India, a building with fire resistance more than 4 hours is classified as [Set Variant 3]",
+        "options": {
+            "a": "Type 1",
+            "b": "Type 2",
+            "c": "Type 3",
+            "d": "Type 4"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "The law \u2018the state of rest or motion of the rigid body is unaltered if a force acting on the body is replaced by another force of the same magnitude and direction but acting anywhere on the body along the line of action of the replaced force\u2019 is known as [Set Variant 4]",
+        "options": {
+            "a": "Newton\u2019s 4th law",
+            "b": "Law of transmissibility",
+            "c": "Lami\u2019s theorem",
+            "d": "D\u2019 Alemberts\u2019 principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "1 newton is the force required to produce an acceleration of [Set Variant 5]",
+        "options": {
+            "a": "9.81 m/sec2 in a body of mass 1 kg",
+            "b": "1 m/sec2 in a body of mass 1 kg",
+            "c": "9.81 m/sec2 in a body of mass 1 kg",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "If a 100 N body rests on a plane inclined at 30\u00b0 to horizontal the component normal to the plane is [Set Variant 6]",
+        "options": {
+            "a": "50 N",
+            "b": "86.6 N",
+            "c": "57.7 N",
+            "d": "75 N"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "If two forces P and P/2 are acting on a body at right angles to each other the motion of the body will be directed at angle ______ to the direction of the force P. [Set Variant 7]",
+        "options": {
+            "a": "zero",
+            "b": "30\u00b0",
+            "c": "45\u00b0",
+            "d": "none of above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "If a body rotates with uniform angular acceleration a, starting from initial velocity wo, the velocity w after t seconds and angular distance q, which one of the following is not correct relation? [Set Variant 8]",
+        "options": {
+            "a": "w = wo + at",
+            "b": "w2 \u2013 w2",
+            "c": "q =",
+            "d": "a ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Water Quality & Standards",
+        "question": "A projectile is fired at angle a to horizontal with initial velocity. Match List-I with List-II given below. List I List II A. Maximum height reached 1. B. Time required to reach maximum height 2. C. Total time of flight 3. D. Horizontal range on flat ground surface 4. Codes: [Set Variant 9]",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "a"
+    }
+]

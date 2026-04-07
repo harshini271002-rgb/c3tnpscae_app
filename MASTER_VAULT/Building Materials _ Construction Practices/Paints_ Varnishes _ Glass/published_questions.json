@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The commonly used lime for whitewashing is",
+        "options": {
+            "a": "hydraulic lime",
+            "b": "lean lime",
+            "c": "fat lime",
+            "d": "quicklime"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The ingredient of paint which gives it the binding property and form opaque coating is",
+        "options": {
+            "a": "base",
+            "b": "vehicle",
+            "c": "solvent",
+            "d": "filler"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The ingredient of paint that holds the ingredients in liquid suspension and allows them to be applied on the surface is:",
+        "options": {
+            "a": "base",
+            "b": "vehicle",
+            "c": "solvent",
+            "d": "filler"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The ingredient of paint that increases coverage area and makes application easy is",
+        "options": {
+            "a": "base",
+            "b": "vehicle",
+            "c": "solvent",
+            "d": "filler"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The ingredient of paint that reduces the cost and increases durability is",
+        "options": {
+            "a": "base",
+            "b": "vehicle",
+            "c": "solvent",
+            "d": "filler"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The cheap ingredient of a paint is",
+        "options": {
+            "a": "base",
+            "b": "vehicle",
+            "c": "filler",
+            "d": "solvent"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The presence of dampness while applying the primer affects the life of",
+        "options": {
+            "a": "oil paint",
+            "b": "enamel paint",
+            "c": "aluminium paint",
+            "d": "plastic paint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Commonly used base for paint is",
+        "options": {
+            "a": "iron oxide",
+            "b": "red lead",
+            "c": "titanium white",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Commonly used vehicle in paint is",
+        "options": {
+            "a": "linseed oil",
+            "b": "poppy oil",
+            "c": "nut oil",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Commonly used solvent in paint is",
+        "options": {
+            "a": "white lead",
+            "b": "turpentine",
+            "c": "linseed oil",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Commonly used inert extenders used in paint is",
+        "options": {
+            "a": "magnesia",
+            "b": "alumina",
+            "c": "charcoal",
+            "d": "any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Enamel paint is prepared by adding white lead or zinc to",
+        "options": {
+            "a": "varnish",
+            "b": "polysterene",
+            "c": "spirit",
+            "d": "to any one of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The surface of which paint can be cleaned by washing with water?",
+        "options": {
+            "a": "oil paint",
+            "b": "enamel paint",
+            "c": "emulsion paint",
+            "d": "bituminous paint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The paint which shines and is visible even in darkness is",
+        "options": {
+            "a": "synthetic rubber paint",
+            "b": "cellulose paint",
+            "c": "aluminium paint",
+            "d": "emulsion paint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The base material for distemper is",
+        "options": {
+            "a": "iron oxide",
+            "b": "lithopone",
+            "c": "chalk",
+            "d": "lime"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Painting work is generally specified by",
+        "options": {
+            "a": "weight of the paint used",
+            "b": "volume of the paint used",
+            "c": "labour used for painting",
+            "d": "area of the painted surface."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The small areas on painted surface enclosed by hair line cracks are known as",
+        "options": {
+            "a": "blistering",
+            "b": "crazing",
+            "c": "wrinkling",
+            "d": "chalking"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Molten glass can be fabricated by",
+        "options": {
+            "a": "blowing",
+            "b": "drawing",
+            "c": "casting",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Annealing the glass is the process of",
+        "options": {
+            "a": "blowing and drawing",
+            "b": "drawing and casting",
+            "c": "heating and slow cooling",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "Tempering the glass is the process of",
+        "options": {
+            "a": "giving requisite degree of hardness",
+            "b": "making it impervious to light",
+            "c": "a method of fabrication",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The glass used as windowpanes and laboratory tables is",
+        "options": {
+            "a": "soda lime glass",
+            "b": "potash lime glass",
+            "c": "potash lead glass",
+            "d": "common glass"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The glass used for making artificial gem is",
+        "options": {
+            "a": "soda lime glass",
+            "b": "potash lime glass",
+            "c": "potash lime glass",
+            "d": "coloured glass"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The commonly used lime for whitewashing is [Set Variant 1]",
+        "options": {
+            "a": "hydraulic lime",
+            "b": "lean lime",
+            "c": "fat lime",
+            "d": "quicklime"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The ingredient of paint which gives it the binding property and form opaque coating is [Set Variant 2]",
+        "options": {
+            "a": "base",
+            "b": "vehicle",
+            "c": "solvent",
+            "d": "filler"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Paints, Varnishes & Glass",
+        "question": "The ingredient of paint that holds the ingredients in liquid suspension and allows them to be applied on the surface is: [Set Variant 3]",
+        "options": {
+            "a": "base",
+            "b": "vehicle",
+            "c": "solvent",
+            "d": "filler"
+        },
+        "correct_answer": "a"
+    }
+]

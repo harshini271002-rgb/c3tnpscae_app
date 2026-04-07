@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The joint generally used in Indian Railways is",
+        "options": {
+            "a": "supported joint",
+            "b": "suspended joint",
+            "c": "bridge joint",
+            "d": "semi-supported joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The joint that cause greater incidence of rail end batter is",
+        "options": {
+            "a": "supported joint",
+            "b": "suspended joint",
+            "c": "bridge joint",
+            "d": "semi-supported joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The joint that requires more maintenance is",
+        "options": {
+            "a": "supported joint",
+            "b": "suspended joint",
+            "c": "bridge joint",
+            "d": "semi-supported joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Superstructure: On this basis bridges may be classified as",
+        "options": {
+            "a": "girder bridge",
+            "b": "portal frame bridge",
+            "c": "truss bridge",
+            "d": "cantilever bridge"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Generally, a culvert has span less than",
+        "options": {
+            "a": "3 m",
+            "b": "6 m",
+            "c": "9 m",
+            "d": "12 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "A bridge of span 25 m may be treated as",
+        "options": {
+            "a": "culvert",
+            "b": "minor bridge",
+            "c": "major bridge",
+            "d": "long span bridge"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "A bridge of more than ______ span is treated as long span bridge.",
+        "options": {
+            "a": "30 m",
+            "b": "60 m",
+            "c": "90 m",
+            "d": "120 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Temporary bridges are built during",
+        "options": {
+            "a": "military operations",
+            "b": "project executions",
+            "c": "rescue operations",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Movable bridges are built across",
+        "options": {
+            "a": "streams",
+            "b": "rivers",
+            "c": "channels",
+            "d": "dry valley"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The end supports of a bridge superstructure are known as",
+        "options": {
+            "a": "wing walls",
+            "b": "piers",
+            "c": "abutments",
+            "d": "bed blocks"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Width and height of kerbs on bridges are generally ______ respectively.",
+        "options": {
+            "a": "600 mm and 225 mm",
+            "b": "450 mm \u00d7 200 mm",
+            "c": "225 mm \u00d7 600 mm",
+            "d": "200 mm \u00d7 450 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Which one of the following is not the correct statement? Bridge site",
+        "options": {
+            "a": "be narrow",
+            "b": "should not possess high banks",
+            "c": "be at reasonable proximity to the direct alignment of road",
+            "d": "be geologically sound"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Height of bridge is kept ______ above high flood level.",
+        "options": {
+            "a": "1.2 to 1.5 m",
+            "b": "1.8 to 2.1 m",
+            "c": "2.2 to 2.5 m",
+            "d": "more than 2.5 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Slab bridges are used to a maximum span of",
+        "options": {
+            "a": "6 m",
+            "b": "9 m",
+            "c": "12 m",
+            "d": "20 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Bridge over a dry valley is known as",
+        "options": {
+            "a": "causeway",
+            "b": "minor bridge",
+            "c": "vent",
+            "d": "viaduct"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The bridge having its floor flush with bed of stream is known as",
+        "options": {
+            "a": "causeway",
+            "b": "culvert",
+            "c": "viaduct",
+            "d": "minor bridge"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Which one of the following is not a type of culvert?",
+        "options": {
+            "a": "Pipe culvert",
+            "b": "Box culvert",
+            "c": "Through culvert",
+            "d": "Slab culvert"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The knowledge of hydrology is necessary in civil engineering for",
+        "options": {
+            "a": "designing and construction of irrigation structures",
+            "b": "designing and construction of bridges and",
+            "c": "flood control works",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The joint generally not used on Indian railway is",
+        "options": {
+            "a": "supported joint",
+            "b": "suspended joint",
+            "c": "base joint",
+            "d": "bridge joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Blast furnace slag cement is used for",
+        "options": {
+            "a": "dams",
+            "b": "bridge abutments",
+            "c": "retaining walls",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "For cast-in-situ piles, the minimum reinforcement should be 0.40% of the sectional area calculated on the basis of outside area of the casing or shaft. The reinforcement can be curtailed along the depth of pile depending upon the nature of soil. In soft clay or loose sands, the reinforcement is to be provided upto the full pile depth. The minimum clear distance between two main reinforcements shall be 100 mm. The minimum diameter of the links or spirals shall be 6 mm and the spacing not less than 150 mm. 14.22\u2002 Retaining Walls The retaining walls are used to retain earth fill or any other material so that the ground surfaces at different elevations are maintained on either side of the retaining wall. These are mostly used for roads in hilly areas, swimming pools, at the end of bridges in the form of abutments, and under ground water tanks. The various types of retaining walls are as follows: Toe Heel Stem Heel Stem Backfill",
+        "options": {
+            "a": "T-shaped",
+            "b": "L-shaped",
+            "c": "Gravity type.",
+            "d": "Semi-gravity type."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The joint generally used in Indian Railways is [Set Variant 1]",
+        "options": {
+            "a": "supported joint",
+            "b": "suspended joint",
+            "c": "bridge joint",
+            "d": "semi-supported joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The joint that cause greater incidence of rail end batter is [Set Variant 2]",
+        "options": {
+            "a": "supported joint",
+            "b": "suspended joint",
+            "c": "bridge joint",
+            "d": "semi-supported joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "The joint that requires more maintenance is [Set Variant 3]",
+        "options": {
+            "a": "supported joint",
+            "b": "suspended joint",
+            "c": "bridge joint",
+            "d": "semi-supported joint"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Bridge Engineering",
+        "question": "Superstructure: On this basis bridges may be classified as [Set Variant 4]",
+        "options": {
+            "a": "girder bridge",
+            "b": "portal frame bridge",
+            "c": "truss bridge",
+            "d": "cantilever bridge"
+        },
+        "correct_answer": "a"
+    }
+]

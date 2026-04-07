@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Formula-based",
+        "question": "[Combined stresses Advanced Check #1] For a circular structural column of diameter d subjected to a purely eccentric vertical compressive load, the 'core' region falls within a concentric circle of equivalent diameter:",
+        "options": {
+            "a": "d/4",
+            "b": "d/2",
+            "c": "d/8",
+            "d": "d/3"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Theory-based",
+        "question": "[Combined stresses Advanced Check #2] To strictly avoid absolutely any tensile stress in a rectangular short column of dimensions B and D, the load must fall within the central diamond area globally known as the:",
+        "options": {
+            "a": "Core or Kernel",
+            "b": "Shear center",
+            "c": "Neutral zone",
+            "d": "Plastic hinge"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Assertion-Reason",
+        "question": "[Combined stresses Advanced Check #3] Assertion (A): When a shaft is simultaneously subjected to bending moment M and twisting moment T, failure analysis requires calculating equivalent moments.\nReason (R): Equivalent bending moment is defined as 0.5 * [M + \u221a(M\u00b2 + T\u00b2)].",
+        "options": {
+            "a": "A is false, but R is true",
+            "b": "A is true, but R is false",
+            "c": "Both A and R are true, and R is the correct explanation of A",
+            "d": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #4] A shaft is subjected concurrently to a bending moment of 45 kNm and a distinct twisting moment of 55 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "71.06 kNm",
+            "b": "58.03 kNm",
+            "c": "-5.0 kNm",
+            "d": "100 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #5] Under critically combined stresses, a shaft experiences M=23 kNm and T=28 kNm. What is the fundamental equivalent twisting moment (Te)?",
+        "options": {
+            "a": "36.24 kNm",
+            "b": "51 kNm",
+            "c": "15.97 kNm",
+            "d": "29.62 kNm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #6] An eccentric compressive load of 1500 N is applied to a rectangular column section (A=200 mm\u00b2, Z=500 mm\u00b3). The eccentricity is 10 mm. The maximum absolute compressive stress is:",
+        "options": {
+            "a": "37.5 MPa",
+            "b": "30.0 MPa",
+            "c": "7.5 MPa",
+            "d": "22.5 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #7] A shaft is subjected concurrently to a bending moment of 60 kNm and a distinct twisting moment of 70 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "-5.0 kNm",
+            "b": "76.1 kNm",
+            "c": "92.2 kNm",
+            "d": "130 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #8] Under critically combined stresses, a shaft experiences M=29 kNm and T=34 kNm. What is the fundamental equivalent twisting moment (Te)?",
+        "options": {
+            "a": "44.69 kNm",
+            "b": "17.75 kNm",
+            "c": "36.84 kNm",
+            "d": "63 kNm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #9] An eccentric compressive load of 1800 N is applied to a rectangular column section (A=200 mm\u00b2, Z=500 mm\u00b3). The eccentricity is 13 mm. The maximum absolute compressive stress is:",
+        "options": {
+            "a": "9.0 MPa",
+            "b": "46.8 MPa",
+            "c": "37.8 MPa",
+            "d": "55.8 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #10] A shaft is subjected concurrently to a bending moment of 75 kNm and a distinct twisting moment of 85 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "94.18 kNm",
+            "b": "160 kNm",
+            "c": "-5.0 kNm",
+            "d": "113.36 kNm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #11] Under critically combined stresses, a shaft experiences M=35 kNm and T=40 kNm. What is the fundamental equivalent twisting moment (Te)?",
+        "options": {
+            "a": "44.08 kNm",
+            "b": "19.36 kNm",
+            "c": "75 kNm",
+            "d": "53.15 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #12] An eccentric compressive load of 2100 N is applied to a rectangular column section (A=200 mm\u00b2, Z=500 mm\u00b3). The eccentricity is 11 mm. The maximum absolute compressive stress is:",
+        "options": {
+            "a": "35.7 MPa",
+            "b": "46.2 MPa",
+            "c": "10.5 MPa",
+            "d": "56.7 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #13] A shaft is subjected concurrently to a bending moment of 90 kNm and a distinct twisting moment of 100 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "134.54 kNm",
+            "b": "112.27 kNm",
+            "c": "-5.0 kNm",
+            "d": "190 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #14] Under critically combined stresses, a shaft experiences M=41 kNm and T=46 kNm. What is the fundamental equivalent twisting moment (Te)?",
+        "options": {
+            "a": "20.86 kNm",
+            "b": "51.31 kNm",
+            "c": "87 kNm",
+            "d": "61.62 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #15] An eccentric compressive load of 2400 N is applied to a rectangular column section (A=200 mm\u00b2, Z=500 mm\u00b3). The eccentricity is 14 mm. The maximum absolute compressive stress is:",
+        "options": {
+            "a": "55.2 MPa",
+            "b": "79.2 MPa",
+            "c": "12.0 MPa",
+            "d": "67.2 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #16] A shaft is subjected concurrently to a bending moment of 105 kNm and a distinct twisting moment of 115 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "155.72 kNm",
+            "b": "220 kNm",
+            "c": "130.36 kNm",
+            "d": "-5.0 kNm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #17] Under critically combined stresses, a shaft experiences M=47 kNm and T=52 kNm. What is the fundamental equivalent twisting moment (Te)?",
+        "options": {
+            "a": "58.55 kNm",
+            "b": "70.09 kNm",
+            "c": "22.25 kNm",
+            "d": "99 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #18] An eccentric compressive load of 2700 N is applied to a rectangular column section (A=200 mm\u00b2, Z=500 mm\u00b3). The eccentricity is 12 mm. The maximum absolute compressive stress is:",
+        "options": {
+            "a": "51.3 MPa",
+            "b": "13.5 MPa",
+            "c": "78.3 MPa",
+            "d": "64.8 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #19] A shaft is subjected concurrently to a bending moment of 120 kNm and a distinct twisting moment of 130 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "176.92 kNm",
+            "b": "250 kNm",
+            "c": "-5.0 kNm",
+            "d": "148.46 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #20] Under critically combined stresses, a shaft experiences M=53 kNm and T=58 kNm. What is the fundamental equivalent twisting moment (Te)?",
+        "options": {
+            "a": "65.78 kNm",
+            "b": "111 kNm",
+            "c": "23.56 kNm",
+            "d": "78.57 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #21] An eccentric compressive load of 3000 N is applied to a rectangular column section (A=200 mm\u00b2, Z=500 mm\u00b3). The eccentricity is 10 mm. The maximum absolute compressive stress is:",
+        "options": {
+            "a": "60.0 MPa",
+            "b": "45.0 MPa",
+            "c": "75.0 MPa",
+            "d": "15.0 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #22] A shaft is subjected concurrently to a bending moment of 135 kNm and a distinct twisting moment of 145 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "198.12 kNm",
+            "b": "166.56 kNm",
+            "c": "-5.0 kNm",
+            "d": "280 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #23] Under critically combined stresses, a shaft experiences M=59 kNm and T=64 kNm. What is the fundamental equivalent twisting moment (Te)?",
+        "options": {
+            "a": "87.05 kNm",
+            "b": "24.8 kNm",
+            "c": "73.02 kNm",
+            "d": "123 kNm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #24] An eccentric compressive load of 3300 N is applied to a rectangular column section (A=200 mm\u00b2, Z=500 mm\u00b3). The eccentricity is 13 mm. The maximum absolute compressive stress is:",
+        "options": {
+            "a": "16.5 MPa",
+            "b": "102.3 MPa",
+            "c": "69.3 MPa",
+            "d": "85.8 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Combined stresses",
+        "type": "Numerical",
+        "question": "[Combined stresses Advanced Check #25] A shaft is subjected concurrently to a bending moment of 150 kNm and a distinct twisting moment of 160 kNm. The purely equivalent bending moment (Me) is:",
+        "options": {
+            "a": "-5.0 kNm",
+            "b": "184.66 kNm",
+            "c": "310 kNm",
+            "d": "219.32 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

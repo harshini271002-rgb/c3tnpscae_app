@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Theory-based",
+        "question": "[Beams: SFD & BMD Advanced Check #1] The point of contraflexure occurs in a beam when the:",
+        "options": {
+            "a": "Shear force is maximum",
+            "b": "Deflection is completely maximum",
+            "c": "Shear force changes sign",
+            "d": "Bending moment is zero and changes its sign"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Formula-based",
+        "question": "[Beams: SFD & BMD Advanced Check #2] For a simply supported beam of length L carrying a uniformly distributed load w per unit length, the maximum bending moment is exactly:",
+        "options": {
+            "a": "wL\u00b2/8",
+            "b": "wL\u00b2/2",
+            "c": "wL\u00b2/4",
+            "d": "wL\u00b2/12"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Assertion-Reason",
+        "question": "[Beams: SFD & BMD Advanced Check #3] Assertion (A): The bending moment is strictly maximum at a section where the shear force changes sign.\nReason (R): dM/dx = V. Thus, when derivative is zero (V=0), M is maximum or minimum.",
+        "options": {
+            "a": "Both A and R are true, and R is the correct explanation of A",
+            "b": "A is true, but R is false",
+            "c": "Both A and R are true, but R is not the correct explanation of A",
+            "d": "A is false, but R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #4] A simply supported beam of length 7 m carries a UDL of 13 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "159.25 kNm",
+            "b": "53.08 kNm",
+            "c": "45.5 kNm",
+            "d": "79.62 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #5] A cantilever beam of length 4 m carries a concentrated point load of 28 kN at its free end. The maximum bending moment at the support is:",
+        "options": {
+            "a": "224.0 kNm",
+            "b": "14.0 kNm",
+            "c": "56.0 kNm",
+            "d": "112 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #6] A simply supported beam of span 5 m is subjected to a central point load of 75 kN. The maximum absolute shear force in the beam is:",
+        "options": {
+            "a": "93.75 kN",
+            "b": "75 kN",
+            "c": "37.5 kN",
+            "d": "18.75 kN"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #7] A simply supported beam of length 6 m carries a UDL of 16 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "144.0 kNm",
+            "b": "48.0 kNm",
+            "c": "72.0 kNm",
+            "d": "48.0 kNm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #8] A cantilever beam of length 4 m carries a concentrated point load of 34 kN at its free end. The maximum bending moment at the support is:",
+        "options": {
+            "a": "17.0 kNm",
+            "b": "136 kNm",
+            "c": "68.0 kNm",
+            "d": "272.0 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #9] A simply supported beam of span 5 m is subjected to a central point load of 90 kN. The maximum absolute shear force in the beam is:",
+        "options": {
+            "a": "22.5 kN",
+            "b": "90 kN",
+            "c": "112.5 kN",
+            "d": "45.0 kN"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #10] A simply supported beam of length 5 m carries a UDL of 19 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "118.75 kNm",
+            "b": "47.5 kNm",
+            "c": "59.38 kNm",
+            "d": "39.58 kNm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #11] A cantilever beam of length 4 m carries a concentrated point load of 40 kN at its free end. The maximum bending moment at the support is:",
+        "options": {
+            "a": "80.0 kNm",
+            "b": "20.0 kNm",
+            "c": "320.0 kNm",
+            "d": "160 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #12] A simply supported beam of span 5 m is subjected to a central point load of 105 kN. The maximum absolute shear force in the beam is:",
+        "options": {
+            "a": "105 kN",
+            "b": "26.25 kN",
+            "c": "52.5 kN",
+            "d": "131.25 kN"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #13] A simply supported beam of length 4 m carries a UDL of 22 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "29.33 kNm",
+            "b": "44.0 kNm",
+            "c": "88.0 kNm",
+            "d": "44.0 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #14] A cantilever beam of length 4 m carries a concentrated point load of 46 kN at its free end. The maximum bending moment at the support is:",
+        "options": {
+            "a": "368.0 kNm",
+            "b": "92.0 kNm",
+            "c": "23.0 kNm",
+            "d": "184 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #15] A simply supported beam of span 5 m is subjected to a central point load of 120 kN. The maximum absolute shear force in the beam is:",
+        "options": {
+            "a": "120 kN",
+            "b": "30.0 kN",
+            "c": "150.0 kN",
+            "d": "60.0 kN"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #16] A simply supported beam of length 7 m carries a UDL of 25 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "306.25 kNm",
+            "b": "102.08 kNm",
+            "c": "153.12 kNm",
+            "d": "87.5 kNm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #17] A cantilever beam of length 4 m carries a concentrated point load of 52 kN at its free end. The maximum bending moment at the support is:",
+        "options": {
+            "a": "416.0 kNm",
+            "b": "208 kNm",
+            "c": "104.0 kNm",
+            "d": "26.0 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #18] A simply supported beam of span 5 m is subjected to a central point load of 135 kN. The maximum absolute shear force in the beam is:",
+        "options": {
+            "a": "67.5 kN",
+            "b": "168.75 kN",
+            "c": "135 kN",
+            "d": "33.75 kN"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #19] A simply supported beam of length 6 m carries a UDL of 28 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "84.0 kNm",
+            "b": "84.0 kNm",
+            "c": "126.0 kNm",
+            "d": "252.0 kNm"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #20] A cantilever beam of length 4 m carries a concentrated point load of 58 kN at its free end. The maximum bending moment at the support is:",
+        "options": {
+            "a": "116.0 kNm",
+            "b": "464.0 kNm",
+            "c": "29.0 kNm",
+            "d": "232 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #21] A simply supported beam of span 5 m is subjected to a central point load of 150 kN. The maximum absolute shear force in the beam is:",
+        "options": {
+            "a": "37.5 kN",
+            "b": "150 kN",
+            "c": "75.0 kN",
+            "d": "187.5 kN"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #22] A simply supported beam of length 5 m carries a UDL of 31 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "96.88 kNm",
+            "b": "193.75 kNm",
+            "c": "64.58 kNm",
+            "d": "77.5 kNm"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #23] A cantilever beam of length 4 m carries a concentrated point load of 64 kN at its free end. The maximum bending moment at the support is:",
+        "options": {
+            "a": "512.0 kNm",
+            "b": "32.0 kNm",
+            "c": "128.0 kNm",
+            "d": "256 kNm"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #24] A simply supported beam of span 5 m is subjected to a central point load of 165 kN. The maximum absolute shear force in the beam is:",
+        "options": {
+            "a": "82.5 kN",
+            "b": "206.25 kN",
+            "c": "165 kN",
+            "d": "41.25 kN"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Beams: SFD & BMD",
+        "type": "Numerical",
+        "question": "[Beams: SFD & BMD Advanced Check #25] A simply supported beam of length 4 m carries a UDL of 34 kN/m exactly over its entire span. The maximum bending moment is:",
+        "options": {
+            "a": "136.0 kNm",
+            "b": "68.0 kNm",
+            "c": "68.0 kNm",
+            "d": "45.33 kNm"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

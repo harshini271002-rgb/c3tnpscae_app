@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Fibre reinforced concrete is used in",
+        "options": {
+            "a": "wearing coat of roads",
+            "b": "pipes, manhole covers",
+            "c": "door and window frames",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Which one of the following is not correct about the use of ferrocement?",
+        "options": {
+            "a": "for doors and window shutters",
+            "b": "domestic water tanks",
+            "c": "furnitures",
+            "d": "beam and columns"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "On the basis of materials used:",
+        "options": {
+            "a": "Stone stairs \u2013 Rectangular steps, spandril steps, tread and riser steps, cantilevered tread",
+            "b": "Brick stairs \u2013 Exterior steps are typical brick stairs. Many times brick stairs of single flight",
+            "c": "Wooden stairs : Timber stairs are used for low rise buildings. Disadvantage of timber steps",
+            "d": "R.C.C. stairs : Nowadays very widely used stairs."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Vertical faces of walls meant for fixing door, window or ventilator are known as",
+        "options": {
+            "a": "jambs",
+            "b": "sills",
+            "c": "corbels",
+            "d": "coping"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Steps provided from ground to main entrance in external wall is called",
+        "options": {
+            "a": "threshold",
+            "b": "stairs",
+            "c": "pedestal",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Thumb rule to decide window area for a residential building is there should be 1 m2 area for every ______ m3 of internal area",
+        "options": {
+            "a": "20 m3 (b) 30 m3",
+            "b": "",
+            "c": "40 m3 (d) 50 m3",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Preferable window area to floor area in a residential building is",
+        "options": {
+            "a": "10\u201315 %",
+            "b": "15\u201320 %",
+            "c": "20\u201325 %",
+            "d": "30 %"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Which one of the following is not the member of door shutter",
+        "options": {
+            "a": "style",
+            "b": "panel",
+            "c": "sash bar",
+            "d": "reveal"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "1000 \u00d7 2000 mm door with double shutter is designated as",
+        "options": {
+            "a": "10 DS 20",
+            "b": "1000 DS 2000",
+            "c": "10 DT 20",
+            "d": "1000 DT 2000"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "The horizontal members of panelled doors are known as",
+        "options": {
+            "a": "styles",
+            "b": "rails",
+            "c": "ledges",
+            "d": "bracings"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Louvered doors are preferred when",
+        "options": {
+            "a": "privacy is required",
+            "b": "ventilation is required",
+            "c": "lighting is required",
+            "d": "both privacy and ventilation are required"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Vertical member employed to subdivide a window opening vertically is called",
+        "options": {
+            "a": "mullian",
+            "b": "transome",
+            "c": "louvre (d) style",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "The size of frame of a panel door is",
+        "options": {
+            "a": "80 \u00d7 60 mm",
+            "b": "90 \u00d7 60 mm",
+            "c": "100 \u00d7 60 mm",
+            "d": "100 \u00d7 65 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Thickness of vertical style, top rail and lock rail of a panelled door should be",
+        "options": {
+            "a": "25 mm",
+            "b": "30 mm",
+            "c": "35 mm",
+            "d": "40 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Thickness of panels in a door should be",
+        "options": {
+            "a": "12\u201315 mm",
+            "b": "15\u201320 mm",
+            "c": "20\u201325 mm",
+            "d": "25\u201330 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Doors meant to allow fresh air and at the same time prevent entry of insects is known as",
+        "options": {
+            "a": "lowered door",
+            "b": "wire gauzed door",
+            "c": "collapsible",
+            "d": "rolling shutter"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "The fixture provided on external door for locking is known as",
+        "options": {
+            "a": "aldrop bolt",
+            "b": "flush bolt",
+            "c": "barred bolt",
+            "d": "tower bolt"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "The end bearing for lintels should be greater than the following",
+        "options": {
+            "a": "100 mm",
+            "b": "",
+            "c": "depth of lintel",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Headroom in a staircase should not be less than",
+        "options": {
+            "a": "1.8 m",
+            "b": "1.9 m",
+            "c": "2.0 m",
+            "d": "2.1 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "The maximum number of steps in a flight should be limited to",
+        "options": {
+            "a": "9",
+            "b": "12",
+            "c": "15",
+            "d": "18"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "How many treads should be there in a dog legged stair connecting two floors with a vertical distance of 3.6 m and rise of each step being 150 mm?",
+        "options": {
+            "a": "22",
+            "b": "23",
+            "c": "24",
+            "d": "25"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Natural ventilation is achieved by proper location and size of",
+        "options": {
+            "a": "doors and windows",
+            "b": "ventilations",
+            "c": "skylights",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Maximum indoor velocity to outdoor velocity that can be achieved by adjusting openings in a building is",
+        "options": {
+            "a": "0.25",
+            "b": "0.40",
+            "c": "0.60",
+            "d": "0.75"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Fibre reinforced concrete is used in [Set Variant 1]",
+        "options": {
+            "a": "wearing coat of roads",
+            "b": "pipes, manhole covers",
+            "c": "door and window frames",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Doors, Windows & Stairs",
+        "question": "Which one of the following is not correct about the use of ferrocement? [Set Variant 2]",
+        "options": {
+            "a": "for doors and window shutters",
+            "b": "domestic water tanks",
+            "c": "furnitures",
+            "d": "beam and columns"
+        },
+        "correct_answer": "a"
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "A point on the wheel of a moving vehicle is having",
+        "options": {
+            "a": "rectilinear translation",
+            "b": "curvilinear motion",
+            "c": "rotation",
+            "d": "general plane motion"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "In case of a cantilever of span L subjected to concentrated load W at free end, the rotation (q) and deflection y of free end are",
+        "options": {
+            "a": "q =",
+            "b": "q =",
+            "c": "q =",
+            "d": "q ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "Which one of the following methods is more accurate for the analysis of rigid frames?",
+        "options": {
+            "a": "Substitute frame method",
+            "b": "Portal method",
+            "c": "Factor method",
+            "d": "Slope deflection method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "If P is power, H is head and N is the rotation speed of a turbine, the specific speed is given by",
+        "options": {
+            "a": "Ns =",
+            "b": "Ns =",
+            "c": "Ns =",
+            "d": "Ns ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "If N is rotation speed and H is net head on turbine, unit speed is",
+        "options": {
+            "a": "Nu =",
+            "b": "Nu =",
+            "c": "Nu =",
+            "d": "Nu ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The motion of a wheel of a car is",
+        "options": {
+            "a": "purely translation",
+            "b": "purely rotational",
+            "c": "combined translation and rotational",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The expression 2 I\u03c9 represents",
+        "options": {
+            "a": "centrifugal force",
+            "b": "potential energy",
+            "c": "kinetic energy of rotation",
+            "d": "kinetic energy of translation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The wheels of a moving car possess",
+        "options": {
+            "a": "potential energy only",
+            "b": "kinetic energy of translation only",
+            "c": "kinetic energy of rotation only",
+            "d": "kinetic energy of translation and rotation both"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "If the velocity potential exist for the flow, then it is",
+        "options": {
+            "a": "irrotational",
+            "b": "rotational",
+            "c": "laminar",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "For a flow to be irrotational, the vorticity is",
+        "options": {
+            "a": "zero",
+            "b": "one",
+            "c": "two",
+            "d": "four"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "When a cylindrical vessel, containing some liquid, is rotated about its vertical axis, the liquid surface is depressed down at the axis of its rotation and rises up near the walls of the vessel on all sides. This type of flow is known as",
+        "options": {
+            "a": "steady flow",
+            "b": "turbulent flow",
+            "c": "vortex flow",
+            "d": "uniform flow"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The rise of liquid along the walls of a revolving cylinder about the initial level is ............ the depression of the liquid at the axis of rotation.",
+        "options": {
+            "a": "same as",
+            "b": "less than",
+            "c": "more than",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "Match the correct answer from Group B (Type of connection) for the statements given in Group A (Type of beam). Group A (Type of beam) Group B (Type of connection)",
+        "options": {
+            "a": "\u0007To permit large angles of rotation",
+            "b": "\u0007To allow small end rotation and",
+            "c": "\u0007When a beam is connected to a",
+            "d": "\u0007When a beam is connected to a"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "A point on the wheel of a moving vehicle is having [Set Variant 1]",
+        "options": {
+            "a": "rectilinear translation",
+            "b": "curvilinear motion",
+            "c": "rotation",
+            "d": "general plane motion"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "In case of a cantilever of span L subjected to concentrated load W at free end, the rotation (q) and deflection y of free end are [Set Variant 2]",
+        "options": {
+            "a": "q =",
+            "b": "q =",
+            "c": "q =",
+            "d": "q ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "Which one of the following methods is more accurate for the analysis of rigid frames? [Set Variant 3]",
+        "options": {
+            "a": "Substitute frame method",
+            "b": "Portal method",
+            "c": "Factor method",
+            "d": "Slope deflection method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "If P is power, H is head and N is the rotation speed of a turbine, the specific speed is given by [Set Variant 4]",
+        "options": {
+            "a": "Ns =",
+            "b": "Ns =",
+            "c": "Ns =",
+            "d": "Ns ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "If N is rotation speed and H is net head on turbine, unit speed is [Set Variant 5]",
+        "options": {
+            "a": "Nu =",
+            "b": "Nu =",
+            "c": "Nu =",
+            "d": "Nu ="
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The motion of a wheel of a car is [Set Variant 6]",
+        "options": {
+            "a": "purely translation",
+            "b": "purely rotational",
+            "c": "combined translation and rotational",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The expression 2 I\u03c9 represents [Set Variant 7]",
+        "options": {
+            "a": "centrifugal force",
+            "b": "potential energy",
+            "c": "kinetic energy of rotation",
+            "d": "kinetic energy of translation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The wheels of a moving car possess [Set Variant 8]",
+        "options": {
+            "a": "potential energy only",
+            "b": "kinetic energy of translation only",
+            "c": "kinetic energy of rotation only",
+            "d": "kinetic energy of translation and rotation both"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "If the velocity potential exist for the flow, then it is [Set Variant 9]",
+        "options": {
+            "a": "irrotational",
+            "b": "rotational",
+            "c": "laminar",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "For a flow to be irrotational, the vorticity is [Set Variant 10]",
+        "options": {
+            "a": "zero",
+            "b": "one",
+            "c": "two",
+            "d": "four"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "When a cylindrical vessel, containing some liquid, is rotated about its vertical axis, the liquid surface is depressed down at the axis of its rotation and rises up near the walls of the vessel on all sides. This type of flow is known as [Set Variant 11]",
+        "options": {
+            "a": "steady flow",
+            "b": "turbulent flow",
+            "c": "vortex flow",
+            "d": "uniform flow"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Structural Analysis",
+        "subcategory": "Slope Deflection Method",
+        "question": "The rise of liquid along the walls of a revolving cylinder about the initial level is ............ the depression of the liquid at the axis of rotation. [Set Variant 12]",
+        "options": {
+            "a": "same as",
+            "b": "less than",
+            "c": "more than",
+            "d": ""
+        },
+        "correct_answer": "a"
+    }
+]

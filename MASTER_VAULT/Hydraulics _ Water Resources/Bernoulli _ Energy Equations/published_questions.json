@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Bernoulli equation finds its application in",
+        "options": {
+            "a": "pitot tube",
+            "b": "venturimeter",
+            "c": "orifice meter",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "In a venturimeter, entrance cone is having",
+        "options": {
+            "a": "converging angle of 20\u00b0",
+            "b": "converging angle of 5\u00b0 to 7\u00b0",
+            "c": "diverging angle of 20\u00b0",
+            "d": "diverging angle of 5\u00b0 to 7\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "A venturimeter is having a exit cone of",
+        "options": {
+            "a": "diverging angle 20\u00b0",
+            "b": "diverging angle of 5\u00b0 to 7\u00b0",
+            "c": "converging angle of 20\u00b0",
+            "d": "converging angle of 5\u00b0 to 7\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Venturimeter is a device based on",
+        "options": {
+            "a": "Euler\u2019s equation",
+            "b": "Reynolds equation",
+            "c": "Navier\u2013Stokes equation",
+            "d": "Bernauli\u2019s principle"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "The discharge through venturimeter is given by",
+        "options": {
+            "a": "Q = Cd",
+            "b": "Q = Cd",
+            "c": "Q = Cd",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Venturimeter should be preceded by a straight portion of the pipe of length ______ times the diameter",
+        "options": {
+            "a": "25",
+            "b": "50",
+            "c": "75",
+            "d": "100"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "The coefficient of discharge in a venturimeter depends upon",
+        "options": {
+            "a": "roughness of inner portion of pipe",
+            "b": "diameter ratio d2/d1",
+            "c": "nearness of placement of fittings",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "The velocity of flow in a orifice is V = . This equation is known as",
+        "options": {
+            "a": "Euler\u2019s equation",
+            "b": "Bernoulli equation",
+            "c": "Navier\u2013Stokes equation",
+            "d": "Torricelli\u2019s equation"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Which one of the following is not used for measuring flow in a pipe",
+        "options": {
+            "a": "nozzle meter",
+            "b": "orificemeter",
+            "c": "bend meter",
+            "d": "venturiflume"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Which one of the following is not used for measuring flow through open channel.",
+        "options": {
+            "a": "gates",
+            "b": "weir",
+            "c": "orificemeter",
+            "d": "venturiflume"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "A pipe or orifice type outlet is proportional, if the outlet is fixed at ______ times the depth below the water surface.",
+        "options": {
+            "a": "0.3",
+            "b": "0.4",
+            "c": "0.5",
+            "d": "0.6"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Pressure energy or pressure head. It is due to the pressure of liquid. Its value is given by p / w, where p is the pressure in N / m2 and w is the weight density of the liquid in N / m3. Note:\t The total energy or total head of a liquid particle in motion is given as follows: Total energy, E\t=\tPotential energy + Kinetic energy + Pressure energy and total head, H\t=\tPotential head + Kinetic head + Pressure head 3.27\u2002 Bernoulli\u2019s Equation The Bernoulli\u2019s equation states that \u2018For a perfect incompressible liquid, flowing in a continuous stream, the total energy of a particle remains the same, while the particle moves from one point to another. Mathematically, v p z g w + + = Constant v p z g w + + = The Bernoulli\u2019s equation is applied to venturimeter, orifice meter and pitot tube. The Bernoulli\u2019s equation for real fluids is given by p v z w g + + = L p v z h w g + + + where hL\t =\t Loss of energy between sections 1 and 2. 3.28\u2002 Euler\u2019s Equation Euler\u2019s equation in the differential form for the motion of liquids is given as follows: . . dp g dz v dv + + \u03c1 =\t 0 This equation is based on the following assumptions:",
+        "options": {
+            "a": "The velocity of liquid at the throat is higher than that of inlet.",
+            "b": "The pressure of liquid at the throat is lower than that of inlet.",
+            "c": "The velocity and pressure of liquid flowing through the divergent portion decreases.",
+            "d": "The velocity of flow is uniform over the section."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Coefficient of resistance (Cr). It is defined as the ratio of loss of head in the orifice to the head of water available at the exit of the orifice. Note: The coefficient of velocity is determined experimentally by using the following relation, i.e. Cv = x yH where x\t =\t Horizontal distance, y\t =\t Vertical distance, and H\t =\t Constant water head. 3.36\u2002 Important Expressions used in Orifices and Mouthpieces Following are the important expressions used in orifices and mouthpieces:",
+        "options": {
+            "a": "Discharge through a large rectangular orifice,",
+            "b": "Discharge through a wholly submerged orifice,",
+            "c": "Time required to empty the tank completely through an orifice at the bottom,",
+            "d": "Time required to empty the hemispherical tank through an orifice at the bottom,"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Bernoulli\u2019s equation is applied to",
+        "options": {
+            "a": "venturimeter",
+            "b": "orifice meter",
+            "c": "pitot tube",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "The length of the divergent cone in a venturimeter is ............. that of the convergent cone.",
+        "options": {
+            "a": "equal to",
+            "b": "double",
+            "c": "three to four times",
+            "d": "five to six times"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "In a venturimeter, the velocity of liquid at throat is .......... than that at inlet.",
+        "options": {
+            "a": "higher",
+            "b": "lower",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "The pressure of liquid at throat in a venturimeter is ............ than that at inlet.",
+        "options": {
+            "a": "higher",
+            "b": "lower",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "The velocity of the liquid flowing through the divergent portion of a venturimeter",
+        "options": {
+            "a": "remains constant",
+            "b": "increases",
+            "c": "decreases",
+            "d": "depends upon mass of liquid"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "In order to avoid tendency of separation at throat in a venturimeter, the ratio of the diameter at throat to the diameter of pipe should be",
+        "options": {
+            "a": "1",
+            "b": "1",
+            "c": "1",
+            "d": "1"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "The pressure of the liquid flowing through the divergent portion of a venturimeter",
+        "options": {
+            "a": "remains constant",
+            "b": "increases",
+            "c": "decreases",
+            "d": "depends upon mass of liquid"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Which of the following device is used to measure the velocity of a fluid in a pipe?",
+        "options": {
+            "a": "Venturimeter",
+            "b": "Pitot tube",
+            "c": "Orifice meter",
+            "d": "Rectangular notch"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Bernoulli equation finds its application in [Set Variant 1]",
+        "options": {
+            "a": "pitot tube",
+            "b": "venturimeter",
+            "c": "orifice meter",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "In a venturimeter, entrance cone is having [Set Variant 2]",
+        "options": {
+            "a": "converging angle of 20\u00b0",
+            "b": "converging angle of 5\u00b0 to 7\u00b0",
+            "c": "diverging angle of 20\u00b0",
+            "d": "diverging angle of 5\u00b0 to 7\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "A venturimeter is having a exit cone of [Set Variant 3]",
+        "options": {
+            "a": "diverging angle 20\u00b0",
+            "b": "diverging angle of 5\u00b0 to 7\u00b0",
+            "c": "converging angle of 20\u00b0",
+            "d": "converging angle of 5\u00b0 to 7\u00b0"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Hydraulics & Water Resources",
+        "subcategory": "Bernoulli & Energy Equations",
+        "question": "Venturimeter is a device based on [Set Variant 4]",
+        "options": {
+            "a": "Euler\u2019s equation",
+            "b": "Reynolds equation",
+            "c": "Navier\u2013Stokes equation",
+            "d": "Bernauli\u2019s principle"
+        },
+        "correct_answer": "a"
+    }
+]

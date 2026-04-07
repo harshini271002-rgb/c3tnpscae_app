@@ -1,0 +1,402 @@
+[
+    {
+        "question": "A brick with its shorter face in the direction of the wall is known as:",
+        "options": {
+            "a": "Stretcher",
+            "b": "Header",
+            "c": "Quoin",
+            "d": "Perpend"
+        },
+        "correct_answer": "b",
+        "explanation": "In brick masonry terminology, a brick laid such that its shorter face (width \u00d7 height) is visible on the face of the wall is called a header. A stretcher has its longer face visible",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Perpend is an imaginary line of mortar joints in brick masonry which is:",
+        "options": {
+            "a": "horizontal",
+            "b": "vertical passing through all courses",
+            "c": "vertical passing through alternate courses",
+            "d": "none of the above"
+        },
+        "correct_answer": "c",
+        "explanation": "To achieve proper bond and avoid continuous vertical joints (which weaken the wall), the vertical joints in alternate courses must align perfectly. This imaginary vertical alignment line is called a perpend.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Portion of the brick cut across full width is known as:",
+        "options": {
+            "a": "Queen closer",
+            "b": "King closer",
+            "c": "Mitred closer",
+            "d": "Bat"
+        },
+        "correct_answer": "d",
+        "explanation": "A bat is a piece of a brick cut across its width (e.g., half-bat or three-quarter bat). Closers are typically cut along the length (longitudinally) to maintain the bond near corners.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Construction of a wall starts from:",
+        "options": {
+            "a": "one corner and proceeds to other corner",
+            "b": "both corners and proceeds to middle portion",
+            "c": "middle portion and proceeds towards corners",
+            "d": "any convenient point"
+        },
+        "correct_answer": "b",
+        "explanation": "To ensure proper alignment, level, and plumbness, brickwork always begins at the extreme ends or corners (quoins). The corners are raised first, and a string is stretched between them to guide the construction of the middle portion.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Match the equipment/term used in brick manufacturing with its primary purpose,\nList I A. Pug mill B. Fillet C. Stock board D. Clamp, List II 1.For burning bricks 2.For table moulding 3.For making frog 4.For tempering.",
+        "options": {
+            "a": "A-4, B-3, C-1, D-2",
+            "b": "A-4, B-3, C-2, D-1",
+            "c": "A-4, B-2, C-1, D-3",
+            "d": "A-2, B-3, C-4, D-1"
+        },
+        "correct_answer": "b",
+        "explanation": "A pug mill is used for kneading/tempering the clay. A fillet (or pallet) is placed in the mould to form the frog. A stock board is a base used in table moulding. A clamp is a traditional, intermittent method for burning bricks",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Assertion (A): In a brick masonry wall thicker than 1.5 bricks, English bond is preferred over Flemish bond. Reason (R): English bond consists of alternate courses of stretchers and headers, which provides a larger number of headers, making the transverse tying of the wall much stronger.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "a",
+        "explanation": "English bond is structurally the strongest bond because the continuous alignment of headers in alternate courses effectively ties the face of the wall to the backing. Flemish bond is more aesthetically pleasing but slightly weaker in walls thicker than 1.5 bricks.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Consider the following statements regarding the characteristics of a good building brick: 1.The compressive strength of the brick must be greater than .2.Water absorption should not exceed 20% of its dry weight after 24 hours of soaking.3.It should not show any white patches (efflorescence) when dried after soaking in water. Which of the above statements are correct?",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "d",
+        "explanation": "All statements correctly define the IS code requirements for first-class or good quality bricks. A minimum crushing strength of , water absorption , and zero to slight efflorescence are mandatory standards.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which of the following constituents, if present in excess, causes the brick to melt and lose its shape during burning?",
+        "options": {
+            "a": "Silica",
+            "b": "Alumina",
+            "c": "Iron Oxide",
+            "d": "Lime"
+        },
+        "correct_answer": "d",
+        "explanation": "While a small amount of lime is necessary to act as a flux (helping silica melt slightly to bind the brick), an excess of lime causes the brick to melt completely, distorting its shape during the burning process.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Assertion (A): Iron pyrites and sulphates of calcium and potassium are highly harmful ingredients in brick earth. Reason (R): Alkalis like sulphates of calcium and potassium absorb moisture from the atmosphere and lead to efflorescence on the brick surface.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "a",
+        "explanation": "Extracted from source content.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "In brick manufacturing, what is the sequence of the \"Preparation of Clay\" stage?1.Digging 2.Unsoling 3.Weathering 4.Cleaning 5.Tempering 6.Blending .",
+        "options": {
+            "a": "1 2 4 3 6 5",
+            "b": "2 1 4 3 6 5",
+            "c": "2 1 3 4 5 6",
+            "d": "1 2 3 4 6 5"
+        },
+        "correct_answer": "b",
+        "explanation": "The correct sequence is: Unsoling (removing the top 200mm of earth), Digging, Cleaning (removing stones/pebbles), Weathering (leaving it exposed to the atmosphere), Blending (mixing in required ingredients), and finally Tempering (kneading in a pug mill to achieve plasticity).",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Diagram-based Visualization: In brick masonry, a wall is temporarily left incomplete at the end of a day's work. It is terminated in a stepped manner rather than a vertical straight line to allow for strong bonding when work resumes. This method of stepping back the wall is called:",
+        "options": {
+            "a": "Toothing",
+            "b": "Racking back",
+            "c": "Corbeling",
+            "d": "Coping"
+        },
+        "correct_answer": "b",
+        "explanation": "Racking back is the process of stepping back successive courses of masonry. Toothing, by contrast, is leaving alternate courses projecting outward. Racking back is generally preferred for structural stability over toothing.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "assets\\question_images\\WhatsApp Image 2026-03-01 at 22.46.37.jpeg",
+        "is_published": true
+    },
+    {
+        "question": "Match the type of cut bricks (closers/bats) with their descriptions: List I (Type) A. Queen closer B. King closer C. Bevelled closer D. Half Bat List II (Description) 1.A brick cut lengthwise into two equal halves. 2. A brick cut in half across its width. 3.A brick cut diagonally from one corner to the center of one end. 4. A brick with a triangular corner removed (half header and half stretcher).",
+        "options": {
+            "a": "A-1, B-4, C-3, D-2",
+            "b": "A-2, B-4, C-1, D-3",
+            "c": "A-1, B-3, C-4, D-2",
+            "d": "A-4, B-1, C-3, D-2"
+        },
+        "correct_answer": "a",
+        "explanation": "A Queen closer is cut longitudinally in half. A King closer has a triangular piece cut off from one corner. A bevelled closer is chamfered. A half-bat is cut crosswise in the middle.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Consider the following statements regarding the field testing of bricks: 1.Two bricks struck together should produce a ringing, metallic sound. 2.A good brick should break easily to reveal a homogeneous internal structure. 3.A good brick should not break when dropped from a height of 1 meter onto hard ground. 4.A fingernail should easily leave a scratch mark on a first-class brick to indicate plasticity. Which of the above statements are correct?",
+        "options": {
+            "a": "1 and 3 only",
+            "b": "1, 2, and 3",
+            "c": "3 and 4 only",
+            "d": "1 and 2 only"
+        },
+        "correct_answer": "a",
+        "explanation": "A good brick should not break easily (Statement 2 is false), and it must be hard enough that a fingernail does not leave a scratch",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "In brick masonry construction, a wall should not be raised by more than 1.5 meters in a single day. Reason (R): Raising the wall too high while the mortar is still wet and green can cause the lower courses to deform or squeeze out under the weight.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "a",
+        "explanation": "Mortar takes time to set. If excessive weight is placed on fresh mortar joints, they will compress, altering the plumb line and stability of the wall. Therefore, a 1.5 m maximum height restriction per day is enforced.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which type of kiln is most commonly used for large-scale, continuous manufacturing of bricks where the firing zone moves around a circular or oval track while the bricks remain stationary?",
+        "options": {
+            "a": "Bull's Trench Kiln",
+            "b": "Hoffman's Kiln",
+            "c": "Tunnel Kiln",
+            "d": "Intermittent Clamp"
+        },
+        "correct_answer": "a",
+        "explanation": "Hoffman's kiln is a continuous kiln built above ground (circular or oval) where the fire is moved from chamber to chamber through the stationary stacked bricks. Bull's trench is partially underground. In a Tunnel kiln, the fire is stationary, and bricks move on cars.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "In a good brick earth, the ideal percentage of Silica is:",
+        "options": {
+            "a": "20% to 30%",
+            "b": "50% to 60%",
+            "c": "5% to 6%",
+            "d": "70% to 80%"
+        },
+        "correct_answer": "b",
+        "explanation": "Silica is the major constituent of brick earth (50-60%). It prevents cracking, shrinking, and warping of bricks. Alumina is 20-30%, and Iron Oxide is 5-6%.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Match the following special types of bricks to their primary purpose: List I A. Paving Bricks B. Fire Clay Bricks C. Perforated Bricks D. Facing Bricks List II 1.High aesthetic finish for exteriors without plaster. 2.Lightweight construction and thermal insulation. 3.Resisting extremely high temperatures in furnaces. 4.Resisting heavy abrasion on street floors.",
+        "options": {
+            "a": "A-4, B-3, C-2, D-1",
+            "b": "A-3, B-4, C-1, D-2",
+            "c": "A-4, B-2, C-3, D-1",
+            "d": "A-2, B-3, C-4, D-1"
+        },
+        "correct_answer": "a",
+        "explanation": "Paving bricks are vitrified for abrasion resistance (street floors). Fire clay bricks (refractory) resist high heat. Perforated bricks reduce weight and insulate. Facing bricks are uniform in color/shape for exposed aesthetic walls.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "What is the function of providing a \"Frog\" in a brick?",
+        "options": {
+            "a": "To reduce the overall weight of the brick.",
+            "b": "To provide a shear key for the mortar to interlock with the successive course.",
+            "c": "To aid in the drying process before burning.",
+            "d": "To indicate the manufacturer's name only."
+        },
+        "correct_answer": "b",
+        "explanation": "While the frog may contain the manufacturer's name and slightly reduce weight, its primary structural function is to form a mechanical key (shear key) for the mortar, binding the courses together. It is typically kept facing upwards during masonry work.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which of the following bonds consists of alternate courses of headers and stretchers?",
+        "options": {
+            "a": "Flemish Bond",
+            "b": "English Bond",
+            "c": "Stretcher Bond",
+            "d": "Header Bond"
+        },
+        "correct_answer": "b",
+        "explanation": "In an English bond, one course consists entirely of stretchers, and the next course consists entirely of headers. In a Flemish bond, headers and stretchers are alternated within the same course.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "In the preparation of brick earth, blending is done immediately after digging the soil. Reason (R): Weathering must precede blending to allow the soil to soften and mature under atmospheric action.",
+        "options": {
+            "a": "Both A and R are true and R is the correct explanation of A.",
+            "b": "Both A and R are true but R is not the correct explanation of A.",
+            "c": "A is true but R is false.",
+            "d": "A is false but R is true."
+        },
+        "correct_answer": "d",
+        "explanation": "Blending is NOT done immediately after digging. The soil must first undergo weathering (exposure to atmosphere for weeks) to soften. Only after weathering is the clay blended with other required ingredients.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which ingredient in brick earth imparts the characteristic red color to the burnt brick?",
+        "options": {
+            "a": "Magnesia",
+            "b": "Silica",
+            "c": "Iron Oxide",
+            "d": "Lime"
+        },
+        "correct_answer": "c",
+        "explanation": "Iron oxide (present in 5% to 6%) acts as a flux and imparts the red color to bricks upon burning. If it is present in excess, the bricks become dark blue or blackish.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Which of the following describes a \"Bull's Trench Kiln\"?",
+        "options": {
+            "a": "An intermittent kiln where bricks are burnt in batches and must cool completely before the next batch.",
+            "b": "A continuous, partially underground oval trench where the firing zone moves through stationary bricks.",
+            "c": "A continuous kiln where bricks are moved on trolleys through a stationary firing zone.",
+            "d": "A temporary structure constructed entirely of raw bricks and fuel layers above ground."
+        },
+        "correct_answer": "b",
+        "explanation": "Bull's trench kiln is a continuous kiln constructed in a trench (underground/semi-underground). The fire moves around the oval trench while the stacked bricks remain stationary. A clamp (d) is temporary and intermittent. A tunnel kiln (c) has moving bricks.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "To check the size of brick number of bricks to be kept side by side is:",
+        "options": {
+            "a": "30",
+            "b": "20",
+            "c": "10",
+            "d": "5 \nAnswer: (b) 20"
+        },
+        "correct_answer": "a",
+        "explanation": "In standard laboratory shape and size tests for bricks, 20 bricks are lined up side by side to measure variations and tolerances",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "Depressions provided in face of brick during moulding are:",
+        "options": {
+            "a": "crator",
+            "b": "fillets",
+            "c": "marks",
+            "d": "frog"
+        },
+        "correct_answer": "d",
+        "explanation": "The frog is the depression on the top face of the brick which serves as a shear key to hold the mortar for the successive course.",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    },
+    {
+        "question": "The brick is considered dry when the moisture content is:",
+        "options": {
+            "a": "8%",
+            "b": "5%",
+            "c": "2%",
+            "d": "zero"
+        },
+        "correct_answer": "c",
+        "explanation": "During the drying stage before burning, a brick is considered adequately dry when its internal moisture content drops to 2%",
+        "type": "Theory",
+        "subject": "Building Materials & Construction Practices",
+        "subcategory": "Brick",
+        "imageUrl": "",
+        "is_published": true
+    }
+]

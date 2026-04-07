@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "In case of a well maintained and fully metered water distribution system, water system loss is approximately",
+        "options": {
+            "a": "5 %",
+            "b": "10 %",
+            "c": "15 %",
+            "d": "20 %"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Distribution system in water supply should not ordinarily be designed for residual pressure exceeding",
+        "options": {
+            "a": "7 m",
+            "b": "12 m",
+            "c": "17 m",
+            "d": "22 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "For an area developed in haphazard way, the type of layout of water distribution system preferred is",
+        "options": {
+            "a": "dead end system",
+            "b": "grid-iron system",
+            "c": "ring system",
+            "d": "radial system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Suitable layout of water distribution system for a well planned city is",
+        "options": {
+            "a": "dead end system",
+            "b": "grid-iron system",
+            "c": "ring system",
+            "d": "radial system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Which one of the following layout of water distribution system is known as interlaced system?",
+        "options": {
+            "a": "Dead end system",
+            "b": "Grid-iron system",
+            "c": "Ring system",
+            "d": "Radial system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Drain valves/scour valves, in a water distribution system are provided at",
+        "options": {
+            "a": "high end points",
+            "b": "low end points",
+            "c": "at regular intervals in a pipeline",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "A sluice valve, in water distribution system, is used to",
+        "options": {
+            "a": "protect the pipe against negative pressure",
+            "b": "regulate the flow of water through the pipe",
+            "c": "prevent water to flow back in the opposite",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "A reflux valve, in water distribution system, is used to",
+        "options": {
+            "a": "protect the pipe against negative pressure",
+            "b": "regulate the flow of water through the pipe",
+            "c": "prevent water to flow back in the opposite",
+            "d": "all of the abvoe"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "A scour valve, in a water distribution system, is provided at",
+        "options": {
+            "a": "low points",
+            "b": "high points",
+            "c": "junction points",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "For an area developed in haphazard way, the type of layout used for the distribution of pipes is known as",
+        "options": {
+            "a": "dead end system",
+            "b": "ring system",
+            "c": "radial system",
+            "d": "grid iron system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "The suitable layout of a distribution system for well planned cities is",
+        "options": {
+            "a": "dead end system",
+            "b": "ring system",
+            "c": "radial system",
+            "d": "grid iron system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "For a city or town with roads of rectangular pattern, the type of layout used for the distribution of pipes is",
+        "options": {
+            "a": "dead end system",
+            "b": "ring system",
+            "c": "radial system",
+            "d": "grid iron system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "The dead end system is also known as",
+        "options": {
+            "a": "tree system",
+            "b": "interlaced system",
+            "c": "circular system",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "To guide trains during maintenance and repair of the track. The signals are classified according to the following categories:",
+        "options": {
+            "a": "According to the function. These signals are stop or semaphore signal, warner signal, disc or shunting signal and",
+            "b": "According to the location. These signals are outer signal, home signal, starter signal and advance starter signal.",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "In case of a well maintained and fully metered water distribution system, water system loss is approximately [Set Variant 1]",
+        "options": {
+            "a": "5 %",
+            "b": "10 %",
+            "c": "15 %",
+            "d": "20 %"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Distribution system in water supply should not ordinarily be designed for residual pressure exceeding [Set Variant 2]",
+        "options": {
+            "a": "7 m",
+            "b": "12 m",
+            "c": "17 m",
+            "d": "22 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "For an area developed in haphazard way, the type of layout of water distribution system preferred is [Set Variant 3]",
+        "options": {
+            "a": "dead end system",
+            "b": "grid-iron system",
+            "c": "ring system",
+            "d": "radial system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Suitable layout of water distribution system for a well planned city is [Set Variant 4]",
+        "options": {
+            "a": "dead end system",
+            "b": "grid-iron system",
+            "c": "ring system",
+            "d": "radial system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Which one of the following layout of water distribution system is known as interlaced system? [Set Variant 5]",
+        "options": {
+            "a": "Dead end system",
+            "b": "Grid-iron system",
+            "c": "Ring system",
+            "d": "Radial system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "Drain valves/scour valves, in a water distribution system are provided at [Set Variant 6]",
+        "options": {
+            "a": "high end points",
+            "b": "low end points",
+            "c": "at regular intervals in a pipeline",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "A sluice valve, in water distribution system, is used to [Set Variant 7]",
+        "options": {
+            "a": "protect the pipe against negative pressure",
+            "b": "regulate the flow of water through the pipe",
+            "c": "prevent water to flow back in the opposite",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "A reflux valve, in water distribution system, is used to [Set Variant 8]",
+        "options": {
+            "a": "protect the pipe against negative pressure",
+            "b": "regulate the flow of water through the pipe",
+            "c": "prevent water to flow back in the opposite",
+            "d": "all of the abvoe"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "A scour valve, in a water distribution system, is provided at [Set Variant 9]",
+        "options": {
+            "a": "low points",
+            "b": "high points",
+            "c": "junction points",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "For an area developed in haphazard way, the type of layout used for the distribution of pipes is known as [Set Variant 10]",
+        "options": {
+            "a": "dead end system",
+            "b": "ring system",
+            "c": "radial system",
+            "d": "grid iron system"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Environmental Engineering",
+        "subcategory": "Distribution System Design",
+        "question": "The suitable layout of a distribution system for well planned cities is [Set Variant 11]",
+        "options": {
+            "a": "dead end system",
+            "b": "ring system",
+            "c": "radial system",
+            "d": "grid iron system"
+        },
+        "correct_answer": "a"
+    }
+]

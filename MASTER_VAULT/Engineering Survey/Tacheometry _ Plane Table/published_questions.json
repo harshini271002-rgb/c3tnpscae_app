@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "Which one of the following is a wrong statement about plane table surveying",
+        "options": {
+            "a": "it avoids missing of any measurement required for plotting",
+            "b": "it is an accurate method",
+            "c": "it is not to be used for locating main stations accurately",
+            "d": "it is commonly used for filling details in small or medium scale mapping"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "Which one of the following is not a method of plane tabling?",
+        "options": {
+            "a": "Orientation",
+            "b": "Radiation",
+            "c": "Intersection",
+            "d": "Resection"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "If f is focal length, i is stadia hair interval and d is the distance between the optical centre of the object lense, the multiplying constant is",
+        "options": {
+            "a": "",
+            "b": "f + d",
+            "c": "",
+            "d": "f + id"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In a tacheometry, if intercept taken on a vertically held staff is inclined at q to horizontal, the horizontal distance is",
+        "options": {
+            "a": "kS + C",
+            "b": "kS cos q + C cos q",
+            "c": "kS cos2 q + C cos q",
+            "d": "kS sin 2q + C sin q"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In the substance bar method of tacheometry, the substance bar is held",
+        "options": {
+            "a": "vertical",
+            "b": "horizontal",
+            "c": "normal to sight when sight is inclined",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In plane tabling, the instrument used to measure horizontal and vertical distances directly, is known as",
+        "options": {
+            "a": "plane alidade",
+            "b": "telescopic alidade",
+            "c": "tacheometer",
+            "d": "clinometer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In plane table surveying, field work is recorded in a field book to be plotted afterwards.",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The plotting of small areas which can be commanded from a single station, is usually done on the plane table by the method of",
+        "options": {
+            "a": "radiation",
+            "b": "intersection",
+            "c": "traversing",
+            "d": "resection"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The principle of plane table surveying is",
+        "options": {
+            "a": "triangulation",
+            "b": "traversing",
+            "c": "parallelism",
+            "d": "ranging"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The method of plane tabling commonly used for establishing the instrument stations only, is a",
+        "options": {
+            "a": "method of radiation",
+            "b": "method of intersection",
+            "c": "method of traversing",
+            "d": "method of resection"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The strength of \u2018fix\u2019 of a plane table from three known points is good if the middle station is ................. than the other two stations.",
+        "options": {
+            "a": "nearer",
+            "b": "farther",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The strength of \u2018fix\u2019 of a plane table from three known points is poor if the instrument station is near the great circle.",
+        "options": {
+            "a": "Correct",
+            "b": "Incorrect",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "A method usually adopted to contour rough mountaineous region is",
+        "options": {
+            "a": "plane table",
+            "b": "chain and level",
+            "c": "chain and compass\t (d)\t tacheometry",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "A stadia telescope, in a tacheometer, is fitted with",
+        "options": {
+            "a": "two additional vretical hairs",
+            "b": "two additional horizontal hairs",
+            "c": "cross hairs only",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "When a staff is sighted through the telescope, a certain length of staff is intercepted by the stadia lines. The staff intercept varies with the distance at which the staff is held.",
+        "options": {
+            "a": "Yes",
+            "b": "No",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "Which one of the following is a wrong statement about plane table surveying [Set Variant 1]",
+        "options": {
+            "a": "it avoids missing of any measurement required for plotting",
+            "b": "it is an accurate method",
+            "c": "it is not to be used for locating main stations accurately",
+            "d": "it is commonly used for filling details in small or medium scale mapping"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "Which one of the following is not a method of plane tabling? [Set Variant 2]",
+        "options": {
+            "a": "Orientation",
+            "b": "Radiation",
+            "c": "Intersection",
+            "d": "Resection"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "If f is focal length, i is stadia hair interval and d is the distance between the optical centre of the object lense, the multiplying constant is [Set Variant 3]",
+        "options": {
+            "a": "",
+            "b": "f + d",
+            "c": "",
+            "d": "f + id"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In a tacheometry, if intercept taken on a vertically held staff is inclined at q to horizontal, the horizontal distance is [Set Variant 4]",
+        "options": {
+            "a": "kS + C",
+            "b": "kS cos q + C cos q",
+            "c": "kS cos2 q + C cos q",
+            "d": "kS sin 2q + C sin q"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In the substance bar method of tacheometry, the substance bar is held [Set Variant 5]",
+        "options": {
+            "a": "vertical",
+            "b": "horizontal",
+            "c": "normal to sight when sight is inclined",
+            "d": "any of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In plane tabling, the instrument used to measure horizontal and vertical distances directly, is known as [Set Variant 6]",
+        "options": {
+            "a": "plane alidade",
+            "b": "telescopic alidade",
+            "c": "tacheometer",
+            "d": "clinometer"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "In plane table surveying, field work is recorded in a field book to be plotted afterwards. [Set Variant 7]",
+        "options": {
+            "a": "Agree",
+            "b": "Disagree",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The plotting of small areas which can be commanded from a single station, is usually done on the plane table by the method of [Set Variant 8]",
+        "options": {
+            "a": "radiation",
+            "b": "intersection",
+            "c": "traversing",
+            "d": "resection"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The principle of plane table surveying is [Set Variant 9]",
+        "options": {
+            "a": "triangulation",
+            "b": "traversing",
+            "c": "parallelism",
+            "d": "ranging"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Engineering Survey",
+        "subcategory": "Tacheometry & Plane Table",
+        "question": "The method of plane tabling commonly used for establishing the instrument stations only, is a [Set Variant 10]",
+        "options": {
+            "a": "method of radiation",
+            "b": "method of intersection",
+            "c": "method of traversing",
+            "d": "method of resection"
+        },
+        "correct_answer": "a"
+    }
+]

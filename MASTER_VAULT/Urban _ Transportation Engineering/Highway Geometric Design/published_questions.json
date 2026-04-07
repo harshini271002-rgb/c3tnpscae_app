@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "Camber: The rise of centre of carriageway over its outer edges is known as camber. Width of formation (Road way) It is shown in Table 14.1. Table 14.1 Width of formation for various classes Road Road width in m at Plain rolling terrain Mountaineous and steep terrain National and state highways",
+        "options": {
+            "a": "Single lane",
+            "b": "Two lane",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "Camber is provided in the road for",
+        "options": {
+            "a": "counteracting the centrifugal force",
+            "b": "effective drainage",
+            "c": "getting better sighting distance",
+            "d": "getting least stopping distance"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "The factor influencing camber is",
+        "options": {
+            "a": "topography of the area",
+            "b": "type of wearing coat provided",
+            "c": "amount of rainfall",
+            "d": "nature of subsoil"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "Maximum camber recommended by IRC is",
+        "options": {
+            "a": "1.7 %",
+            "b": "2 %",
+            "c": "3 %",
+            "d": "4 %"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "For earthen roads in heavy rainfall area common camber is",
+        "options": {
+            "a": "1 in 25",
+            "b": "1 in 33",
+            "c": "1 in 50",
+            "d": "1 in 60"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "In geometric design of roads height of sight distance of a driven is taken as ______ above road surface",
+        "options": {
+            "a": "1.0 m",
+            "b": "1.2 m",
+            "c": "1.4 m",
+            "d": "1.6 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "For finding stopping distance of a vehicle, the height of line of sight of driver and height of line of obstacle on road are taken as ______ respectively.",
+        "options": {
+            "a": "1.2 m and 0.15 m",
+            "b": "1.5 m and 0.5 m",
+            "c": "1.2 m and 0.5 m",
+            "d": "1.5 m and 0.15 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "To overtake a vehicle going at 80 kmph on a two-lane highway overtaking sight distance is",
+        "options": {
+            "a": "300 m",
+            "b": "400 m",
+            "c": "470 m",
+            "d": "520 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "Sight distance at intersection should be equal to",
+        "options": {
+            "a": "enabling the approaching vehicle to change speed",
+            "b": "enabling approaching vehicle to stop",
+            "c": "enabling the stopped vehicle to cross a main road",
+            "d": "highest the value of (a), (b) and (c)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "Sight distance at intersection should be at least ______ along the minor road.",
+        "options": {
+            "a": "15 m",
+            "b": "30 m",
+            "c": "40 m",
+            "d": "50 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "If design speed of a main road is 100 kmph, the sight distance at intersection should be at least",
+        "options": {
+            "a": "150 m",
+            "b": "200 m",
+            "c": "180 m",
+            "d": "220 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "The length of vehicle controls the design of",
+        "options": {
+            "a": "gradient",
+            "b": "camber",
+            "c": "overtaking distance",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "For an earthen road, desirable camber is",
+        "options": {
+            "a": "1 in 10 to 1 in 12",
+            "b": "1 in 12 to 1 in 20",
+            "c": "1 in 25 to 1 in 30",
+            "d": "1 in 30 to 1 in 40"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "For taxiway ICAO recommends that sight distance at a height of 3 m for A, B and C type airports should be",
+        "options": {
+            "a": "300 m",
+            "b": "400 m",
+            "c": "500 m",
+            "d": "600 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "For D and E type airports ICAO recommends that the sight distance at a height of 2.1 m should be at least",
+        "options": {
+            "a": "250 m",
+            "b": "300 m",
+            "c": "400 m",
+            "d": "500 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "For the water-bound macadam road, the recommended camber is",
+        "options": {
+            "a": "1 in 24 to 1 in 30",
+            "b": "1 in 30 to 1 in 48",
+            "c": "1 in 60 to 1 in 80",
+            "d": "1 in 80 to 1 in 120"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "The camber, for the drainage of surface water, was first introduced by",
+        "options": {
+            "a": "Telford",
+            "b": "Tresaguet",
+            "c": "Sully",
+            "d": "Macadam"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "The highest point on road surface is called",
+        "options": {
+            "a": "crown",
+            "b": "camber",
+            "c": "gradient",
+            "d": "berm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "The camber for hill roads in case of bituminous surface is adopted as",
+        "options": {
+            "a": "2%",
+            "b": "2.5%",
+            "c": "3%",
+            "d": "3.5%"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "The slope of the line joining the crown and edge of the road surface is known as",
+        "options": {
+            "a": "cross-fall",
+            "b": "cross-slope",
+            "c": "camber",
+            "d": "any one of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "A camber of 1 in 30 means that for a 30 m wide road, the crown of the road will be ................. above the edge of the road.",
+        "options": {
+            "a": "0.5 m",
+            "b": "1 m",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "The main object of providing a camber is",
+        "options": {
+            "a": "to make the road surface impervious",
+            "b": "to make the road surface durable",
+            "c": "to drain off rain water from road surface, as",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "In scanty rainfall areas, the camber provided will be",
+        "options": {
+            "a": "flatter",
+            "b": "steeper",
+            "c": "zero",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "On kankar road, the camber generally provided is",
+        "options": {
+            "a": "1 in 24 to 1 in 30",
+            "b": "1 in 30 to 1 in 48",
+            "c": "1 in 48 to 1 in 60",
+            "d": "1 in 60 to 1 in 80"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Highway Geometric Design",
+        "question": "Camber: The rise of centre of carriageway over its outer edges is known as camber. Width of formation (Road way) It is shown in Table 14.1. Table 14.1 Width of formation for various classes Road Road width in m at Plain rolling terrain Mountaineous and steep terrain National and state highways [Set Variant 1]",
+        "options": {
+            "a": "Single lane",
+            "b": "Two lane",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    }
+]

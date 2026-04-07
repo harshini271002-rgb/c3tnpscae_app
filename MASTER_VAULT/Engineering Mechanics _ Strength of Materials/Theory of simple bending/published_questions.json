@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Formula-based",
+        "question": "[Theory of simple bending Advanced Check #1] The section modulus Z of a rectangular beam of exact width b and depth d is given by:",
+        "options": {
+            "a": "bd\u00b2/6",
+            "b": "bd\u00b3/12",
+            "c": "b\u00b2d/6",
+            "d": "bd\u00b2/12"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Theory-based",
+        "question": "[Theory of simple bending Advanced Check #2] In the theory of simple bending, it is strictly assumed that plane sections before bending remain:",
+        "options": {
+            "a": "Plane after bending",
+            "b": "Curved after bending",
+            "c": "Elliptical after bending",
+            "d": "Parabolic after bending"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Formula-based",
+        "question": "[Theory of simple bending Advanced Check #3] The fundamental bending equation linking stress \u03c3, moment M, and radius of curvature R is M/I = \u03c3/y = :",
+        "options": {
+            "a": "E/R",
+            "b": "E/y",
+            "c": "R/E",
+            "d": "y/R"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #4] The section modulus (Z) of a solid rectangular timber beam of width 130 mm and depth 230 mm is:",
+        "options": {
+            "a": "573083.33 mm\u00b3",
+            "b": "131809166.67 mm\u00b3",
+            "c": "1146166.67 mm\u00b3",
+            "d": "647833.33 mm\u00b3"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #5] A beam is subjected to a bending moment of 54 kNm. If its section modulus is 540000 mm\u00b3, the maximum bending stress induced is:",
+        "options": {
+            "a": "50.0 MPa",
+            "b": "100.0 MPa",
+            "c": "200.0 MPa",
+            "d": "150.0 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #6] A steel beam (I = 40x10^6 mm\u2074) experiences a bending moment of 90 kNm. The bending stress at a distance of 125 mm from the neutral axis is:",
+        "options": {
+            "a": "562.5 MPa",
+            "b": "281.25 MPa",
+            "c": "406.25 MPa",
+            "d": "140.62 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #7] The section modulus (Z) of a solid rectangular timber beam of width 160 mm and depth 260 mm is:",
+        "options": {
+            "a": "234346666.67 mm\u00b3",
+            "b": "1802666.67 mm\u00b3",
+            "c": "901333.33 mm\u00b3",
+            "d": "1109333.33 mm\u00b3"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #8] A beam is subjected to a bending moment of 57 kNm. If its section modulus is 570000 mm\u00b3, the maximum bending stress induced is:",
+        "options": {
+            "a": "50.0 MPa",
+            "b": "200.0 MPa",
+            "c": "150.0 MPa",
+            "d": "100.0 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #9] A steel beam (I = 40x10^6 mm\u2074) experiences a bending moment of 96 kNm. The bending stress at a distance of 140 mm from the neutral axis is:",
+        "options": {
+            "a": "672.0 MPa",
+            "b": "336.0 MPa",
+            "c": "168.0 MPa",
+            "d": "476.0 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #10] The section modulus (Z) of a solid rectangular timber beam of width 190 mm and depth 290 mm is:",
+        "options": {
+            "a": "386159166.67 mm\u00b3",
+            "b": "1744833.33 mm\u00b3",
+            "c": "2663166.67 mm\u00b3",
+            "d": "1331583.33 mm\u00b3"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #11] A beam is subjected to a bending moment of 60 kNm. If its section modulus is 600000 mm\u00b3, the maximum bending stress induced is:",
+        "options": {
+            "a": "150.0 MPa",
+            "b": "50.0 MPa",
+            "c": "200.0 MPa",
+            "d": "100.0 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #12] A steel beam (I = 40x10^6 mm\u2074) experiences a bending moment of 102 kNm. The bending stress at a distance of 155 mm from the neutral axis is:",
+        "options": {
+            "a": "197.62 MPa",
+            "b": "395.25 MPa",
+            "c": "790.5 MPa",
+            "d": "550.25 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #13] The section modulus (Z) of a solid rectangular timber beam of width 220 mm and depth 320 mm is:",
+        "options": {
+            "a": "600746666.67 mm\u00b3",
+            "b": "3754666.67 mm\u00b3",
+            "c": "2581333.33 mm\u00b3",
+            "d": "1877333.33 mm\u00b3"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #14] A beam is subjected to a bending moment of 63 kNm. If its section modulus is 630000 mm\u00b3, the maximum bending stress induced is:",
+        "options": {
+            "a": "200.0 MPa",
+            "b": "50.0 MPa",
+            "c": "150.0 MPa",
+            "d": "100.0 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #15] A steel beam (I = 40x10^6 mm\u2074) experiences a bending moment of 108 kNm. The bending stress at a distance of 170 mm from the neutral axis is:",
+        "options": {
+            "a": "918.0 MPa",
+            "b": "229.5 MPa",
+            "c": "459.0 MPa",
+            "d": "629.0 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #16] The section modulus (Z) of a solid rectangular timber beam of width 250 mm and depth 350 mm is:",
+        "options": {
+            "a": "2552083.33 mm\u00b3",
+            "b": "3645833.33 mm\u00b3",
+            "c": "893229166.67 mm\u00b3",
+            "d": "5104166.67 mm\u00b3"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #17] A beam is subjected to a bending moment of 66 kNm. If its section modulus is 660000 mm\u00b3, the maximum bending stress induced is:",
+        "options": {
+            "a": "150.0 MPa",
+            "b": "100.0 MPa",
+            "c": "200.0 MPa",
+            "d": "50.0 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #18] A steel beam (I = 40x10^6 mm\u2074) experiences a bending moment of 114 kNm. The bending stress at a distance of 185 mm from the neutral axis is:",
+        "options": {
+            "a": "712.25 MPa",
+            "b": "527.25 MPa",
+            "c": "1054.5 MPa",
+            "d": "263.62 MPa"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #19] The section modulus (Z) of a solid rectangular timber beam of width 280 mm and depth 380 mm is:",
+        "options": {
+            "a": "1280346666.67 mm\u00b3",
+            "b": "4965333.33 mm\u00b3",
+            "c": "3369333.33 mm\u00b3",
+            "d": "6738666.67 mm\u00b3"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #20] A beam is subjected to a bending moment of 69 kNm. If its section modulus is 690000 mm\u00b3, the maximum bending stress induced is:",
+        "options": {
+            "a": "100.0 MPa",
+            "b": "200.0 MPa",
+            "c": "50.0 MPa",
+            "d": "150.0 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #21] A steel beam (I = 40x10^6 mm\u2074) experiences a bending moment of 120 kNm. The bending stress at a distance of 200 mm from the neutral axis is:",
+        "options": {
+            "a": "600.0 MPa",
+            "b": "1200.0 MPa",
+            "c": "800.0 MPa",
+            "d": "300.0 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #22] The section modulus (Z) of a solid rectangular timber beam of width 310 mm and depth 410 mm is:",
+        "options": {
+            "a": "8685166.67 mm\u00b3",
+            "b": "6566833.33 mm\u00b3",
+            "c": "4342583.33 mm\u00b3",
+            "d": "1780459166.67 mm\u00b3"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #23] A beam is subjected to a bending moment of 72 kNm. If its section modulus is 720000 mm\u00b3, the maximum bending stress induced is:",
+        "options": {
+            "a": "150.0 MPa",
+            "b": "50.0 MPa",
+            "c": "100.0 MPa",
+            "d": "200.0 MPa"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #24] A steel beam (I = 40x10^6 mm\u2074) experiences a bending moment of 126 kNm. The bending stress at a distance of 215 mm from the neutral axis is:",
+        "options": {
+            "a": "1354.5 MPa",
+            "b": "892.25 MPa",
+            "c": "338.62 MPa",
+            "d": "677.25 MPa"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Theory of simple bending",
+        "type": "Numerical",
+        "question": "[Theory of simple bending Advanced Check #25] The section modulus (Z) of a solid rectangular timber beam of width 340 mm and depth 440 mm is:",
+        "options": {
+            "a": "8477333.33 mm\u00b3",
+            "b": "10970666.67 mm\u00b3",
+            "c": "2413546666.67 mm\u00b3",
+            "d": "5485333.33 mm\u00b3"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

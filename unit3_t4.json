@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based MCQ",
+        "question": "Whenever some external system of forces acts on a body, it undergoes some deformation. The internal resistance set up by the body against this deformation per unit area is called:",
+        "options": {
+            "a": "Strain",
+            "b": "Stress",
+            "c": "Elasticity",
+            "d": "Modulus"
+        },
+        "correct_answer": "b",
+        "explanation": "Stress is fundamentally the internal restorative resisting force developed per unit cross-sectional area of a material when subjected to an external load.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based MCQ",
+        "question": "Hooke's Law holds purely good up to the:",
+        "options": {
+            "a": "Yield point",
+            "b": "Elastic limit",
+            "c": "Limit of proportionality",
+            "d": "Breaking point"
+        },
+        "correct_answer": "c",
+        "explanation": "Hooke's Law states stress is directly proportional to strain strictly up to the limit of proportionality, where the stress-strain curve is a perfect straight line.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical / Problem-based",
+        "question": "A mild steel rod of 20 mm diameter is subjected to an axial pull of 50 kN. If E = 200 GPa, what is the axial stress induced? (\u03c0 = 3.14)",
+        "options": {
+            "a": "159.2 MPa",
+            "b": "100.5 MPa",
+            "c": "250.0 MPa",
+            "d": "318.4 MPa"
+        },
+        "correct_answer": "a",
+        "explanation": "Stress = Load/Area = 50,000 N / [(\u03c0/4)*20\u00b2] mm\u00b2 = 50000 / 314.15 = 159.15 N/mm\u00b2 (MPa).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): True stress is always higher than engineering stress in a tensile test.\nReason (R): True stress is calculated based on the instantaneously reducing actual cross-sectional area, whereas engineering stress uses the original constant area.",
+        "options": {
+            "a": "Both A and R are true, and R explains A",
+            "b": "Both A and R are true, R does not explain A",
+            "c": "A is true, R is false",
+            "d": "A is false, R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "In tension, as the specimen stretches, its actual area shrinks due to Poisson's effect. Thus, Load / Actual Shrinking Area (True Stress) > Load / Original Area (Engg Stress).",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Match the Following",
+        "question": "Match the elastic constants (List I) with their definitions (List II):\nList I \nP. Bulk Modulus \nQ. Shear Modulus \nR. Poisson's Ratio \nList II \n1. Lateral strain / Longitudinal strain \n2. Direct Stress / Volumetric Strain \n3. Shear Stress / Shear Strain",
+        "options": {
+            "a": "P-2, Q-3, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-3, Q-1, R-2",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "a",
+        "explanation": "Bulk Modulus (K) relates volumetric deformation. Shear Modulus (G) relates shear distortion. Poisson's ratio (\u03bc) is lateral strain over longitudinal strain.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Statement Combination",
+        "question": "Which of these statements perfectly describes perfectly plastic materials?\n1. Strain increases continuously without a corresponding increase in stress.\n2. They obey Hooke's Law perfectly up to failure.\n3. The stress-strain curve becomes a horizontal line after yielding.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "c",
+        "explanation": "A perfectly plastic (or elasto-plastic ideal) material yields endlessly at a constant stress level, creating a horizontal curve. It actively disobeys Hooke's Law in this region.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Diagram-based",
+        "question": "In the standard stress-strain diagram for mild steel, the 'Lower Yield Point' signifies:",
+        "options": {
+            "a": "The point of maximum ultimate stress",
+            "b": "The stress level where plastic yielding proceeds at a relatively constant load",
+            "c": "The point of catastrophic rupture",
+            "d": "The proportional limit"
+        },
+        "correct_answer": "b",
+        "explanation": "The Lower Yield Point represents the true intrinsic yield stress of the material where macroscopic plastic flow occurs without an increase in applied load.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical / Problem-based",
+        "question": "A steel bar (E=200 GPa) of length 2m is heated from 20\u00b0C to 70\u00b0C. If it is completely restricted from expanding, and \u03b1 = 12 \u00d7 10\u207b\u2076 /\u00b0C, find the thermal stress developed.",
+        "options": {
+            "a": "120 MPa (Tensile)",
+            "b": "120 MPa (Compressive)",
+            "c": "240 MPa (Tensile)",
+            "d": "240 MPa (Compressive)"
+        },
+        "correct_answer": "b",
+        "explanation": "Thermal Stress \u03c3 = E * \u03b1 * \u0394T. \u03c3 = 200,000 * (12*10\u207b\u2076) * 50 = 120 MPa. Since expansion is prevented, the supports push inwards, causing Compressive stress.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based MCQ",
+        "question": "What is the universally accepted theoretical limit for Poisson's ratio (\u03bc) for isotropic, linear elastic engineering materials?",
+        "options": {
+            "a": "-1 to 0.5",
+            "b": "0 to 1",
+            "c": "0 to 0.5",
+            "d": "0.5 to 1.0"
+        },
+        "correct_answer": "a",
+        "explanation": "The mathematical limit derived from bulk/shear moduli relationships (3K(1-2\u03bc) = 2G(1+\u03bc)) restricts \u03bc between -1 and 0.5 for stable, isotropic materials. Perfect incompressibility is 0.5.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical / Problem-based",
+        "question": "If Young's modulus (E) is equal to Bulk modulus (K) for a specific material, what is the value of its Poisson's ratio (\u03bc)?",
+        "options": {
+            "a": "0.10",
+            "b": "0.25",
+            "c": "0.33",
+            "d": "0.50"
+        },
+        "correct_answer": "c",
+        "explanation": "Using the relation: E = 3K(1 - 2\u03bc). Substituting E = K: K = 3K(1 - 2\u03bc)  \u2192  1 = 3 - 6\u03bc  \u2192  6\u03bc = 2  \u2192  \u03bc = 1/3 \u2248 0.33.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): A uniformly tapering circular rod evaluating elongation requires integration over its length.\nReason (R): The cross-sectional area changes continuously, meaning the stress and strain are not constant along the rod.",
+        "options": {
+            "a": "Both A and R true, R perfectly explains A",
+            "b": "Both A and R true, R doesn't explain A",
+            "c": "A is true, R is false",
+            "d": "A is false, R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Because Area A(x) is a function of length, stress \u03c3 = P/A(x) varies. Elongation depends on strain (\u03c3/E), meaning one must integrate (\u222b(P / A(x)E) dx) to find total extension.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Statement Combination",
+        "question": "Regarding the Modulus of Resilience, which statements are correct?\n1. It is the strain energy stored per unit volume up to the elastic limit.\n2. It represents the material's capacity to absorb energy without permanent deformation.\n3. It is represented by the entire area under the full stress-strain curve up to fracture.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "Statement 3 describes 'Toughness' (energy to fracture). 'Resilience' strictly pertains to energy absorbed solely within the elastic range up to the elastic limit.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Match the Following",
+        "question": "Match the mechanical property (List I) to its defining behavior (List II):\nList I \nP. Ductility \nQ. Malleability \nR. Brittleness \nList II \n1. Fails without significant yielding \n2. Can be drawn out into thin wires comprehensively \n3. Can be flattened into thin sheets compressively",
+        "options": {
+            "a": "P-2, Q-3, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-3, Q-1, R-2",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "a",
+        "explanation": "Ductility is purely tensile elongation (wires). Malleability is compressive flattening (sheets/foils). Brittleness implies lack of plastic deformation before fracture.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based MCQ",
+        "question": "The property of a highly stressed material to undergo progressive slow plastic deformation over a prolonged period under constant load at elevated temperatures is known as:",
+        "options": {
+            "a": "Fatigue",
+            "b": "Creep",
+            "c": "Relaxation",
+            "d": "Resilience"
+        },
+        "correct_answer": "b",
+        "explanation": "Creep is the time-dependent, slow, permanent plastic deformation of materials under constant uniform stress, severely accelerated by high temperatures.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical / Problem-based",
+        "question": "A tapering bar uniformly changes in diameter from d1 to d2 over length L. The elongation under axial pull P is given by:",
+        "options": {
+            "a": "4PL / (\u03c0 E d1 d2)",
+            "b": "PL / (\u03c0 E d1 d2)",
+            "c": "4PL / (\u03c0 E (d1+d2)\u00b2)",
+            "d": "PL / (E (d1\u00b2-d2\u00b2))"
+        },
+        "correct_answer": "a",
+        "explanation": "Standard derived result from integration: \u0394L = \u222b(4Pdx) / (\u03c0 * Dx\u00b2 * E). Yields \u0394L = 4PL / (\u03c0 E d1 d2).",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Diagram-based",
+        "question": "If a composite bar made of two different metals (Copper and Steel) is rigidly attached at the ends and uniformly heated, the metal with the higher coefficient of thermal expansion (\u03b1) will be subjected to:",
+        "options": {
+            "a": "Tensile stress",
+            "b": "Compressive stress",
+            "c": "Zero stress",
+            "d": "Bending stress only"
+        },
+        "correct_answer": "b",
+        "explanation": "Copper (\u03b1_c) wants to expand more than Steel (\u03b1_s). Because they are locked together, the steel severely restricts the copper's full expansion, forcing the copper into compression while the copper pulls the steel into tension.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based MCQ",
+        "question": "What happens to the volume of a perfectly incompressible material (like rubber) under axial tension?",
+        "options": {
+            "a": "Volume increases",
+            "b": "Volume decreases",
+            "c": "Volume exactly remains constant",
+            "d": "Volume initially increases then decreases"
+        },
+        "correct_answer": "c",
+        "explanation": "A perfectly incompressible material has Poisson's ratio \u03bc = 0.5. Volumetric strain \u03b5v = \u03b5L(1 - 2\u03bc). If \u03bc = 0.5, \u03b5v = 0, meaning the overall volume strictly remains constant.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): Fatigue failure in metals occurs well below the ultimate tensile strength.\nReason (R): Fatigue is caused by the micro-initiation and propagation of tiny cracks due to repeated cyclic or fluctuating loading.",
+        "options": {
+            "a": "Both A and R true, R explains A",
+            "b": "Both A and R true, R doesn't explain A",
+            "c": "A is true, R is false",
+            "d": "A is false, R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Under cyclic loading, microscopic stress concentrations initiate cracks that propagate slowly over millions of cycles, leading to sudden failure at macroscopic stress levels far below the static yield strength.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical / Problem-based",
+        "question": "The theoretical maximum strain energy stored in a body without permanent deformation is known as Proof Resilience. For a linearly elastic material, Proof Resilience is mathematically given by:",
+        "options": {
+            "a": "(\u03c3_yield\u00b2 / 2E) * Volume",
+            "b": "(\u03c3_yield / 2E) * Volume",
+            "c": "(\u03c3_yield\u00b2 / E) * Volume",
+            "d": "(\u03c3_yield / E\u00b2) * Volume"
+        },
+        "correct_answer": "a",
+        "explanation": "Strain Energy (U) = \u00bd * Stress * Strain * Volume = \u00bd * \u03c3 * (\u03c3/E) * V = (\u03c3\u00b2 / 2E) * Volume. Maximizing this to the yield point (\u03c3_y) gives the Proof Resilience.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Statement Combination",
+        "question": "Which concepts universally apply strictly to a Compound Bar (Bars perfectly in parallel)?\n1. Both bars undergo exactly the same overall change in length (same strain).\n2. The total applied load is shared among the bars.\n3. The stress in both bars is strictly identical.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "In parallel compound bars, they must elongate equally to remain joined (same \u0394L and strain). The load is shared based on their physical stiffnesses, resulting in DIFFERENT stresses if their Moduli of Elasticity (E) differ.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Match the Following",
+        "question": "Match Stresses (List I) generated by respective applied load types (List II):\nList I \nP. Normal Stress \nQ. Shear Stress \nR. Bearing Stress \nList II \n1. Internal structural resistance to localized highly compressive crushing load \n2. Internal resistance to axial pull/push \n3. Internal resistance to tangential load cutting across section",
+        "options": {
+            "a": "P-2, Q-3, R-1",
+            "b": "P-1, Q-2, R-3",
+            "c": "P-3, Q-1, R-2",
+            "d": "P-2, Q-1, R-3"
+        },
+        "correct_answer": "a",
+        "explanation": "Normal answers axial forces. Shear fields tangential forces. Bearing explicitly relates to localized compressive crushing (e.g., between a bolt and plate hole).",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Theory-based MCQ",
+        "question": "For a linearly elastic, isotropic homogeneous material, the absolute number of independent elastic constants required to fully define its behavior is:",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "correct_answer": "b",
+        "explanation": "While 4 constants exist (E, G, K, \u03bc), they are heavily interrelated by explicit mathematical formulas. Only any TWO independent constants are required to compute the remaining two.",
+        "difficulty": "Medium"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Assertion\u2013Reason",
+        "question": "Assertion (A): Suddenly applied dynamic loads produce precisely double the strict maximum stress compared to static loads applied gradually.\nReason (R): The total strain kinetic energy absorbed from a sudden load physically matches the maximum area of the resilience triangle (1/2 * \u03c3 * \u03b5).",
+        "options": {
+            "a": "Both A and R true, R explains A",
+            "b": "Both A and R true, R doesn't explain A",
+            "c": "A is true, R is false",
+            "d": "A is false, R is true"
+        },
+        "correct_answer": "a",
+        "explanation": "Work done by sudden load W is W * \u0394. Internal Strain Energy = \u00bd * F_max * \u0394. Equating them gives F_max = 2W. Therefore, sudden dynamic stress is always exactly double the gradual equivalent static stress.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Numerical / Problem-based",
+        "question": "A volumetric strain of a rectangular block subjected to three mutually perpendicular tensile stresses (\u03c3x, \u03c3y, \u03c3z) is accurately given by:",
+        "options": {
+            "a": "(1/E) * [\u03c3x+\u03c3y+\u03c3z] * (1 - 2\u03bc)",
+            "b": "(1/E) * [\u03c3x-\u03c3y-\u03c3z] * (1 - \u03bc)",
+            "c": "(\u03c3x+\u03c3y+\u03c3z) / 3K",
+            "d": "Both a and c"
+        },
+        "correct_answer": "d",
+        "explanation": "By basic superposition of Hooke's Law strains in 3 dimensions, \u03b5v = (\u03c3x+\u03c3y+\u03c3z)(1-2\u03bc)/E. Furthermore, (\u03c3x+\u03c3y+\u03c3z)/3 is defined as the mean volumetric stress, dividing by K (bulk modulus) equates to Volumetric strain \u03b5v. Both A and C are mathematically identical representations.",
+        "difficulty": "Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Stresses and Strains",
+        "type": "Statement Combination",
+        "question": "Identify genuine properties of the ultimate tensile strength (UTS):\n1. It is the absolute highest point on the engineering stress-strain curve.\n2. Specimen necking physically begins strictly at this point for ductile metals.\n3. It represents true material fracture.",
+        "options": {
+            "a": "1 and 2 only",
+            "b": "2 and 3 only",
+            "c": "1 and 3 only",
+            "d": "1, 2, and 3"
+        },
+        "correct_answer": "a",
+        "explanation": "UTS is the peak of the engineering curve. After UTS, macroscopic uniform elongation ceases, and localized severe 'necking' begins, decreasing the load required to continue stretching until fracture occurs at a lower engineering stress.",
+        "difficulty": "Medium"
+    }
+]

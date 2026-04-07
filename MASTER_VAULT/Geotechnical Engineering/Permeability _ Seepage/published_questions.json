@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Which one of the following is the wrong statement about sprinkler system of irrigation? The advantages of sprinkler irrigation are:",
+        "options": {
+            "a": "there is no seepage loss.",
+            "b": "land leveling is not required.",
+            "c": "it leaches down salt and prevents waterlogging.",
+            "d": "it is ideally suited for paddy field."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Which one of the following is wrong statement about boulder lining of canals?",
+        "options": {
+            "a": "It helps in retaining the shape of canal section.",
+            "b": "It prevents seepage of canal water.",
+            "c": "Rounded or sub-angular river cobbles are preferred for such works.",
+            "d": "Blasted rock pieces with sufficient base area are ideal for such works."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The property of soil which permits the seepage of water is known as",
+        "options": {
+            "a": "porosity",
+            "b": "capillarity",
+            "c": "permeability",
+            "d": "viscocity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Seepage velocity Vs and flow velocity v are related as",
+        "options": {
+            "a": "Vs =",
+            "b": "Vs = vn",
+            "c": "Vs =",
+            "d": "Vs = ve"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Coefficient of percolation and coefficient of permeability are related as",
+        "options": {
+            "a": "kp =",
+            "b": "kp =",
+            "c": "kp = nk",
+            "d": "kp = ek"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The coefficient of permeability of gravel is",
+        "options": {
+            "a": "between 1 and 100 cm/sec",
+            "b": "between 0.001 and 1 cm/sec",
+            "c": "between 1 \u00d7 10\u20136 and 1 \u00d7 10\u20133 cm/sec",
+            "d": "less than 10\u20136 cm/sec"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The coefficient of permeability of clay is not more than",
+        "options": {
+            "a": "1 cm/sec",
+            "b": "1 \u00d7 10\u20132 cm/sec",
+            "c": "1 \u00d7 10\u20134 cm/sec",
+            "d": "1 \u00d7 10\u20136 cm/sec"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The permeability of a soil sample may be determined by ______ water level method.",
+        "options": {
+            "a": "constant",
+            "b": "falling",
+            "c": "rising",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "For coarse grained soil the coefficient of permeability k and void ratio e the following relation is generally true:",
+        "options": {
+            "a": "k \u00d7 e",
+            "b": "k \u00d7 e2",
+            "c": "k \u00d7",
+            "d": "k \u00d7"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Permeability is greatly affected by",
+        "options": {
+            "a": "direction of stratification",
+            "b": "cracks",
+            "c": "warping of layers",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "If the direction of flow of water is parallel to the planes of stratification, the permeability is ______ times more than in a direction perpendicular to them.",
+        "options": {
+            "a": "2 to 10",
+            "b": "2 to 20",
+            "c": "2 to 30",
+            "d": "2 to 40"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The average velocity of flow that will take place through the total cross-sectional area of soil under unit hydraulic gradient is known as",
+        "options": {
+            "a": "uniformity coefficient",
+            "b": "coefficient of permeability",
+            "c": "Stokes\u2019 coefficient",
+            "d": "Darcy\u2019s coefficient"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "In a flow net, flow lines and equipotential lines",
+        "options": {
+            "a": "are parallel to each other",
+            "b": "are perpendicular to each other",
+            "c": "intersect each other at 90\u00b0",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Flow net is useful in determining",
+        "options": {
+            "a": "seepage",
+            "b": "uplift pressure",
+            "c": "exit gradient",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The combined effect of permeability and compressibility of a soil on the rate of volume change is given by",
+        "options": {
+            "a": "coefficient of volume compressibility",
+            "b": "coefficient of permeability",
+            "c": "coefficient of consolidation",
+            "d": "compaction factor"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Degree of compaction depends upon",
+        "options": {
+            "a": "thickness of clay layer",
+            "b": "coefficient of permeability",
+            "c": "coefficient of consolidation",
+            "d": "all the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Coefficient of permeability is highest in",
+        "options": {
+            "a": "clean gravel",
+            "b": "sand",
+            "c": "silt",
+            "d": "clay"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Coefficient of permeability is least in",
+        "options": {
+            "a": "sand",
+            "b": "clay",
+            "c": "silty sand",
+            "d": "silt"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Unit of coefficient of permeability is",
+        "options": {
+            "a": "dimensionless",
+            "b": "m3",
+            "c": "m3/day",
+            "d": "m3/day/m2"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Which one of the following is the correct statement? A disinfectant",
+        "options": {
+            "a": "damages cell wall of micro-organisms",
+            "b": "alterates cell permeability",
+            "c": "changes the colloidal nature of cell protoplasm",
+            "d": "removes microorganisms"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The velocity of water which neither scours nor silts the channels is known as critical velocity of flow. The relation given by Kennedy for critical velocity (Vo) in m/s is Vo\t =\t 0.55 m D0.64 where m\t =\t Critical velocity ratio, and D\t =\t Depth of water over the bed portion of a channel in metres. The following are some serious defects in Kennedy\u2019s theory:",
+        "options": {
+            "a": "Inadequate drainage facilities;",
+            "b": "Over and intensive irrigation;",
+            "c": "Presence of impermeable strata;",
+            "d": "Seepage from canals;"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Which one of the following is the wrong statement about sprinkler system of irrigation? The advantages of sprinkler irrigation are: [Set Variant 1]",
+        "options": {
+            "a": "there is no seepage loss.",
+            "b": "land leveling is not required.",
+            "c": "it leaches down salt and prevents waterlogging.",
+            "d": "it is ideally suited for paddy field."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Which one of the following is wrong statement about boulder lining of canals? [Set Variant 2]",
+        "options": {
+            "a": "It helps in retaining the shape of canal section.",
+            "b": "It prevents seepage of canal water.",
+            "c": "Rounded or sub-angular river cobbles are preferred for such works.",
+            "d": "Blasted rock pieces with sufficient base area are ideal for such works."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "The property of soil which permits the seepage of water is known as [Set Variant 3]",
+        "options": {
+            "a": "porosity",
+            "b": "capillarity",
+            "c": "permeability",
+            "d": "viscocity"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Geotechnical Engineering",
+        "subcategory": "Permeability & Seepage",
+        "question": "Seepage velocity Vs and flow velocity v are related as [Set Variant 4]",
+        "options": {
+            "a": "Vs =",
+            "b": "Vs = vn",
+            "c": "Vs =",
+            "d": "Vs = ve"
+        },
+        "correct_answer": "a"
+    }
+]

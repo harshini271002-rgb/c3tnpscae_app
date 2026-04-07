@@ -1,0 +1,327 @@
+[
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Flexible pavement distributes the wheel load",
+        "options": {
+            "a": "through structural action",
+            "b": "through a set of layers grain by grain",
+            "c": "directly to sub-grade",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "For the design of flexible pavement Indian Road Congress recommends",
+        "options": {
+            "a": "trained test method",
+            "b": "Group Index method",
+            "c": "CBR method",
+            "d": "Burmister method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "For the purpose of designing flexible pavement IRC traffic is divided into ______ categories.",
+        "options": {
+            "a": "3",
+            "b": "5",
+            "c": "7",
+            "d": "9"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Expansion joints in rigid pavements should not be more than",
+        "options": {
+            "a": "10 mm",
+            "b": "15 mm",
+            "c": "20 mm",
+            "d": "25 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "If the width of a rigid pavement is more than ______ longitudinal joints are required.",
+        "options": {
+            "a": "3 m",
+            "b": "4.5 m",
+            "c": "6 m",
+            "d": "8 m"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "In case of 150 mm thick rigid pavements, spacing of dowel bars should not exceed",
+        "options": {
+            "a": "150 mm",
+            "b": "200 mm",
+            "c": "250 mm",
+            "d": "300 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "In case of 200 mm thick rigid pavement spacing of dowel bars can be as high as",
+        "options": {
+            "a": "200 mm",
+            "b": "250 mm",
+            "c": "300 mm",
+            "d": "400 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Longitudinal joints in rigid pavements should be of",
+        "options": {
+            "a": "tongue and groove type",
+            "b": "butt type",
+            "c": "weakened plate type",
+            "d": "all of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "After dry rolling and wet rolling ______ thick sandy clay is spread and rolled in case of WBM road construction.",
+        "options": {
+            "a": "6 mm",
+            "b": "12 mm",
+            "c": "18 mm",
+            "d": "24 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "In WBM road construction ______ tonne rollers are used.",
+        "options": {
+            "a": "4 \u2013 5",
+            "b": "6 \u2013 10",
+            "c": "10 \u2013 15",
+            "d": "20 \u2013 24"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "A water bound macadam road is an example of",
+        "options": {
+            "a": "rigid pavement",
+            "b": "semi-rigid pavement",
+            "c": "flexible pavement",
+            "d": "none of these"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Which of the following statement is correct ?",
+        "options": {
+            "a": "\u0007The sub-grade strength has only little influence",
+            "b": "The major factor in the design of rigid pavements",
+            "c": "\u0007The temperature variations due to changes in",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "The flexible pavement distribute the wheel load",
+        "options": {
+            "a": "directly to sub-grade",
+            "b": "through a set of layers to sub-grade",
+            "c": "through structural action",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "The flexible pavements have self-healing properties.",
+        "options": {
+            "a": "Right",
+            "b": "Wrong",
+            "c": "",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "The cost of construction of rigid pavements is ................. as compared to flexible pavements.",
+        "options": {
+            "a": "same",
+            "b": "less",
+            "c": "more",
+            "d": ""
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Which of the following items is not considered while designing rigid pavements?",
+        "options": {
+            "a": "Centre of the panel",
+            "b": "Edge of the panel",
+            "c": "Corner of the panel",
+            "d": "Dowel bar between edges"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "The universally recognized factor which affects the flexible pavement design, is the",
+        "options": {
+            "a": "characteristics of the natural soil which underlies",
+            "b": "volume and character of traffic that will use the",
+            "c": "drainage condition of the area",
+            "d": "all of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Which of the following method is recommended by I.R.C. for design of flexible pavement ?",
+        "options": {
+            "a": "Group index method",
+            "b": "CBR method",
+            "c": "Westergaard method",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "The group index method of designing flexible pavement is",
+        "options": {
+            "a": "an empirical method based on the physical",
+            "b": "an empirical method based on the strength",
+            "c": "a semi-empirical method",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "The minimum thickness of the base of a flexible pavement is kept as",
+        "options": {
+            "a": "5 cm",
+            "b": "10 cm",
+            "c": "15 cm",
+            "d": "20 cm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Flexible pavement distributes the wheel load [Set Variant 1]",
+        "options": {
+            "a": "through structural action",
+            "b": "through a set of layers grain by grain",
+            "c": "directly to sub-grade",
+            "d": "none of the above"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "For the design of flexible pavement Indian Road Congress recommends [Set Variant 2]",
+        "options": {
+            "a": "trained test method",
+            "b": "Group Index method",
+            "c": "CBR method",
+            "d": "Burmister method"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "For the purpose of designing flexible pavement IRC traffic is divided into ______ categories. [Set Variant 3]",
+        "options": {
+            "a": "3",
+            "b": "5",
+            "c": "7",
+            "d": "9"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "Expansion joints in rigid pavements should not be more than [Set Variant 4]",
+        "options": {
+            "a": "10 mm",
+            "b": "15 mm",
+            "c": "20 mm",
+            "d": "25 mm"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "type": "objective",
+        "subject": "Urban & Transportation Engineering",
+        "subcategory": "Pavement Design (Flexible & Rigid)",
+        "question": "If the width of a rigid pavement is more than ______ longitudinal joints are required. [Set Variant 5]",
+        "options": {
+            "a": "3 m",
+            "b": "4.5 m",
+            "c": "6 m",
+            "d": "8 m"
+        },
+        "correct_answer": "a"
+    }
+]

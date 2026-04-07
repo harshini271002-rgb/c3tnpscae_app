@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Assertion-Reason",
+        "question": "[Friction Advanced Check #1] Assertion (A): Rolling friction is significantly less than sliding friction.\nReason (R): In pure rolling, there is no relative macroscopic slip between the contact surfaces.",
+        "options": {
+            "a": "A is true, but R is false",
+            "b": "A is false, but R is true",
+            "c": "Both A and R are true, and R is the correct explanation of A",
+            "d": "Both A and R are true, but R is not the correct explanation of A"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based",
+        "question": "[Friction Advanced Check #2] The angle of repose on an inclined plane is perfectly equal to the:",
+        "options": {
+            "a": "Angle of inclination",
+            "b": "Angle of internal friction",
+            "c": "Angle of friction",
+            "d": "Angle of twist"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Theory-based",
+        "question": "[Friction Advanced Check #3] The maximum limiting friction is reached exactly when a body is:",
+        "options": {
+            "a": "Accelerating",
+            "b": "At absolute rest",
+            "c": "Moving with constant velocity",
+            "d": "Just on the verge of moving"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #4] A block of weight 130 N rests on a horizontal plane. If the coefficient of static friction is 0.35, the limiting friction force is:",
+        "options": {
+            "a": "130.0 N",
+            "b": "371.43 N",
+            "c": "45.5 N",
+            "d": "68.25 N"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #5] If the coefficient of friction between two surfaces is 0.6, the angle of friction will be exactly:",
+        "options": {
+            "a": "37.15\u00b0",
+            "b": "30.96\u00b0",
+            "c": "53.13\u00b0",
+            "d": "24.77\u00b0"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #6] What is the minimum horizontal force strictly required to just pull a body of 75 N weight over a horizontal surface (\u03bc = 0.25)?",
+        "options": {
+            "a": "28.75 N",
+            "b": "18.75 N",
+            "c": "56.25 N",
+            "d": "300.0 N"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #7] A block of weight 160 N rests on a horizontal plane. If the coefficient of static friction is 0.25, the limiting friction force is:",
+        "options": {
+            "a": "60.0 N",
+            "b": "40.0 N",
+            "c": "160.0 N",
+            "d": "640.0 N"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #8] If the coefficient of friction between two surfaces is 0.3, the angle of friction will be exactly:",
+        "options": {
+            "a": "72.54\u00b0",
+            "b": "16.7\u00b0",
+            "c": "20.04\u00b0",
+            "d": "13.36\u00b0"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #9] What is the minimum horizontal force strictly required to just pull a body of 90 N weight over a horizontal surface (\u03bc = 0.25)?",
+        "options": {
+            "a": "360.0 N",
+            "b": "67.5 N",
+            "c": "22.5 N",
+            "d": "32.5 N"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #10] A block of weight 190 N rests on a horizontal plane. If the coefficient of static friction is 0.4, the limiting friction force is:",
+        "options": {
+            "a": "76.0 N",
+            "b": "475.0 N",
+            "c": "190.0 N",
+            "d": "114.0 N"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #11] If the coefficient of friction between two surfaces is 0.6, the angle of friction will be exactly:",
+        "options": {
+            "a": "37.15\u00b0",
+            "b": "53.13\u00b0",
+            "c": "24.77\u00b0",
+            "d": "30.96\u00b0"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #12] What is the minimum horizontal force strictly required to just pull a body of 105 N weight over a horizontal surface (\u03bc = 0.25)?",
+        "options": {
+            "a": "26.25 N",
+            "b": "78.75 N",
+            "c": "36.25 N",
+            "d": "420.0 N"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #13] A block of weight 220 N rests on a horizontal plane. If the coefficient of static friction is 0.3, the limiting friction force is:",
+        "options": {
+            "a": "66.0 N",
+            "b": "99.0 N",
+            "c": "733.33 N",
+            "d": "220.0 N"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #14] If the coefficient of friction between two surfaces is 0.3, the angle of friction will be exactly:",
+        "options": {
+            "a": "13.36\u00b0",
+            "b": "72.54\u00b0",
+            "c": "16.7\u00b0",
+            "d": "20.04\u00b0"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #15] What is the minimum horizontal force strictly required to just pull a body of 120 N weight over a horizontal surface (\u03bc = 0.25)?",
+        "options": {
+            "a": "90.0 N",
+            "b": "480.0 N",
+            "c": "30.0 N",
+            "d": "40.0 N"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #16] A block of weight 250 N rests on a horizontal plane. If the coefficient of static friction is 0.2, the limiting friction force is:",
+        "options": {
+            "a": "50.0 N",
+            "b": "75.0 N",
+            "c": "250.0 N",
+            "d": "1250.0 N"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #17] If the coefficient of friction between two surfaces is 0.6, the angle of friction will be exactly:",
+        "options": {
+            "a": "24.77\u00b0",
+            "b": "53.13\u00b0",
+            "c": "37.15\u00b0",
+            "d": "30.96\u00b0"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #18] What is the minimum horizontal force strictly required to just pull a body of 135 N weight over a horizontal surface (\u03bc = 0.25)?",
+        "options": {
+            "a": "43.75 N",
+            "b": "540.0 N",
+            "c": "33.75 N",
+            "d": "101.25 N"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #19] A block of weight 280 N rests on a horizontal plane. If the coefficient of static friction is 0.35, the limiting friction force is:",
+        "options": {
+            "a": "280.0 N",
+            "b": "800.0 N",
+            "c": "98.0 N",
+            "d": "147.0 N"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #20] If the coefficient of friction between two surfaces is 0.3, the angle of friction will be exactly:",
+        "options": {
+            "a": "13.36\u00b0",
+            "b": "20.04\u00b0",
+            "c": "16.7\u00b0",
+            "d": "72.54\u00b0"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #21] What is the minimum horizontal force strictly required to just pull a body of 150 N weight over a horizontal surface (\u03bc = 0.25)?",
+        "options": {
+            "a": "112.5 N",
+            "b": "47.5 N",
+            "c": "37.5 N",
+            "d": "600.0 N"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #22] A block of weight 310 N rests on a horizontal plane. If the coefficient of static friction is 0.25, the limiting friction force is:",
+        "options": {
+            "a": "310.0 N",
+            "b": "116.25 N",
+            "c": "77.5 N",
+            "d": "1240.0 N"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #23] If the coefficient of friction between two surfaces is 0.6, the angle of friction will be exactly:",
+        "options": {
+            "a": "53.13\u00b0",
+            "b": "30.96\u00b0",
+            "c": "24.77\u00b0",
+            "d": "37.15\u00b0"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #24] What is the minimum horizontal force strictly required to just pull a body of 165 N weight over a horizontal surface (\u03bc = 0.25)?",
+        "options": {
+            "a": "660.0 N",
+            "b": "123.75 N",
+            "c": "51.25 N",
+            "d": "41.25 N"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Friction",
+        "type": "Numerical",
+        "question": "[Friction Advanced Check #25] A block of weight 340 N rests on a horizontal plane. If the coefficient of static friction is 0.4, the limiting friction force is:",
+        "options": {
+            "a": "136.0 N",
+            "b": "204.0 N",
+            "c": "850.0 N",
+            "d": "340.0 N"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]

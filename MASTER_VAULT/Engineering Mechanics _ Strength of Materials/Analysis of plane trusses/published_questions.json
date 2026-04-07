@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Formula-based",
+        "question": "[Analysis of plane trusses Advanced Check #1] A planar pin-jointed truss frame is conclusively considered 'perfect' (or statically determinate internally) absolutely only if the number of members (m) and joints (j) firmly satisfy:",
+        "options": {
+            "a": "m = 2j - 2",
+            "b": "m = 2j - 3",
+            "c": "m = j + 3",
+            "d": "m = 3j - 2"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Assertion-Reason",
+        "question": "[Analysis of plane trusses Advanced Check #2] Assertion (A): In a deterministic planar truss, if three members meet strictly at an unloaded joint and two of them are perfectly collinear, the internal physical force in the third member is identically zero.\nReason (R): The strict sum of all static forces acting perpendicularly to the two primary collinear members must naturally equate identically to zero for local joint equilibrium.",
+        "options": {
+            "a": "Both A and R are true, but R is not the correct explanation of A",
+            "b": "A is true, but R is false",
+            "c": "Both A and R are true, and R is the correct explanation of A",
+            "d": "A is false, but R is true"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Theory-based",
+        "question": "[Analysis of plane trusses Advanced Check #3] The advanced Method of Sections critically relies heavily on passing a mathematical cutting line completely through the physical truss and applying the strict equations of ____ to one of the structurally isolated cut halves.",
+        "options": {
+            "a": "Global equilibrium (\u03a3Fx=0, \u03a3Fy=0, \u03a3M=0)",
+            "b": "Kinematic Plasticity",
+            "c": "Joint continuity only",
+            "d": "Elastic Compatibility"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #4] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 8 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "13",
+            "b": "14",
+            "c": "14",
+            "d": "16"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #5] A highly complex heavy-duty bridge plane truss is composed of structurally 6 joints and rigidly contains exactly 10 steel members. This macroscopic structural frame is mathematically verified to be absolutely classified as:",
+        "options": {
+            "a": "A perfectly balanced structural mechanism",
+            "b": "A perfectly rigid and deterministic standard perfect truss",
+            "c": "A hyper-deficient and dangerously unstable continuous frame",
+            "d": "A redundant (statically indeterminate) framework"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #6] When executing the rigorous 'Method of Joints' on a very large planar roof truss consisting of 12 joints, the absolute total absolute number of strictly independent static equilibrium equations generated physically for the entire closed system is exactly:",
+        "options": {
+            "a": "36",
+            "b": "21",
+            "c": "12",
+            "d": "24"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #7] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 6 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "9",
+            "b": "10",
+            "c": "10",
+            "d": "12"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #8] A highly complex heavy-duty bridge plane truss is composed of structurally 9 joints and rigidly contains exactly 16 steel members. This macroscopic structural frame is mathematically verified to be absolutely classified as:",
+        "options": {
+            "a": "A perfectly rigid and deterministic standard perfect truss",
+            "b": "A hyper-deficient and dangerously unstable continuous frame",
+            "c": "A redundant (statically indeterminate) framework",
+            "d": "A perfectly balanced structural mechanism"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #9] When executing the rigorous 'Method of Joints' on a very large planar roof truss consisting of 12 joints, the absolute total absolute number of strictly independent static equilibrium equations generated physically for the entire closed system is exactly:",
+        "options": {
+            "a": "12",
+            "b": "36",
+            "c": "21",
+            "d": "24"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #10] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 9 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "18",
+            "b": "15",
+            "c": "16",
+            "d": "16"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #11] A highly complex heavy-duty bridge plane truss is composed of structurally 8 joints and rigidly contains exactly 14 steel members. This macroscopic structural frame is mathematically verified to be absolutely classified as:",
+        "options": {
+            "a": "A hyper-deficient and dangerously unstable continuous frame",
+            "b": "A redundant (statically indeterminate) framework",
+            "c": "A perfectly rigid and deterministic standard perfect truss",
+            "d": "A perfectly balanced structural mechanism"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #12] When executing the rigorous 'Method of Joints' on a very large planar roof truss consisting of 12 joints, the absolute total absolute number of strictly independent static equilibrium equations generated physically for the entire closed system is exactly:",
+        "options": {
+            "a": "36",
+            "b": "21",
+            "c": "12",
+            "d": "24"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #13] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 7 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "12",
+            "b": "12",
+            "c": "11",
+            "d": "14"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #14] A highly complex heavy-duty bridge plane truss is composed of structurally 7 joints and rigidly contains exactly 12 steel members. This macroscopic structural frame is mathematically verified to be absolutely classified as:",
+        "options": {
+            "a": "A perfectly rigid and deterministic standard perfect truss",
+            "b": "A redundant (statically indeterminate) framework",
+            "c": "A perfectly balanced structural mechanism",
+            "d": "A hyper-deficient and dangerously unstable continuous frame"
+        },
+        "correct_answer": "b",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #15] When executing the rigorous 'Method of Joints' on a very large planar roof truss consisting of 12 joints, the absolute total absolute number of strictly independent static equilibrium equations generated physically for the entire closed system is exactly:",
+        "options": {
+            "a": "21",
+            "b": "36",
+            "c": "24",
+            "d": "12"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #16] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 5 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "8",
+            "b": "10",
+            "c": "7",
+            "d": "8"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #17] A highly complex heavy-duty bridge plane truss is composed of structurally 6 joints and rigidly contains exactly 10 steel members. This macroscopic structural frame is mathematically verified to be absolutely classified as:",
+        "options": {
+            "a": "A redundant (statically indeterminate) framework",
+            "b": "A perfectly balanced structural mechanism",
+            "c": "A hyper-deficient and dangerously unstable continuous frame",
+            "d": "A perfectly rigid and deterministic standard perfect truss"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #18] When executing the rigorous 'Method of Joints' on a very large planar roof truss consisting of 12 joints, the absolute total absolute number of strictly independent static equilibrium equations generated physically for the entire closed system is exactly:",
+        "options": {
+            "a": "36",
+            "b": "12",
+            "c": "24",
+            "d": "21"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #19] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 8 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "14",
+            "b": "16",
+            "c": "14",
+            "d": "13"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #20] A highly complex heavy-duty bridge plane truss is composed of structurally 9 joints and rigidly contains exactly 16 steel members. This macroscopic structural frame is mathematically verified to be absolutely classified as:",
+        "options": {
+            "a": "A perfectly rigid and deterministic standard perfect truss",
+            "b": "A perfectly balanced structural mechanism",
+            "c": "A hyper-deficient and dangerously unstable continuous frame",
+            "d": "A redundant (statically indeterminate) framework"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #21] When executing the rigorous 'Method of Joints' on a very large planar roof truss consisting of 12 joints, the absolute total absolute number of strictly independent static equilibrium equations generated physically for the entire closed system is exactly:",
+        "options": {
+            "a": "24",
+            "b": "12",
+            "c": "21",
+            "d": "36"
+        },
+        "correct_answer": "a",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #22] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 6 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "10",
+            "b": "10",
+            "c": "9",
+            "d": "12"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #23] A highly complex heavy-duty bridge plane truss is composed of structurally 8 joints and rigidly contains exactly 14 steel members. This macroscopic structural frame is mathematically verified to be absolutely classified as:",
+        "options": {
+            "a": "A hyper-deficient and dangerously unstable continuous frame",
+            "b": "A perfectly balanced structural mechanism",
+            "c": "A redundant (statically indeterminate) framework",
+            "d": "A perfectly rigid and deterministic standard perfect truss"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #24] When executing the rigorous 'Method of Joints' on a very large planar roof truss consisting of 12 joints, the absolute total absolute number of strictly independent static equilibrium equations generated physically for the entire closed system is exactly:",
+        "options": {
+            "a": "36",
+            "b": "12",
+            "c": "21",
+            "d": "24"
+        },
+        "correct_answer": "d",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    },
+    {
+        "subject": "Engineering Mechanics & Strength of Materials",
+        "subcategory": "Analysis of plane trusses",
+        "type": "Numerical",
+        "question": "[Analysis of plane trusses Advanced Check #25] To construct a structurally perfect and rigid plane truss architecture utilizing strictly 9 pin joints, exactly how many rigid distinct structural members (m) are critically required mathematically?",
+        "options": {
+            "a": "16",
+            "b": "16",
+            "c": "15",
+            "d": "18"
+        },
+        "correct_answer": "c",
+        "explanation": "Calculated based on standard Structural Mechanics engineering principles and formulas.",
+        "difficulty": "Ultra-Hard"
+    }
+]
